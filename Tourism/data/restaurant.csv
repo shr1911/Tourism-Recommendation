@@ -1,0 +1,1033 @@
+id, name, latitude, longitude, address, area, city,cost, rating, homedelivery, smoking, alcohol, wifi, valetparking, rooftop  
+0,Razzberry Rhinoceros,19.10298865,72.82551929,"JuhuHotel, 39/2, Juhu Tara, Juhu, Mumbai",Juhu,Mumbai,2500,3.5,no,yes,yes,yes,yes,no
+1,JLWA,19.06033885,72.83616632,"Linking Road, Bandra West3rd Floor, VN Sphere Turner,","Linking Road, Bandra West",Mumbai,1600,4.5,no,yes,yes,no,yes,no
+2,Tamasha,19.005862,72.827454,"Ground Floor, Victoria House, E.B Marg,Lower Parel, Mumbai",Lower Parel,Mumbai,1800,4.1,no,yes,yes,no,yes,no
+3,Joey's Pizza,19.17818233,72.83469178,"Shop 1, Plot D, Samruddhi Complex, Chincholi Bunder Road, Mindspace,Malad West, Mumbai",Malad West,Mumbai,800,4.6,yes,no,no,no,no,no
+4,HITCHKI,19.1198717,72.907044,"5, Transocean, Hiranandani Business Park, Lake Boulevard Road,Powai, Mumbai",Powai,Mumbai,1200,4,no,yes,yes,yes,yes,no
+5,1 Above,19.00468947,72.82636285,"Floor 2, Kamala Trade House, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel,Mumbai,3000,4.1,no,yes,yes,no,yes,no
+6,Bombay Adda,19.07576139,72.83429984,"8th Floor, Nike Showroom Showroom Linking Road,Santacruz West, Mumbai",Santacruz West,Mumbai,1800,3.9,no,yes,yes,yes,yes,yes
+7,Ab Celestial,19.04447688,72.82802615,"Reclamation, Bandra WestBandra - Worli Sea Link,","Reclamation, Bandra West",Mumbai,5000,3.7,no,no,yes,no,no,yes
+8,The Stadium Bar,19.17431322,72.84460019,"3rd Floor, DLH Park, Near MTNL Signal,Swami Vivekanand Road, Sunder Nagar,Goregaon West, Mumbai",Goregaon West,Mumbai,1850,3.8,no,yes,yes,yes,yes,no
+9,Prithvi Cafe,19.1061732,72.8258492,"Prithvi Theatre, Janki Kutir,JuhuChurch Road, Juhu, Mumbai",Juhu,Mumbai,700,4.5,no,no,no,no,no,no
+10,BKC | DIVE.,19.072703,72.870102,"Ground floor, Pinnacle Corporate Park, Next to Trade Centre, Opposite MTNL Office,Bandra Kurla Complex, Mumbai - 400051",Bandra Kurla Complex,Mumbai,1000,4,yes,yes,yes,no,no,no
+11,Mirchi And Mime,19.1198814,72.9070007,"Transocean House, Lake Boulevard, Hiranandani Business Park,Powai, Mumbai",Powai,Mumbai,1500,4.9,no,no,yes,no,yes,no
+12,Aer - Four Seasons,18.9939135,72.8201592,"Four Seasons Hotel, 1/136, E Moses Road,Worli, Mumbai",Worli,Mumbai,4000,4.4,no,yes,no,yes,yes,no
+13,Jimis Burger,19.13955814,72.83338185,"Andheri Lokhandwala, Andheri WestShop B2, Shree Siddhivinayak Plaza, Off link Road, Opposite Citi Mall,","Andheri Lokhandwala, Andheri West",Mumbai,700,4.4,yes,no,no,no,no,no
+14,145 Bandra,19.060312,72.82943,"Pali Hill, Bandra West1st floor, HSBC Building, Off Turner Road,","Pali Hill, Bandra West",Mumbai,1400,4.1,no,yes,yes,yes,yes,no
+15,Barrel & Co,19.13500236,72.8321876,"Ground Floor, Kotia Nirman, Near Fun Republic, New Link Road,Veera Desai Area, Mumbai",Veera Desai Area,Mumbai,1800,3.9,no,no,yes,yes,yes,no
+16,Raasta,19.06826926,72.83803146,"4/5 Floor, Rohan Plaza, Ram Krishan Nagar, Road 5,Khar, Mumbai",Khar,Mumbai,1500,4.1,yes,yes,yes,no,yes,yes
+17,Boardwalk by Flamboyante,18.806071,72.882511,"Mandwa Jetty Road, Mandvi,Alibaug, Mumbai",Alibaug,Mumbai,2000,3.6,no,yes,yes,yes,no,no
+18,Bombay Cocktail Bar,19.13842958,72.83323634,"Andheri Lokhandwala, Andheri WestDeluxe House, Ground Floor, Plot B-50, Opposite New Link Road,","Andheri Lokhandwala, Andheri West",Mumbai,1500,4,no,no,yes,no,no,no
+19,Glocal Junction,18.989243,72.815088,"Ground Floor, Nehru Centre, Dr. Annie Besant Road, Opposite Nehru Planitorium,Worli, Mumbai",Worli,Mumbai,1500,4.2,yes,yes,yes,yes,yes,no
+20,A Bar Called Life,19.1157307,72.82789003,"30, Devle Road, Near Chandan Police Choky,JuhuCircle, Juhu, Mumbai",Juhu,Mumbai,1400,4.2,no,yes,yes,no,yes,no
+21,Pizza By The Bay,18.93341116,72.82394987,"143, Soona Mahal, Marine Drive,Churchgate, Mumbai",Churchgate,Mumbai,2000,4,yes,no,yes,no,yes,no
+22,Global Fusion,19.10743126,72.88293332,"B 1, Times Square Tech Park, Andheri Kurla Road, Sakinaka Junction, Andheri East,Marol, Mumbai",Marol, Mumbai,3500,4.3,no,no,yes,no,yes,no
+23,Farzi Cafe,19.0035172,72.82764997,"Kamala Mills, Near Radio Mirchi Office,Lower Parel, Mumbai",Lower Parel, Mumbai,1500,4.2,no,no,yes,no,yes,no
+24,Opa! Bar & Cafe - The Peninsula Grand Hotel,19.10235016,72.88862997,"Hotel Peninsula Grand, Rooftop, OppositeSakinakaMetro Station, Andheri Airport Road, Sakinaka, Mumbai",Sakinaka, Andheri Airport Road,1700,3.9,no,yes,yes,no,yes,yes
+25,ESTELLA,19.091441,72.8253121,"Ground Floor, Nichani Kutir Building, Opposite HDFC Bank,JuhuTara Road, Juhu, Mumbai",Juhu, Juhu,2500,4.6,no,yes,yes,yes,yes,no
+26,Sigree Global Grill,19.11633861,72.90992606,"101, 1st Floor, Ventura Building, Hiranandani Business Park, Central Avenue Road,Powai, Mumbai",Powai, Mumbai,2000,3.9,yes,no,yes,no,no,no
+27,Yauatcha,19.0611141,72.8627174,"Raheja Towers,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,2800,4.5,no,yes,yes,no,yes,no
+28,Mojo's Bistro,19.00405895,72.82717656,"Level 2, Kamla Trade House, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,1200,4.3,no,yes,yes,no,yes,yes
+29,The Bandra Project by PizzaExpress,19.060416,72.829326,"Pali Hill, Bandra WestC – 534A, Ground Floor, HSBC Building, Dr. Ambedkar Road,","Pali Hill, Bandra West", Mumbai,1600,4.2,yes,no,yes,no,yes,no
+30,Kube,19.130785,72.831045,"Andheri Lokhandwala, Andheri WestFloor 5, Crystal Point Mall, Azad Nagar, Link Road,","Andheri Lokhandwala, Andheri West", Mumbai,1500,4.1,no,yes,yes,yes,yes,yes
+31,Verbena - BrewPub & SkyGarden,19.0058883,72.8264494,"4th Floor, Trade View Building, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,3.8,no,yes,yes,yes,yes,yes
+32,Dome - InterContinental,18.9349204,72.82411013,"Hotel InterContinental, 135,Churchgate, Mumbai",Churchgate, Mumbai,3500,4.1,no,yes,yes,no,yes,yes
+33,R' ADDA,19.1093,72.825451,"Ramee Guestline Hotel, 462, A B Nair Road,Juhu, Mumbai",Juhu, Mumbai,1200,4,no,yes,yes,yes,yes,no
+34,Keventers,19.07068989,72.82289475,"Carter Road, Bandra WestShop 9, Building B, Gagangiri Premises Co-Operative Society Ltd.,","Carter Road, Bandra West", Mumbai,200,3.8,no,no,no,no,no,no
+35,Toit Brewery - Taproom & Kitchen,19.00067,72.829748,"Mathuradas Mill Compound, Senapati Bapat Marg, Lower ParelMumbai,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,3.6,no,yes,yes,yes,yes,no
+36,Rude Lounge,19.11329046,72.90937386,"8th Floor, B Wing, Supreme Business Park, Hiranandani Gardens,Powai, Mumbai",Powai, Mumbai,1600,3.7,no,yes,yes,no,yes,no
+37,The Bombay Canteen,19.00316849,72.82763891,"Ground Floor, Process House, Kamala Mills Compound, Near Radio Mirchi Office, S.B. Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,4.2,no,no,yes,no,yes,no
+38,Door No.1 - The Retro Bar,19.04911818,72.8286605,"Reclamation, Bandra WestShop 1 and 2 , Ankleshwar, ONGC  Colony,","Reclamation, Bandra West", Mumbai,1500,4,no,yes,yes,yes,yes,no
+39,Masala Library,19.0689644,72.8696999,"Ground Floor, First International Financial Centre,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,5000,4.9,no,no,yes,no,yes,no
+40,FLYP@MTV,19.00562217,72.82631223,"1st Floor, Trade View Building, Next to Gate 4, Kamala Mills Compound, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1400,4.1,no,yes,yes,no,no,no
+41,Bastian,19.06364656,72.83499151,"Linking Road, Bandra WestB/1, New Kamal Building, Opposite National College,","Linking Road, Bandra West", Mumbai,2500,4.5,no,yes,yes,yes,no,no
+42,Rikē - Terrace Bar & Grill,19.13602103,72.83328027,"Dreamworks, C18, Dalia Estate, Near Fun Republic, Above Doolally taproom, Off New Andheri Link Road,Veera Desai Area, Andheri West, Mumbai",Veera Desai Area, Mumbai,800,4.2,no,yes,yes,yes,yes,yes
+43,The Playlist Pizzeria,19.04795319,72.82509215,"Reclamation, Bandra WestShop 1, Gloria Apartments, St. Baptist Road, Near Mt. Mary Steps,","Reclamation, Bandra West", Mumbai,1200,3.8,yes,no,no,no,no,no
+44,99 Pancakes,18.92838066,72.83279009,"Ground Floor, Commerce House, N.M. Joshi Marg,Fort, Mumbai",Fort, Mumbai,500,4.3,yes,no,no,no,no,no
+45,Starbucks,18.9321288,72.8343196,"10, Elphinstone Building, Veernariman Road, Horniman Circle,Fort, Mumbai",Fort, Mumbai,700,4.4,no,no,no,yes,yes,no
+46,Masaledaar By Mini Punjab,19.18803708,72.96040591,"1st Floor, The Thane Club, Opposite Raheja Gardens 3 no. Gate, Raghunath Nagar, Mohan Koppikar Road, 
+Teen Haath Naaka, Near tip top plaza Thane West",Fort, Mumbai,850,4.3,yes,no,yes,no,no,no
+47,The J,18.93019219,72.82670617,"3, Vaswani Mansions, Dinshaw Vachha Road, Opposite HR College,Churchgate, Mumbai",Churchgate, Mumbai,450,4,no,no,no,no,no,no
+48,Tipsy Gypsy,19.1348386,72.83286385,"Level One, Fun Republic Mall, Off New Link Road,Veera Desai Area, Mumbai, Mumbai",Veera Desai Area, Mumbai,1200,4.1,no,yes,yes,no,no,no
+49,KODE,19.004722,72.826062,"Unit 11, Oasis City, Kamala Mills, Gate 4, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,2400,4.6,no,yes,yes,no,yes,no
+50,Breeze Lounge,19.11240818,72.90976848,"8th Floor, A Wing, Supreme Business Park, Hiranandani Gardens,Powai, Mumbai",Powai, Mumbai,2400,3.8,no,yes,yes,no,yes,no
+51,Koyla,18.91850064,72.83106308,"Above Gulf Hotel, HNA Azmi Marg,Colaba, Mumbai",Colaba, Mumbai,1600,3.7,yes,no,no,no,yes,yes
+52,TAP Resto Bar,19.10762,72.883204,"Ground Floor, Times Square Tech Park, Andheri Kurla Road,SakinakaJunction, Andheri East, Marol, Mumbai",Sakinaka, Andheri East,1400,3.8,no,yes,yes,no,yes,no
+53,Light House Cafe,18.9943215,72.8149205,"9 Ground Floor, Sunville Banquets, Dr Annie Besant Road, Siddharth Nagar,Worli, Mumbai",Worli, Mumbai,1200,4.1,yes,no,yes,no,yes,no
+54,Arth,19.06815,72.831722,"604, P D Hinduja Junction, 15th Road,Khar, Mumbai",Khar, Mumbai,2500,3.9,no,yes,yes,yes,yes,no
+55,Play - The Lounge,19.0058966,72.8267725,"First Floor, Unit 2, Trade View Building, Oasis Complex, Kamala Mills Compound, E.B.Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1700,4,no,yes,yes,no,yes,no
+56,Candies,19.07026052,72.82615934,"Pali Hill, Bandra WestMac Ronells, Next to Learners Academy School,","Pali Hill, Bandra West", Mumbai,700,4,yes,yes,no,no,no,no
+57,Glass House,19.17659232,72.8370709,"4th Floor, Linkway Estate Co. Society, Above Greens Veg Restaurant, New Link Road,Malad West, Mumbai",Malad West, Mumbai,1700,3.3,no,yes,yes,no,yes,no
+58,Nara,19.06089468,72.86279362,"Ground Floor, Raheja Towers, Opposite Jio Garden,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1800,3.8,no,no,yes,yes,no,no
+59,O Pedro,19.05942183,72.86480006,"Unit No 2, Plot No C-68, Jet Airways - Godrej BKC,Bandra Kurla ComplexMumbai, Maharashtra",Bandra Kurla Complex, Mumbai,1200,4.1,no,no,yes,yes,yes,no
+60,Khar Social,19.06822585,72.83799391,"Rohan Plaza, 5th Road, S.V. Road,KharWest, Khar, Mumbai",Khar, Khar,1400,3.9,yes,yes,yes,yes,yes,no
+61,Grandmama's Cafe,19.09145752,72.82780755,"Hotel Royal Garden, Ground Floor,JuhuTara Road, Juhu, Mumbai",Juhu, Juhu,1100,4.1,no,no,yes,yes,yes,no
+62,Gadda Da Vida - Novotel,19.1086281,72.8248107,"Novotel,JuhuBeach, Balraj Sahani Marg, Juhu, Mumbai",Juhu, Balraj Sahani Marg,4500,4.1,no,no,yes,yes,no,no
+63,Leopold Cafe & Bar,18.92267004,72.83170614,"S.B. Singh Road,ColabaCauseway, Colaba, Mumbai",Colaba, Colaba,1600,3.9,yes,no,yes,yes,no,no
+64,Oozo,19.10791312,72.88797587,"Floor 1, Jalaram Commercial Centre, Near Ansa Industrial Estate, Saki Vihar Road,Sakinaka, Mumbai",Sakinaka, Mumbai,1200,4.2,no,yes,yes,no,yes,yes
+65,Lord of the Drinks,19.1403366,72.8332233,"Ground Floor, Aver House, New Link Road,Veera Desai Area, Mumbai Veera Desai Area",Veera Desai Area, Mumbai Veera Desai Area,1500,4,no,yes,yes,no,yes,no
+66,Pa Pa Ya,18.994117,72.8242106,"Level 3, Palladium Mall, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,4.8,no,no,yes,no,no,no
+67,SodaBottleOpenerWala,19.0636593,72.8624695,"Ground Floor, The Capital Building, G Block,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1300,4,no,no,yes,yes,no,no
+68,AT MRP,19.14896546,72.83207864,"Oshiwara, Andheri West3rd, Floor, Om Heera Panna Mall,","Oshiwara, Andheri West", Mumbai,1000,3.7,no,yes,yes,no,yes,no
+69,London Bubble Co.,19.09886908,72.8277861,"Shop 2,JuhuTara Road, Juhu, Mumbai",Juhu, Mumbai,400,4.2,yes,no,no,no,no,no
+70,Bombay Salad Co.,19.06469007,72.83091053,"Linking Road, Bandra WestShop 1,16th Road,","Linking Road, Bandra West", Mumbai,900,4.4,yes,no,no,no,no,no
+71,Hakkasan,19.0604618,72.83433471,"Linking Road, Bandra West206, Krystal, Waterfield Road,","Linking Road, Bandra West", Mumbai,2600,4.5,no,yes,yes,yes,yes,no
+72,Harbour O' Four,19.195121,72.961905,"Panch Pakhadi, Thane WestSun Magnetica Building, Greens Road, Louis Wadi, Near Eastern Express Highway,","Panch Pakhadi, Thane West", Mumbai,1300,4.2,no,no,yes,yes,yes,no
+73,We VIP,19.13932312,72.83331312,"Deluxe House, 7th Floor, Plot B-50, Opposite New Link Road,Andheri Lokhandwala, Andheri West, Mumbai","Andheri Lokhandwala, Andheri West", Mumbai,3500,3.7,no,yes,yes,no,yes,no
+74,Playboy Club,19.00729,72.825012,"Birla Centurion, Gate 2, PB Marg,Worli, Mumbai",Worli, Mumbai,2700,3.5,no,yes,yes,no,no,no
+75,Joey's Pizza,19.1266738,72.83010252,"6 & 7, Upvan Building, Near Indian Oil Colony, DN Nagar,Azad Nagar, Mumbai",Azad Nagar, Mumbai,800,4.1,yes,no,no,no,no,no
+76,HITCHKI,19.1266738,72.83010252,"002, First International Financial Centre, G Block,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1500,3.6,no,yes,yes,yes,yes,no
+77,Talaiva,19.00573462,72.82682151,"3rd Floor,Trade View Building, Kamala Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,1500,4,no,yes,yes,yes,yes,no
+78,D:OH!,19.0059076,72.8268879,"Ground Floor, Unit 2B, Trade View, Kamala City, Kamala Mills Compound, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,800,3.8,yes,yes,yes,no,yes,no
+79,1 Above,19.00468947,72.82636285,"Floor 2, Kamala Trade House, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,3000,4.1,no,yes,yes,no,yes,no
+80,Farzi Cafe,19.0035172,72.82764997,"Kamala Mills, Near Radio Mirchi Office,Lower Parel, Mumbai",Lower Parel, Mumbai,1500,4.2,no,no,yes,no,yes,no
+81,Mojo's Bistro,19.00405895,72.82717656,"Level 2, Kamla Trade House, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,1200,4.3,no,yes,yes,no,yes,yes
+82,The Bombay Canteen,19.00316849,72.82763891,"Ground Floor, Process House, Kamala Mills Compound, Near Radio Mirchi Office, S.B. Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,4.2,no,no,yes,no,yes,no
+83,FLYP@MTV,19.00562217,72.82631223,"1st Floor, Trade View Building, Next to Gate 4, Kamala Mills Compound, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1400,4.1,no,yes,yes,no,no,no
+84,KODE,19.004722,72.826062,"Unit 11, Oasis City, Kamala Mills, Gate 4, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,2400,4.6,no,yes,yes,no,yes,no
+85,Vortex Bandra,19.065228,72.83336,"Linking Road, Bandra West5th Floor, Crystal Shoppers Paradise,","Linking Road, Bandra West", Mumbai,1000,3.1,no,no,yes,no,no,no
+86,MRP - My Regular Place,19.01696424,72.84584507,"20, Dharamputra, Pritam Estate,Dadar East, Mumbai",Dadar East, Mumbai,1300,3.8,no,yes,yes,yes,yes,no
+87,The DanSing Bottle,19.23988128,72.97018088,"Manpada, Thane WestShop 5 Kothari Compound , 9 Acres, Towards Neelkanth Woods, Next to Satyam Ford Service Center,","Manpada, Thane West", Mumbai,1000,3.8,no,yes,yes,yes,yes,no
+88,Pure Milk Centre,19.07521195,72.90481277,"19/20, Vikrant, RB Mehta Marg, Tilak Road,Ghatkopar East, Mumbai",Ghatkopar East, Mumbai,450,3.6,yes,no,no,no,no,no
+89,True Tramm Trunk,19.10343282,72.83190228,"Next to Options Showroom, First Floor, V.L. Mehta Road, J.V.P.D. Scheme,Juhu, Mumbai",Juhu, Mumbai,1200,3.8,no,yes,yes,no,yes,no
+90,Stacks And Racks,19.18129965,72.83619149,"Shop 1, Ganga Nivas, Opposite Toyota Showroom, Link Road,Malad West, Mumbai",Malad West, Mumbai,1000,4.5,no,yes,no,no,no,no
+91,KOKO Asian Gastropub,19.00288572,72.82814182,"C 2, Trade World, Kamala Mills, Near Radio Mirchi Office, SB Road,Lower Parel, Mumbai",Lower Parel, Mumbai,3000,4.4,no,yes,yes,yes,yes,no
+92,Penthouzz,19.21281275,72.86928255,"4th Floor, V Mall, Thakur Complex, Asha Nagar,Kandivali East, Mumbai",Kandivali East, Mumbai,1200,3.7,no,yes,yes,no,no,no
+93,Amanzi Sky Deck & Bar,19.0548644,72.8282741,"164, 3rd Floor, Cest La Vie,Hill Road, Bandra WestMe holy family hospital.","Hill Road, Bandra West", Mumbai,2000,3.5,no,yes,yes,no,yes,no
+94,The Little Door,19.1393998,72.8332456,"B 31, Ground Floor, Shree Siddhivinayak Plaza, New Link Road,Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,1500,3.8,yes,yes,yes,no,yes,no
+95,Tea Villa Cafe,19.0559233,72.8341465,"Hill Road, Bandra West31, Opposite Globus,","Hill Road, Bandra West", Mumbai,1000,4.6,yes,no,no,yes,no,no
+96,Hoppipola,19.11935556,72.91132222,"135 / 138, Galleria Shopping Center, Hiranandani Garden,   400076.,Powai, Mumbai",Powai, Mumbai,1500,3.8,no,yes,yes,no,no,no
+97,Persian Darbar,19.10970146,72.87576176,"Shop 101 - 102, Noori Baug, Andheri Kurla Road,MarolNaka, Marol, Mumbai",Marol, Marol,1300,3.8,yes,no,no,no,yes,no
+98,Casa Vito Bar & Cafe,19.06566132,72.83339158,"Linking Road, Bandra West3rd Floor, Link Corner Building, 33rd Road, Off Linking Road,","Linking Road, Bandra West", Mumbai,1000,3.4,no,yes,yes,yes,yes,yes
+99,Bhagat Tarachand,19.0723145,73.00860755,"Shatrughan Tower, Sector 18,Vashi, Navi Mumbai",Vashi, Mumbai,450,3.9,yes,no,no,no,no,no
+100,MH04 The Drunk Yard,19.23547516,72.96914991,"Manpada, Thane WestC-1, B-1 Kothari Compound, 27 Acre, Beside Royal Enfield Service Center, Chitalsar,","Manpada, Thane West", Mumbai,1200,4.1,no,yes,yes,no,no,no
+101,Coffee By Di Bella,19.12549922,72.82225706,"Versova, Andheri WestShop 6/7, Shubham Co-op Housing Society, Juhu Versova Link Road,","Versova, Andheri West", Mumbai,650,4.1,yes,no,no,no,no,no
+102,Bruciato Food Factory,19.1610032,72.991277,"Shop 17 Rainbow Tower, Sector 20,Airoli, Navi Mumbai",Airoli, Mumbai,600,4.2,yes,no,no,yes,no,no
+103,Theobroma,19.11600852,72.9088676,"G 8, City Park Building, Central Avenue, Hiranadani Gardens,Powai, Mumbai",Powai, Mumbai,500,4.3,yes,no,no,no,no,no
+104,BOX8- Desi Meals,19.1233683,72.86411427,"MahakaliCaves Road, Subhash Nagar, Andheri East, Mahakali, Mumbai",Mahakali, Mumbai,500,3.9,yes,no,no,no,no,no
+105,Blanco,19.146861,72.829366,"Andheri Lokhandwala, Andheri West201/202, Samarth Vaibhav Cooperating Housing Society, Opposite link Road,","Andheri Lokhandwala, Andheri West", Mumbai,1400,4.2,no,yes,yes,yes,yes,yes
+106,The Good Wife,19.06331193,72.86183707,"Ground Floor, The Capital, G Block, Behind ICICI Bank Building,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,2500,4,yes,yes,yes,yes,yes,no
+107,Patch of Sky,19.11570567,72.8537643,"Hotel Aureole, Bima Nagar Society, Sir Mathuradas Vasanji Road, Telli Gali,Near Andheri East Station, Mumbai",Near Andheri East Station, Mumbai,1000,4,no,yes,yes,yes,yes,yes
+108,AB3 - Akkad Bakkad Bombay Boo,19.2043523,72.8450497,"5, KK Meena Sudhar Marg, Kamala Nagar, Bhagat Colony,Kandivali West, Mumbai",Kandivali West, Mumbai,300,4.1,no,no,no,no,no,no
+109,5 Spice,19.1065024,72.884651,"Mithi Nadi,   Andheri East,Sakinaka, Mumbai",Sakinaka, Mumbai,1200,3.7,yes,no,yes,no,no,no
+110,Madeira & Mime,19.11988121,72.90715098,"G2, Trans Ocean House, Hiranandani Business Park, Lake Boulevard,Powai, Mumbai",Powai, Mumbai,1400,4.7,no,yes,yes,yes,yes,no
+111,Havana Café & Bar - The Gordon House Hotel,18.92391899,72.83268716,"The Gordon House Hotel, 5 Battery Street, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,1500,4.4,no,yes,yes,yes,yes,no
+112,Butter Chicken Factory,19.0658198,72.8308836,"Pali Hill, Bandra WestShop 7, Silver Cross Building, 16th & 33rd Road Junction, Opp Mini Punjab Resturant,","Pali Hill, Bandra West", Mumbai,1000,4.4,yes,no,no,no,no,no
+113,SpiceKlub,18.9942914,72.8255723,"8A, Janta Industrial Estate, Opposite Phoenix Mills, Senapati Bapat Road,Lower Parel, Mumbai",Lower Parel, Mumbai,2100,4.4,yes,no,no,no,yes,no
+114,Ph Se Food,19.16153167,72.94418994,"18-21, R Galleria, Runwal Greens , Mulund goregaon Link Road, Next to Fortis Hospital,Mulund West, Mumbai",Mulund West, Mumbai,1000,4.4,no,no,no,yes,yes,no
+115,Road House Cafe Bar,19.18095885,72.83632055,"3, New Link Road, Ram Nagar,Malad West, Mumbai",Malad West, Mumbai,1000,4.3,no,yes,yes,yes,yes,no
+116,London Taxi,19.004722,72.826062,"A Wing, Ground Floor,Trade Centre, Kamala Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,2500,4,no,yes,yes,yes,yes,no
+117,Barbeque Nation,19.10346228,72.88774956,"3, Ground Floor, Tower A, Times Square, Andheri-Kurla Road,Marol, Mumbai",Marol, Mumbai,1900,3.9,no,no,yes,no,yes,no
+118,Coffee Culture,19.05481908,72.82826923,"Hill Road, Bandra WestGround Floor, Eternia Building, Next to Mcdonalds,","Hill Road, Bandra West", Mumbai,700,4.2,yes,no,no,yes,yes,no
+119,Carouse Contemporary Kitchen & Bar,18.993049,72.823866,"First Floor, P2, Building, Raghuvanshi Mill Compound, Senapati Bapat Marg, Next To Phoenix Mall,Lower Parel, Mumbai",Lower Parel, Mumbai,1500,3.4,no,yes,yes,no,yes,no
+120,Skky - Ramada,19.136234,72.899082,"Ramada, 16/17, Paspoli, Saki Vihar Road,Powai, Mumbai",Powai, Mumbai,3000,4,no,yes,yes,yes,no,no
+121,CinCin,19.067651,72.8651133,"Raheja Towers,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1800,3.5,no,yes,yes,yes,yes,no
+122,Jamjar Diner,19.13275689,72.81216189,"Versova, Andheri West7A & B, Arram Nagar 2, Behind Washing Bay, Yari Road,","Versova, Andheri West", Mumbai,1500,3.9,yes,no,yes,yes,yes,no
+123,Talaiva,19.00573462,72.82682151,"3rd Floor,Trade View Building, Kamala Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,1500,4,no,yes,yes,yes,yes,no
+124,Doolally Taproom,19.0492684,72.82890324,"Reclamation, Bandra WestShop No. 5/6, Geleki, ONGC Colony,","Reclamation, Bandra West", Mumbai,1800,4.3,no,yes,no,no,no,no
+125,The Little Easy,19.05997505,72.83621326,"Linking Road, Bandra West231 A, Link Corner,","Linking Road, Bandra West", Mumbai,1500,4.2,no,yes,yes,yes,yes,no
+126,The Fatty Bao,19.12358212,72.9125325,"Shop 1, Ground Floor, Sentinel Building, Hiranandani Business Park,Powai, Mumbai",Powai, Mumbai,1800,4.3,yes,no,yes,yes,yes,no
+127,Agent Jack's,19.13151869,72.83545017,"De Mall, Veera Desai,Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,1500,3.8,yes,yes,yes,yes,yes,no
+128,90 Ft Above,19.228332,72.8527196,"The Rooftop, Vini Elegance, Above Tanishq Showroom, L.T Road,Borivali West, Mumbai",Borivali West, Mumbai,1200,3.8,no,no,yes,no,yes,yes
+129,Fisco Restobar,19.21217891,72.84625445,"Shop 3, Blue Empress, Boraspada Road, Dev Nagar, Opposite Poisar Gymkhana,Kandivali West, Mumbai",Kandivali West, Mumbai,1400,4.4,yes,no,yes,yes,yes,no
+130,Pali Village Cafe,19.0632659,72.8293746,"Pali Hill, Bandra West602, Ambedkar Road, Pali Naka,","Pali Hill, Bandra West", Mumbai,2700,4.1,no,no,no,yes,no,no
+131,The Belgian Waffle Co.,18.95566377,72.81314358,"25, Fulchand Niwas,ChowpattySeaface, Chowpatty, Mumbai",Chowpatty, Mumbai,250,4,yes,no,no,no,no,no
+132,Olive Bar & Kitchen,19.07194661,72.82515585,"14, Below Pali Hill Tourist Hotel, Union Park,Khar, Mumbai",Khar, Mumbai,3500,4.1,yes,yes,yes,no,yes,no
+133,Taste Of Punjab,19.0827299,73.006397,"Shop 178 , 1st Floor, Satra Plaza, Sector 19,Vashi, Navi Mumbai",Vashi, Mumbai,1500,4.2,no,yes,yes,no,no,no
+134,The Fusion Kitchen,19.2546708,72.8490093,"Shop 1, Opposite Veda Building, Near Bhavdevi Garage, Holy Cross Road, IC colony,Borivali West, Mumbai",Borivali West, Mumbai,1000,4.7,yes,no,yes,yes,yes,no
+135,Bomberry,18.96554382,72.81294208,"Ground Floor, Shop No. 5, Hormazd Mansion, Opposite Bhatia Hospital,Tardeo, Mumbai",Tardeo, Mumbai,500,4.1,yes,no,no,yes,no,no
+136,Eva's Pizza,19.1151798,72.88712561,"7, Harmony Apartments, Off Military Road,Marol, Mumbai",Marol, Mumbai,650,4.1,yes,no,no,no,yes,no
+137,Kaama,19.0054024,72.82651339,"Unit 2, Trade View Building, 2nd Floor, Kamala mills,Lower Parel, Mumbai",Lower Parel, Mumbai,1200,3.8,no,yes,yes,yes,yes,no
+138,Tasse de Thé,19.0054024,72.82651339,"Islam Building, Ground Floor, Veer Nariman Street,Fort, Mumbai",Fort, Mumbai,2000,4.1,no,no,no,no,no,no
+139,Bademiya,18.92319556,72.83244208,"Tulloch Road, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,900,2.2,yes,yes,no,no,no,no
+140,Burma  Burma,18.9295675,72.8319193,"Kothari House, Allana Centre Lane, MG Road, Behind Mumbai University,Fort, Mumbai",Fort, Mumbai,1500,4.5,no,no,no,no,no,no
+141,The Nutcracker,18.9284481,72.8336042,"Modern House, Dr. V.B. Gandhi Marg, Opposite One Forbes Building, Kala Ghoda,Fort, Mumbai",Fort, Mumbai,1200,4.4,no,no,no,yes,no,no
+142,Trench Restro Lounge By The Chocolate Room,19.055653,72.832942,"Hill Road, Bandra WestShop 1,2,3 & 4, Hilton Apartment, Opposite Elco Arcade,","Hill Road, Bandra West", Mumbai,800,4.1,no,no,no,yes,yes,no
+143,Mia,19.13297989,72.81222191,"Versova, Andheri West10A & B, Arram Nagar 2, J P Road,","Versova, Andheri West", Mumbai,1500,4,no,yes,no,yes,yes,yes
+144,Burn - Kitchen & Malt Room,19.07249,72.87012,"Building No 19, Pinnacle Corporate Park, Next to Trade Centre,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1500,3.9,no,yes,yes,yes,yes,no
+145,Burn - Kitchen & Malt Room,19.11390535,72.8356215,"Om Satyadeep Apartments, Ground Floor, Gulmohar Cross Road 7, JVPD Scheme,Juhu, Mumbai",Juhu, Mumbai,2000,4.7,no,no,yes,no,no,no
+146,British Brewing Company,18.99570556,72.82551667,"Level 4, Palladium, High Street Phoenix,Lower Parel, Mumbai",Lower Parel, Mumbai,1600,4.1,yes,yes,yes,yes,no,no
+147,The Bar Stock Exchange,19.10552,72.884237,"89, Shivani Industrial Estate, Opposite Times Square,Sakinaka, Mumbai",Sakinaka, Mumbai,1300,3.5,no,yes,yes,yes,yes,no
+148,The Rolling Pin,18.9940402,72.8255261,"12, Janta Industrial Estate, Senapat Bapat Road,Lower Parel, Mumbai",Lower Parel, Mumbai,1000,4,yes,no,no,yes,yes,no
+149,PizzaExpress,18.9238765,72.83329435,"Dhanraj Mahal, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,1500,4.1,yes,no,no,no,yes,no
+150,Tanatan,19.1093,72.825451,"462, A.B. Nair Road, Opposite Novotel,Juhu, Mumbai",Juhu, Mumbai,1500,4.5,no,yes,yes,yes,no,no
+151,Kasino Bar,19.18855575,72.83878852,"8th Floor, Synergy Court, Kanchpada,Malad West, Mumbai",Malad West, Mumbai,1200,4,no,yes,yes,no,yes,no
+152,Yasin's Food Inn,19.14150166,72.82538284,"Andheri Lokhandwala, Andheri WestShop 4 - 5, Shiv Sadan Building, 1st Cross Lane, Lokhandwala Complex,","Andheri Lokhandwala, Andheri West", Mumbai,650,4,yes,no,no,no,no,no
+153,Gymkhana 91 Bar & Kitchen,18.99218458,72.8242258,"Floor 1, Raghuvanshi Mills Compound, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1200,4,no,yes,yes,no,yes,no
+154,Farmer's Cafe,19.0650228,72.83099167,"Shop 2, Rita Apartments, 16th Road, Nr. Mini Punjab Hotel, Bandra West, Mumbai","Panch Pakhadi, Thane West", Mumbai,1000,3.7,no,no,no,no,no,no
+155,The Caravan Menu,19.195116,72.961754,"Panch Pakhadi, Thane WestSun Magnetica Building, Near LIC Building, Louis Wadi,","Panch Pakhadi, Thane West", Mumbai,1600,4.6,no,yes,no,no,yes,no
+156,Persia Darbar,19.13692377,72.84682073,"6-7, Lily Tower CHS Ltd, R.B Sharma Center, S V Road,JogeshwariWest, Jogeshwari, Mumbai",Jogeshwari, Mumbai,800,3.6,yes,no,no,no,yes,no
+157,Bombay Brasserie,18.988356,72.814574,"Villa 12-A, Lotus Cinema Building, Opposite Nehru Centre,Worli, Mumbai",Worli, Mumbai,1500,4.2,no,yes,yes,yes,yes,no
+158,Old Wild West,19.0061446,72.8266218,"First Floor, Trade View Building,  Kamala Mills Compound, Gate 4, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1800,3.9,no,yes,yes,yes,yes,no
+159,The House of Mirabella,19.13411324,72.83680301,"Remi Bizcourt, Opposite Supreme Chambers, Veera Desai Road,Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,1500,3.5,no,yes,yes,yes,yes,no
+160,Vortex South,18.94250543,72.82655563,"116/118, Marine Mansion, 1st Marine Street, Anandilal Podar Marg,Marine Lines, Mumbai",Marine Lines, Mumbai,1300,3.8,no,no,no,no,no,no
+161,True Tramm Trunk,19.07284082,72.87112825,"G2C, Trade Centre, Opposite MTNL, Skoda Showroom,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1500,3.3,no,yes,yes,no,yes,no
+162,True Tramm Trunk Trerace,19.10343282,72.83190228,"Second Floor, Besides Options Showroom, V.L. Mehta Road, J.V.P.D. Scheme,Juhu, Mumbai",Juhu, Mumbai,1500,3.5,no,yes,yes,no,no,yes
+163,Talaiva,19.00573462,72.82682151,"3rd Floor,Trade View Building, Kamala Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,1500,4,no,yes,yes,yes,yes,no
+164,FLYP@MTV,19.00562217,72.82631223,"1st Floor, Trade View Building, Next to Gate 4, Kamala Mills Compound, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1400,4.1,no,yes,yes,no,no,no
+165,1 Above,19.00468947,72.82636285,"Floor 2, Kamala Trade House, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,3000,4.1,no,yes,yes,no,yes,no
+166,Farzi Cafe,19.0035172,72.82764997,"Kamala Mills, Near Radio Mirchi Office,Lower Parel, Mumbai",Lower Parel, Mumbai,1500,4.2,no,no,yes,no,yes,no
+167,Mojo's Bistro,19.00405895,72.82717656,"Level 2, Kamla Trade House, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,1200,4.3,no,yes,yes,no,yes,yes
+168,The Bombay Canteen,19.00316849,72.82763891,"Ground Floor, Process House, Kamala Mills Compound, Near Radio Mirchi Office, S.B. Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,4.2,no,no,yes,no,yes,no
+169,KODE,19.004722,72.826062,"Unit 11, Oasis City, Kamala Mills, Gate 4, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,2400,4.6,no,yes,yes,no,yes,no
+170,Angrezi Dhaba - The Wholesale Theka,19.01995616,72.84174263,"2nd Floor, Nakshtra Mall,Dadar West, Mumbai",Dadar West, Mumbai,750,4,no,yes,yes,no,no,no
+171,Le 15 Cafe,18.923903,72.832685,"Shop 18, Lansdowne House Building, MB Marg, Near Regal Cinema, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,1200,4.4,no,no,no,yes,no,no
+172,Zaffran,19.0010973,72.8296612,"Todi & Company, Mathuradas Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,1400,3.7,yes,yes,yes,no,yes,no
+173,Cafe Zoe,19.0004465,72.8303499,"Mathuradas Mills Compound, NM Joshi Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,4.1,yes,yes,yes,yes,yes,no
+174,Merwans Cake Stop,19.11916402,72.84532037,"12/13, Madhav Nagar, SV Road,Near Andheri West Station, Mumbai",Near Andheri West Station, Mumbai,200,4.4,yes,no,no,no,no,no
+175,Family Tree,19.193676,72.96661,"Panch Pakhadi, Thane WestShop 4, Ravi Industries,","Panch Pakhadi, Thane West", Mumbai,800,4.6,yes,no,no,no,yes,no
+176,Carter's Blue,19.07092818,72.82293364,"Carter Road, Bandra WestB/2 Gagangari Bulding,","Carter Road, Bandra West", Mumbai,700,4,yes,no,no,no,no,no
+177,Henpecked,18.92846991,72.83381224,"Apollo Street, Opposite Laxmi Vilas Bank, Mumbai Samachar Marg,Fort, Mumbai",Fort, Mumbai,1800,4.2,yes,no,yes,yes,no,no
+178,The Budapest Bakehouse,18.92846991,72.83381224,"Shop 1, Pinky Plaza, Road 5,Khar, Mumbai",Khar, Mumbai,350,3.8,yes,no,no,no,no,no
+179,Delhi Highway,19.108026,72.883647,"A4, Ground Floor, B Wing, Times Square, Andheri East,Sakinaka, Mumbai",Sakinaka, Mumbai,1200,4.1,yes,no,no,no,yes,no
+180,Taftoon Bar & Kitchen,19.108026,72.883647,"Unit 2, C-31 & 32, G Block, Naman Centre, Opposite Dena Bank,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1000,3.8,yes,no,yes,yes,no,no
+181,Howra Burger,19.0541392,72.8246531,"Hill Road, Bandra West6th Floor, Fakhrudin Villa, Opposite St. Andrew's Church,","Hill Road, Bandra West", Mumbai,1000,3.9,yes,no,no,no,no,no
+182,Chili's American Grill & Bar,19.11619923,72.90950999,"13, Ventura Building, Hiranandani Business Park, Central Avenue Road,Powai, Mumbai",Powai, Mumbai,1800,4.4,yes,yes,yes,no,no,no
+183,The Friends Bench All Day Cafe,19.101542,72.84699,"1, Chiranjeev CHS LTD, Chittranjan Road,Vile Parle East, Mumbai",Vile Parle East, Mumbai,700,4.1,yes,no,no,yes,no,no
+184,Hotel Ramashray,19.02819342,72.85167754,"Bhandarkar Road,Matunga East, Mumbai",Matunga East, Mumbai,200,4.7,no,no,no,no,no,no
+185,Cafe Mangii,19.1201321,72.90701721,"3, Transocean House, Hiranandani Business Park,Powai, Mumbai",Powai, Mumbai,1500,4,yes,yes,yes,yes,yes,no
+186,Rustico,18.9298443,72.8343658,"Ground Floor, 1 Khatau building, 48 Bank Street,  Opposite Old Custom House,Fort, Mumbai",Fort, Mumbai,1500,3.7,yes,yes,no,yes,yes,no
+187,Kyani & Co.,18.94413732,72.82852571,"JSS Road, Jer Mahal Estate, Opposite Metro Cinema,Marine Lines, Mumbai",Marine Lines, Mumbai,300,4.1,no,no,no,no,no,no
+188,Summer House Cafe,19.0005912,72.8303384,"Todi Mill,Lower Parel, Mumbai",Lower Parel, Mumbai,1800,4.2,no,yes,yes,no,yes,no
+189,The Food Studio - Kitchen & Bar,19.1617022,72.9445991,"Opposite Runwal Green Project, Mulund Goregaon Link Road,Mulund West, Mumbai",Mulund West, Mumbai,1100,4,yes,yes,yes,no,yes,no
+190,Dishkiyaaon,19.0637871,72.8620251,"Ground Floor, The Capital Building, G Block,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1200,3.9,no,no,yes,no,yes,no
+191,Kala Ghoda Cafe,18.9285667,72.8323694,"10, Ropewalk Lane, Kala Ghoda,Fort, Mumbai",Fort, Mumbai,650,3.9,no,no,no,yes,no,no
+192,Pranzi,19.06790263,72.83752117,"Makhija Royale, SV Road,Khar, Mumbai",Khar, Mumbai,1700,4,no,yes,no,yes,yes,no
+193,Toast & Tonic,19.05921989,72.8645109,"Unit 1, Ground Floor, Jet Airways, Godrej Building,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,3000,4,no,no,yes,no,yes,no
+194,Escobar - Tapas Bar,19.06024314,72.83611804,"Linking Road, Bandra West4th Floor, VN Sphere, Turner And Linking Road,","Linking Road, Bandra West", Mumbai,2500,3.8,no,no,yes,no,no,no
+195,Bohemian Brew,19.067898,72.83766271,"Shop 1, Mahesh Apartment, TPS III Road 5, Off SV Road,Khar, Mumbai",Khar, Mumbai,1200,4.3,yes,yes,no,yes,yes,no
+196,Candy and Green,18.97519,72.806241,"4th & 5th Floor, Hub Town Sky Bay, Bhulabhai Desai Road,Breach Candy, Mumbai",Breach Candy, Mumbai,1600,4,no,yes,yes,no,yes,yes
+197,Flamboyante,18.9140222,72.8183596,"7, World Trade Centre,Cuffe Parade, Mumbai",Cuffe Parade, Mumbai,2000,3.8,yes,yes,yes,yes,no,no
+198,Out Of The Blue,19.0718357,72.82564703,"Le Sutra Hotel, 14 Union Park, Off Carter Road,KharWest, Khar, Mumbai",Khar, Mumbai,1800,3.8,yes,yes,yes,yes,yes,no
+199,MT-64,19.17504221,72.83720031,"Opposite Vinay Industrial Estate, Link Road, Near Cloud Nine Hospital,Malad West, Mumbai",Malad West, Mumbai,1600,3.6,no,yes,yes,no,yes,yes
+200,Mojo's Bistro,19.0677373,72.9926518,"701, Level 7,  Cyber One, Near CIDCO Exhibition Center,Vashi, Navi Mumbai",Vashi, Mumbai,1900,3.9,no,yes,yes,yes,yes,yes
+201,Gallops,18.98015021,72.82027826,"MahalaxmiRace Course, Mahalaxmi, Mumbai",Mahalaxmi, Mumbai,2500,4.4,no,no,yes,no,no,no
+202,Ten One,18.98015021,72.82027826,"883/1JuhuTara Road, Near Melting Pot, Juhu, Mumbai",Juhu, Mumbai,800,3.8,no,no,yes,yes,no,no
+203,Love & Cheesecake,19.11536354,72.90727906,"Eden 2, Central Ave, Hiranandani Gardens,Powai, Mumbai",Powai, Mumbai,400,4.4,yes,no,no,no,no,no
+204,Bora Bora,19.13696083,72.83289537,"Oberoi Chambers 1, Opposite Tanishq Showroom, Off New Link Road,Veera Desai Area, Mumbai, Mumbai",Veera Desai Area, Mumbai,1950,3.6,no,yes,yes,no,no,no
+205,Harry's Bar + Cafe,19.11715687,72.90995356,"1st Floor, 103, Ventura Park, IT Building, Hiranandani Gardens, Opposite D Mart, Central Avenue Road,Powai, Mumbai",Powai, Mumbai,1500,3.6,yes,yes,yes,no,yes,no
+206,Hungry Jd's,19.243606,72.845089,"12, New Link Road, Hissa no.10, Near Shubharambh Ground, Eksar Village,Borivali West, Mumbai",Borivali West, Mumbai,1000,3.9,no,no,no,no,no,no
+207,Bake House Cafe,18.92817515,72.83247259,"KalaGhoda Building, 43 Ropewalk Lane, Behind Rhythm House, Kalaghoda,Fort, Mumbai",Fort, Mumbai,800,4.5,no,no,no,yes,yes,no
+208,Cafe Madras,19.027707,72.85505,"38 B, Circle House, King's Circle Near Maheshwari Udyan,Matunga East, Mumbai",Matunga East, Mumbai,250,4.4,no,no,no,no,no,no
+209,Drop,19.0601775,72.836387,"Linking Road, Bandra WestG1/B, Krystal Building, Below Hakkassan, Waterfield Road,","Linking Road, Bandra West", Mumbai,1200,3,no,yes,yes,yes,yes,no
+210,Status Veg Restaurant,18.9242998,72.8216832,"208, Regent Chambers,Nariman Point, Mumbai",Nariman Point, Mumbai,800,3.9,yes,no,no,no,no,no
+211,Kitchen Garden by Suzette,19.0614456,72.8292837,"Pali Hill, Bandra West8/9, Gasper Enclave, St. John Street, Pali Naka, Near Suzette, Opposite Gold’s Gym,","Pali Hill, Bandra West", Mumbai,1000,3.7,no,no,no,no,no,no
+212,Wok Express,19.0623793,72.8293459,"Pali Hill, Bandra WestShop 1-2, Dheeraj Swapna Building, Pali Naka,","Pali Hill, Bandra West", Mumbai,1000,3.3,yes,no,no,no,yes,no
+213,India Bistro,19.20832359,72.96364635,"Upvan, Thane WestGround/First floor, Vihang Garden, Near Vihang Club, Pokharan Road 1, Vartak Nagar,","Upvan, Thane West", Mumbai,1200,4.9,yes,yes,yes,no,yes,no
+214,La Patio,19.1416624,72.8334086,"8th Floor, Morya Landmark 2, Opposite Infiniti Mall, Off New Link Road,Veera Desai Area, Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,2000,3.6,no,yes,yes,yes,no,no
+215,Pishu's,19.13644864,72.82959826,"Andheri Lokhandwala, Andheri West8, New Shantivan Building, Oberoi Complex Road, Sab TV Lane,","Andheri Lokhandwala, Andheri West", Mumbai,550,3.9,yes,no,no,yes,no,no
+216,1441 Pizzeria,18.9291371,72.8344812,"Ground Floor, 5,  58/64,  Hari Chambers, S B Road,Fort, Mumbai",Fort, Mumbai,1000,4.4,yes,no,no,yes,no,no
+217,Slink & Bardot,19.017247,72.817522,"329/A, Thadani House, Opposite Indian Coast Guard,WorliVillage, Worli, Mumbai",Worli, Mumbai,3000,4,no,yes,yes,yes,yes,no
+218,Kaitlyn's Beer Garden,19.0547646,72.8281235,"Hill Road, Bandra West201-202, Khan House,","Hill Road, Bandra West", Mumbai,1650,4.4,yes,yes,yes,yes,yes,no
+219,Pop Tate's,19.0027399,72.82880701,"Unit 2, Ground Floor, Trade Garden Building, Kamala Mills Compound, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1600,3.9,yes,no,yes,no,no,no
+220,Cavalry The Lounge,19.118683,72.905464,"2nd Floor, Heera Panna  Shopping Center, Next to Lake Solitaire, Hiranandani Gardens,Powai, Mumbai",Powai, Mumbai,1500,4,no,yes,yes,yes,yes,no
+221,Ray's Cafe & Pizzeria,19.0547895,72.8283766,"133, Gazebo House, Hill Road, (Behind Mamagoto), Bandra West, Mumbai",Powai, Mumbai,1400,4,yes,no,no,yes,yes,no
+222,Mezzo Veg Lounge,19.22305198,72.8500957,"Opp. Reliance Mall, Shimpoli,   400092,Borivali West, Mumbai",Borivali West, Mumbai,1000,3.9,yes,no,no,no,no,no
+223,Tryst,18.99474707,72.82394584,"Phoenix Mill Compound, High Street Phoenix, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,2500,3.6,no,no,yes,no,no,no
+224,Basanti and Co.,19.12620467,72.82082107,"7 Bungalows, Andheri West7/11, Meera Apartments, Juhu Versova Link Road,","7 Bungalows, Andheri West", Mumbai,1000,3.9,no,no,yes,no,no,no
+225,Drinkery 51,19.06738834,72.86711298,"1st Floor, Vibgyor Towers,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1500,4,no,yes,yes,no,yes,no
+226,IMBISS,19.053781,72.8297754,"Hill Road, Bandra West14, Ben O Lil Haven, Waroda Road, Off Hill Road,","Hill Road, Bandra West", Mumbai,1000,4.4,yes,no,no,no,no,no
+227,Shalimar,18.9578636,72.8320232,"Vazir Building, Shalimar Corner, Bhendi Bazaar, Sandhurst Road,Mohammad Ali Road, Mumbai",Mohammad Ali Road, Mumbai,700,3.8,yes,no,no,no,yes,no
+228,The American Joint,19.2238399,72.8413473,"The Ahcl Homes Tower, Chikuwadi New Link Road,Borivali West, Mumbai",Borivali West, Mumbai,1000,3.7,no,no,no,no,no,no
+229,Slurp N Burp,19.233993,72.855698,"Shop 9, Ground Floor, Natraj Coop Housing Society, Near croma Sodawala Lane,  Chamunda Circle,Borivali West, Mumbai",Borivali West, Mumbai,450,3.7,yes,no,no,no,no,no
+230,Le 15 Patisserie,19.0660421,72.8297254,"Pali Hill, Bandra WestGround Floor, Siffin Apartments, Dr. Ambedkar Road,","Pali Hill, Bandra West", Mumbai,500,4.1,no,no,no,no,no,no
+231,Le 15 Patisserie,18.9943682,72.8234431,"1st Floor, Palladium Mall, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,500,4.1,no,no,no,no,no,no
+232,Le 15 Patisserie,19.15265304,72.83092897,"Oshiwara, Andheri WestShop 11, Ground Floor, Windermere 1-B CHS, Near Mega Mall,","Oshiwara, Andheri West", Mumbai,500,4.1,no,no,no,yes,no,no
+233,Zaffran,19.18501495,72.83399642,"4th Floor, Infiniti Mall, Link Road,Malad West, Mumbai",Malad West, Mumbai,1400,3.8,yes,no,yes,no,no,no
+234,Zaffran,19.0998566,72.91667517,"1st Floor, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1400,3.5,yes,no,yes,yes,no,no
+235,Zaffran,19.0547905,72.8259233,"Hill Road, Bandra West95 Fernandez Villa, Opposite St Andrew's Church,","Hill Road, Bandra West", Mumbai,1400,3.7,yes,yes,yes,no,yes,no
+236,Zaffran,19.20327547,72.85972785,"T 9, 3rd Floor, Growell's 101 Mall, Akruli Road, Off Western Express Highway,Kandivali East, Mumbai",Kandivali East, Mumbai,1400,3.5,yes,no,yes,no,no,no
+237,Zaffran,19.0651945,73.001254,"1st Floor, Inorbit Mall,Vashi, Navi Mumbai",Vashi, Mumbai,1400,3.6,yes,no,yes,no,no,no
+238,Zaffran,19.14129008,72.83133466,"Andheri Lokhandwala, Andheri WestFloor 2, Infiniti Mall,","Andheri Lokhandwala, Andheri West", Mumbai,1400,3.7,yes,yes,yes,no,no,no
+239,Kebab Korner By Zaffran,19.0547159,72.8257951,"Hill Road, Bandra WestFernandez Villa, Opposite St Andrew's Church,","Hill Road, Bandra West", Mumbai,400,3.1,yes,no,yes,no,yes,no
+240,The Bombay Dhaba,19.22292915,73.01887002,"Mumbai-Nashik Highway, Dive Anjur, Bhiwandi,Kalwa, Mumbai",Kalwa, Mumbai,850,3.9,no,yes,no,no,yes,yes
+241,Cafe Mondegar,18.92407821,72.83212256,"5A, Metro House, Shahid Bhagat Singh Road, Near Regal Cinema,Colaba, Mumbai",Colaba, Mumbai,1300,4,no,no,no,no,no,no
+242,Swey,18.9912739,72.8143781,"4th Floor, Atria Mall, Dr. Annie Besant Rd, Opposite Poonam Chambers,Worli, Mumbai",Worli, Mumbai,1500,3.5,no,yes,yes,yes,yes,no
+243,Su Casa,19.05177328,72.83285514,"Reclamation, Bandra WestThe Bombay Art Society, Ground Floor, Opp Hotel Rang Sharda,Near Lilavati Hospital,","Reclamation, Bandra West", Mumbai,1700,3.7,no,yes,yes,yes,yes,no
+244,Sammy Sosa,19.151186,72.83179633,"Oshiwara, Andheri WestShop 18, Meera CHS, Near Mega Mall, Oshiwara Link Road,","Oshiwara, Andheri West", Mumbai,1700,4.6,yes,no,yes,yes,no,no
+245,Shamiana - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,2500,4.1,no,no,yes,yes,no,no
+246,Bombay Barbeque,19.20355789,72.9689246,"Khopat, Thane WestShop 3-5, Dev Corpora, Pokhran Road 1, Cadbury Junction,","Khopat, Thane West", Mumbai,1600,3.8,no,no,no,no,no,no
+247,Pot Pourri,19.045434,72.903148,"2nd Floor, Cubic Mall, Vasant Vihar Road,Chembur, Mumbai",Chembur, Mumbai,1300,3.8,no,no,yes,no,no,no
+248,Icekraft,19.15138902,72.83223353,"Oshiwara, Andheri West5, Meera CHS, Opposite Windsor Grande Residences,","Oshiwara, Andheri West", Mumbai,300,4.2,no,no,no,yes,no,no
+249,Vedge,19.1353726,72.8330447,"Ground Floor, Fun Republic Mall, New Link Road,Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,1000,4.3,yes,no,no,no,no,no
+250,10th Street Cafe,19.11319193,72.83004183,"Shop 8, Sukhmani Himalaya CHS, 10th Road, Gurunanak Marg, JVPD Scheme,Juhu, Mumbai",Juhu, Mumbai,1300,3.8,no,no,no,no,yes,no
+251,POH,19.0060791,72.8270018,"Gate 4, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,2500,4.3,no,no,yes,no,no,no
+252,38 Degree East,19.12199866,72.90849264,"Panchkutir, Adhishankracharya Marg, OppositePowaiLake, JVLR,Powai, Mumbai",Powai, Mumbai,1000,3.7,yes,yes,yes,no,yes,no
+253,Mehman Nawazi,19.11336268,72.90939532,"8th Floor, A Wing, Supreme Business Park, Hiranandi Gardens,Powai, Mumbai",Powai, Mumbai,1450,3.7,no,no,yes,no,yes,yes
+254,Fable,19.11062842,72.8275333,"Shop 3, Ashiyana Apartment, N.S Road 13,Juhu, Mumbai",Juhu, Mumbai,1400,4,yes,no,no,yes,yes,no
+255,Swey,18.9912739,72.8143781,"4th Floor, Atria Mall, Dr. Annie Besant Rd, Opposite Poonam Chambers,Worli, Mumbai",Worli, Mumbai,1500,3.5,no,yes,yes,yes,yes,no
+256,Barbeque Nation,18.99124,72.8144935,"Atria Mall, 4th Floor, Dr. Annie Besant Road,Worli, Mumbai",Worli, Mumbai,1900,4,no,no,yes,no,yes,no
+257,Matahaari,18.9913332,72.8142391,"Level IV, The Atria Mall, Dr. Annie Besant Road,Worli, Mumbai",Worli, Mumbai,3000,3,no,yes,yes,no,yes,no
+258,The Spare Kitchen,18.9913505,72.8142396,"Atria Mall, 4th Floor, Dr. Annie Besant Road,Worli, Mumbai",Worli, Mumbai,2200,3.7,yes,yes,yes,yes,yes,no
+259,Theobroma,18.9912739,72.8143781,"Atria Mall, 4th Floor, Dr. Annie Besant Road,Worli, Mumbai",Worli, Mumbai,500,3.7,no,no,no,no,no,no
+260,Pala Fala,18.99120402,72.81458057,"Atria Mall, 4th Floor, Annie Besant Road,Worli, Mumbai",Worli, Mumbai,1000,3.6,yes,no,no,yes,yes,no
+261,Sammy Sosa,18.99120402,72.81458057,"Mahavir Icon, Shop 7 & 8, Plot 89 & 90, Sector 15,CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,1700,3.5,no,no,no,no,no,no
+262,Masala Kraft - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,6500,3.9,no,no,yes,yes,no,no
+263,Souk - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,5500,4,no,no,yes,yes,no,no
+264,Sea Lounge - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,3500,4.4,no,no,no,yes,no,no
+265,Hard Rock Cafe,19.0065039,72.8293805,"Wadia International Center, Bombay Dyeing, Pandhurang Budhkar Marg,Worli, Mumbai",Worli, Mumbai,2500,4.3,no,no,yes,no,no,no
+266,ZOOBAR,19.1005007,72.8406265,"1st Floor, Liberty Lodge, DJ Road, Above Mcdonalds,Vile Parle West, Mumbai",Vile Parle West, Mumbai,1200,3.9,yes,yes,yes,yes,yes,no
+267,99 Bollywood Bar,19.07135786,72.83997606,"Near Hotel Amardeep, Opp.GASM Lounge' Next toKharStation, Khar West, Khar, Mumbai",Khar, Mumbai,1000,3.5,no,yes,yes,yes,yes,no
+268,The Sassy Spoon,18.9283278,72.8225141,"Ground Floor, Express Towers, Ramnath Goenka Marg,Nariman Point, Mumbai",Nariman Point, Mumbai,1800,4.3,no,no,yes,no,yes,no
+269,The Irish House,19.2085024,72.9714887,"Majiwada, Thane WestViviana Mall, Level 1, Eastern Express Highway, Beside Jupiter Hospital,","Majiwada, Thane West", Mumbai,1900,4.1,no,yes,yes,no,no,no
+270,Gajalee,19.1037439,72.8515941,"Kadamgiri Complex, Hanuman Road,Vile Parle East, Mumbai",Vile Parle East, Mumbai,1000,4.1,yes,no,no,no,no,no
+271,Britannia & Company Restaurant,18.93450908,72.84016717,"Wakefield House, 11 Sprott Road, 16 Ballard Estate,Fort, Mumbai",Fort, Mumbai,1000,4,no,no,no,no,no,no
+272,Pizza Hut,18.93865493,72.8337463,"Elphinston House, 17 Muraban Road, Opposite Sterling Theatre,Mumbai CST Area, Mumbai",Mumbai CST Area, Mumbai,900,3.9,yes,no,no,no,no,no
+273,Borivali Biryani Centre,19.2197724,72.8411259,"25-28, Aditya Apartment, Shimpoli, Chikuwadi,Borivali West, Mumbai",Borivali West, Mumbai,750,3.1,yes,no,no,no,no,no
+274,The Pancake Story,19.1404352,72.82604434,"Andheri Lokhandwala, Andheri West3, Lokhandwala Complex,","Andheri Lokhandwala, Andheri West", Mumbai,500,4.5,no,no,no,no,no,no
+275,Chitchat Chai,19.2313643,72.8523429,"Shop 8, Victory Park, Chandaverkar Lane,Borivali West, Mumbai",Borivali West, Mumbai,150,3.8,yes,yes,no,no,no,no
+276,Air Deck Lounge,19.21359729,72.84112271,"X Central Mall, Above Kotak Bank, Mahavir Nagar,Kandivali West, Mumbai",Kandivali West, Mumbai,1500,3.2,no,yes,yes,no,yes,no
+277,The Marina Upper deck - Rooftop Cafe- Sea Palace Hotel,18.91879941,72.83205148,"Sea Palace Hotel, PJ Ramchandani Marg, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,1600,3.5,no,no,yes,no,yes,no
+278,The Junkyard Cafe,19.0550348,72.8281728,"Hill Road, Bandra West164,","Hill Road, Bandra West", Mumbai,2100,3.8,no,yes,yes,no,no,no
+279,Punjab Grill,18.9942672,72.8237836,"3rd Floor, Palladium Mall, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,4.4,yes,no,yes,yes,no,no
+280,Spesso Gourmet Kitchen,18.9242101,72.8216832,"Ground Floor, Regent Chambers, Jamnalal Bajaj Road,Nariman Point, Mumbai",Nariman Point, Mumbai,1200,4.2,yes,no,no,no,no,no
+281,Brewbot Eatery & Pub Brewery,19.1409552,72.8329907,"G01 & 101, Morya Landmark 1, Off New Link Road,Veera Desai Area, Mumbai Veera Desai Area",Veera Desai Area, Mumbai,1500,4.1,yes,yes,yes,yes,yes,no
+282,Hello Guppy,19.05949717,72.86482975,"Unit 4, Ground Floor, Jet Airways, Godrej Building,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1500,4.3,no,yes,yes,no,yes,no
+283,Yoko Sizzlers,19.07779661,72.8378826,"10/11, West View 309, SV Road, Near Akbarallys,Santacruz West, Mumbai",Santacruz West, Mumbai,2100,3.7,no,no,no,no,no,no
+284,Cafe Chokolade,19.22041799,72.85019897,"Shop 8, Bhattad Towers, Opposite Kora Kendra Ground, Bhattad Road.,Borivali West, Mumbai",Borivali West, Mumbai,500,3.7,yes,no,no,yes,no,no
+285,Xico,19.0053453,72.8235243,"Ground Floor, Oasis City, Kamala Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,4000,3.7,no,no,yes,no,yes,no
+286,Quattro Ristorante,18.9943101,72.825743,"7, Janta India Estate, Senapati Bapat Marg, Opposite Phoenix Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,1800,4.3,yes,no,yes,no,yes,no
+287,Pakka Local Bar,19.10698583,72.88349424,"06/106, Town Center, Opposite Times Square Building,MarolNaka, Marol, Mumbai",Marol, Mumbai,1000,3.7,no,no,yes,yes,yes,no
+288,Turban Tales,19.12382723,72.90963953,"2nd Floor, Above Mini Punjab Lakeside, Adishankarashrya Marg, Near Panchkutir Bus Stop, JVLR,Powai, Mumbai",Powai, Mumbai,800,4,no,yes,yes,no,no,no
+289,3 Wise Monkeys,19.07054571,72.83973768,"The Unicontental, 3rd Road, Off SV Road,KharWest, Khar, Mumbai",Khar, Mumbai,1500,3.8,yes,no,yes,yes,no,no
+290,Boteco,19.06128034,72.86787909,"Unit GO 1A, Ground Floor, Parinee Crescenzo, G Block,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,1900,4.5,yes,no,yes,no,yes,no
+291,Radha Krishna,19.11499828,72.84304284,"50, SV Road,Near Andheri West Station, Mumbai",Near Andheri West Station, Mumbai,750,3.8,yes,no,no,no,no,no
+292,Sai Palace,19.11493587,72.86048893,"Near Holy Family School,MahakaliRoad, Mahakali, Mumbai",Mahakali, Mumbai,1100,3.9,yes,no,yes,no,no,no
+293,Veranda,19.0667505,72.8301432,"Pali Hill, Bandra WestHotel Executive Enclave, 331, Dr Ambedkar Road,","Pali Hill, Bandra West", Mumbai,3000,4.4,no,no,yes,yes,yes,no
+294,Nau Se Barah 9/12,19.101123,73.010125,"Ground Floor, Balaji movieplex, Sector 8,Kopar Khairane, Navi Mumbai",Kopar Khairane, Mumbai,1000,3.8,no,yes,yes,yes,no,no
+295,The Chocolate Room,19.07838945,72.9039662,"Shop 1, M G Road, Opposite Kotak Mahindra Bank,Ghatkopar East, Mumbai",Ghatkopar East, Mumbai,500,3.9,no,no,no,no,no,no
+296,The Bar Terminal,18.9302308,72.8332349,"6/8, Rajabahadur Mansion, Hamam Street, Next to Bombay Stock Exchange Building,Fort, Mumbai",Fort, Mumbai,1200,3.6,no,yes,yes,yes,no,no
+297,Aromas Cafe,19.11691643,72.90987745,"Ground Floor, Ventura Building, Hiranandani Gardens,Powai, Mumbai",Powai, Mumbai,1200,3.8,yes,no,no,yes,no,no
+298,Jia The Oriental Kitchen,18.9241,72.833567,"2, Dhanraj Mahal, C. S. Marg,Colaba, Mumbai",Colaba, Mumbai,2500,4.5,yes,no,yes,no,no,no
+299,Chaubara 601,19.1959487,72.97968227,"Naupada, Thane WestRooftop, CKP Hall, Kharkar Alley, Next to NKT College, Behind Thane Court,","Naupada, Thane West", Mumbai,1000,4.5,no,yes,no,no,yes,yes
+300,Copper Chimney,18.988341,72.814083,"12A, Lotus Court, Dr Annie Besant Road,Worli, Mumbai",Worli, Mumbai,1150,3.7,yes,no,yes,no,yes,no
+301,The Table,18.92406393,72.83317197,"Kalapesi Trust Building, Near Hotel Suba Palace, CS Maharishi Marg,Colaba, Mumbai",Colaba, Mumbai,4000,4.1,no,no,yes,yes,yes,no
+302,Off The Grid,19.14048628,72.83321551,"Oshiwara, Andheri WestG-5, Mourya Landmark 1, Plot B - 25, Off link Road, Opposite Infinity Mall,","Oshiwara, Andheri West", Mumbai,1000,3.9,no,yes,yes,yes,yes,no
+303,Ustaadi,18.94555007,72.83395652,"B, Sitaram Building, Dr. D. N. Road, Near Crawford Market,Mumbai CST Area, Mumbai",Mumbai CST Area, Mumbai,1200,4.1,yes,yes,no,yes,yes,no
+304,Pratap The Dhaba,19.1489474,72.83209573,"Oshiwara, Andheri WestLink Plaza, Next To Punjab & Maharashtra Bank,","Oshiwara, Andheri West", Mumbai,1000,3.9,yes,yes,yes,no,yes,no
+305,Red Olives,19.11601676,72.90907681,"19, Ventura Building, Hiranandani Business Park, Central Avenue Road,Powai, Mumbai",Powai, Mumbai,1500,4.5,yes,no,yes,yes,yes,no
+306,Gustoso,19.0700986,72.82916073,"Jharna Apartments, Dr BR Ambedkar Road,KharWest, Khar, Mumbai",Khar, Mumbai,2200,3.9,yes,yes,yes,no,yes,no
+307,Sheesha Sky Lounge,18.992493,72.824234,"P2 Building, 4th Floor, Roof Top Terrace Raghuvanshi Estate, S.B Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1500,4,no,yes,no,yes,yes,yes
+308,Cafe Coffee Day,19.0400832,72.8465625,"Cadell RoadMahim, 96, Ground Floor, Jahangir Baug, Mahim, Mumbai",Mahim, Mumbai,500,2.6,yes,no,no,no,no,no
+309,Biryani Barbeque Chinese By  Borivali Biryani Centre,19.22992041,72.84797274,"Shraddha Heights, Babhai Naka, Opposite Kam Dhenu Building,Borivali West, Mumbai",Borivali West, Mumbai,550,4.1,yes,no,no,no,no,no
+310,Delhi Darbar,18.92350923,72.83152275,"10/14, Holland House, Shaheed Bhagat Singh Road, Near Regal Cinema,Colaba, Mumbai",Colaba, Mumbai,900,3.4,yes,no,no,no,no,no
+311,MexiChino,19.2277698,72.8486164,"Ground Floor, Lucky Laxmi Building, Lane Opp. To gate no 2 of Veer Savarkar garden, Vasantrao Chogle Road, Opposite Bhatiawadi, Babhai Naka,Borivali West, Mumbai",Borivali West, Mumbai,700,4.1,yes,no,no,no,yes,no
+312,The Blue,19.065922,72.8310077,"Pali Hill, Bandra WestShop 1, Sai Pooja Building, 16th Road & 33rd Road Junction,","Pali Hill, Bandra West", Mumbai,1500,4.5,no,yes,no,no,no,no
+313,Lucky Restaurant,19.0539737,72.8376828,"Hill Road, Bandra WestJunction Of SV Road & Hill Road,","Hill Road, Bandra West", Mumbai,750,3.6,yes,yes,no,yes,yes,no
+314,Dara's Dhaba,19.2772,72.888958,"Western Express Highway 8, Kashimira, PostMira RoadEast, Mumbai, Mira Road, Mumbai",Mira Road, Mumbai,1200,3.6,yes,yes,yes,no,no,no
+315,TNBT : The Next Big Thing,18.95618666,72.81199761,"29/A, Jethabhai Govindji Building, Opposite Merchants Club, Metro Motors Lane, Rangekar Road,Chowpatty, Mumbai",Chowpatty, Mumbai,850,4,yes,no,no,yes,no,no
+316,Cafe Bandra,19.062438,72.831042,"Pali Hill, Bandra West85, Luis Belle CHS LTD, TPS 3 Junction of 16th & 30th Road,","Pali Hill, Bandra West", Mumbai,800,3.9,no,yes,no,no,yes,no
+317,Genuine Broaster Chicken,19.13019527,72.81816334,"Versova, Andheri WestShop 1 and 2, Tirupati Tower, Opposite Thakkar Sweets,","Versova, Andheri West", Mumbai,800,3.8,yes,yes,yes,no,yes,no
+318,Pali Bhavan,19.0620995,72.8295392,"10 Adarsh Nagar, Next to Costa Coffee, Pali Naka,Pali Hill, Bandra West, Mumbai","Pali Hill, Bandra West", Mumbai,3000,3.9,no,no,yes,no,no,no
+319,Kazuza,19.06876359,72.83721272,"301, Hi-Tech Centre, SV Road, NearKharTraffic Police Station, Khar, Mumbai",Khar, Mumbai,800,4.2,no,yes,no,yes,yes,no
+320,Guru Kripa,19.04301331,72.86160104,"40, Guru Kripa Building, Road 24, Near SIES College,Sion, Mumbai",Sion, Mumbai,300,4.3,no,no,no,no,no,no
+321,TGI Fridays,19.06545725,72.83322729,"201, Second Floor, Link Corner, Bandra,KharWest, Khar, Mumbai",Khar, Mumbai,2500,3.3,no,yes,yes,yes,yes,no
+322,Canto Cafe & Bar,18.95645175,72.81403407,"534, SVP Road, Hughes Road, Opera House,Charni Road, Mumbai",Charni Road, Mumbai,1300,4.2,yes,no,yes,yes,yes,no
+323,KFC,19.11875315,72.91133255,"Ground Floor, Haiko Mall, Hiranandani Gardens,Powai, Mumbai",Powai, Mumbai,550,3.4,yes,no,no,no,no,no
+324,Monkey Bar,19.06552475,72.83259697,"Linking Road, Bandra WestSummerville, Junction of 14th & 33rd Road,","Linking Road, Bandra West", Mumbai,1800,3.8,yes,yes,yes,no,yes,no
+325,D:OH!,19.0059076,72.8268879,"Ground Floor, Unit 2B, Trade View, Kamala City, Kamala Mills Compound, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,800,3.8,yes,yes,yes,no,yes,no
+326,Bombay 63,19.175754,72.8686134,"Shop 2, Near Dindoshi Court, Film City Road,Goregaon East, Mumbai",Goregaon East, Mumbai,800,3.8,yes,yes,yes,no,yes,no
+327,Poetry by Love and Cheesecake,19.06517364,72.8309169,"Linking Road, Bandra WestPali Darshan, Junction of 16th & 33rd road,","Linking Road, Bandra West", Mumbai,1000,4.2,yes,no,no,no,no,no
+328,Sirocco,19.13682779,72.81013012,"Inch By Inch Body Temple, JP Road, Off Yari Road, Panch Nagar, Near D Mart,Versova, Andheri WestMumbai 400061, Versova, Andheri West","Versova, Andheri West", Mumbai,1200,3.8,yes,yes,yes,yes,yes,no
+329,Kasbah Grand,19.16459509,72.83506695,"Top Floor, Chandiwala Arcade, Opposite Bangur Nagar, Goregoan Link Road,Goregaon West, Mumbai",Goregaon West, Mumbai,1400,3.7,yes,yes,no,no,yes,yes
+330,The Appetite Momos,19.1869839,72.97445599,"Naupada, Thane WestDada Patil Wadi, Opposite Kotak Mahindra ATM, Railway Station,","Naupada, Thane West", Mumbai,200,4.2,yes,no,no,no,no,no
+331,Maharaja Bhog,18.9989783,72.8302239,"Opposite Kamla Mills Senapati Bapat Marg, Todi Mills ,Lower Parel, Mumbai",Lower Parel, Mumbai,1180,4.1,yes,no,no,no,no,no
+332,Belstone,18.9923248,72.823772,"First Floor, 11/12, Raghuvanshi Mills, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1100,3.7,yes,no,no,yes,yes,no
+333,SardaarJi,19.11732,72.829293,"Shop 14,JuhuEkta CHS, Next to Mohan Medical, Juhu Versova Link Road, Juhu, Mumbai",Juhu, Mumbai,500,3.9,yes,no,no,no,no,no
+334,The Stables - Peninsula Redpine,19.10967295,72.87591398,"Peninsula Redpine, Near Airport Road Metro Station, Andheri East,Marol, Mumbai",Marol, Mumbai,1500,3.9,no,yes,yes,yes,yes,no
+335,Quesso Ristorante,19.14898192,72.83278909,"Oshiwara, Andheri West93-96, Link Plaza Commercial Premises, Above Shreejee Veg Wonder, Link Road Extension,","Oshiwara, Andheri West", Mumbai,1600,4.1,yes,no,yes,no,yes,no
+336,JW Café - JW Marriott Mumbai Sahar,19.1040365,72.8744336,"JW Marriott Mumbai Sahar, IA Project Road, Chhatrapati Shivaji International Airport, Mumbai Sahar,Chakala, Mumbai",Chakala, Mumbai,4000,4.7,no,yes,yes,yes,yes,no
+337,Hungry Head,19.12213065,72.91335158,"1, Hakone, BehindPowaiPlaza, Powai, Mumbai",Powai, Mumbai,400,3.7,yes,no,no,no,no,no
+338,Mamagoto,19.0548358,72.8282284,"133, Ground Floor, Gazebo House,Hill Road, Bandra West, Mumbai, Maharashtra","Hill Road, Bandra West", Mumbai,1500,4.1,yes,no,yes,no,no,no
+339,Warehouse Kitchen,19.2402077,72.8426948,"5, Sureshwari Vilas, Link Road, Near Eskay Resort,Borivali West, Mumbai",Borivali West, Mumbai,1000,3.6,yes,no,yes,yes,yes,no
+340,Hard Rock Cafe,19.1360701,72.8355079,"Sharyans Audeus, Ground Floor, Opposite Yashraj Studios,Veera Desai Area, Mumbai Veera Desai Area",Veera Desai Area, Mumbai,2500,4.2,no,no,yes,no,no,no
+341,The Irish House,18.9943155,72.8242913,"Phoenix Mills Compound, High Street Phoenix, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1900,4,no,yes,yes,no,no,no
+342,The Irish House,19.0616985,72.8297419,"Pali Hill, Bandra West7, A-Wing, Gasper Enclave, Palinaka,","Pali Hill, Bandra West", Mumbai,1900,4.2,no,no,yes,no,no,no
+343,The Irish House,18.9275873,72.8323348,"Rampart Row, Near Rhythm House, Kalaghoda,Fort, Mumbai",Fort, Mumbai,1900,4,no,yes,yes,yes,yes,no
+344,The Irish House,19.1349878,72.8328513,"Level One, Fun Republic, Veera Desai Road, Shah Industrial Estate,Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,1900,4.3,no,yes,yes,no,no,no
+345,The Irish House,19.17312758,72.83566844,"2nd Floor, Inorbit Mall, Link Road,Malad West, Mumbai",Malad West, Mumbai,1900,4.1,no,yes,yes,no,no,no
+346,The Irish House,19.08555762,72.88915034,"Level 1, Phoenix Market City Mall, LBS Road,Kurla, Mumbai",Kurla, Mumbai,1900,4,no,yes,yes,no,no,no
+347,The Irish House,19.2085024,72.9714887,"Majiwada, Thane WestViviana Mall, Level 1, Eastern Express Highway, Beside Jupiter Hospital,","Majiwada, Thane West", Mumbai,1900,4.1,no,yes,yes,no,no,no
+348,PizzaExpress,19.2087098,72.9716617,"Majiwada, Thane West2nd Floor, Viviana Mall, Eastern Express Highway, Near Jupiter Hospital,","Majiwada, Thane West", Mumbai,1500,4.3,no,no,yes,no,no,no
+349,SodaBottleOpenerWala,19.20828844,72.97198098,"Majiwada, Thane WestViviana Mall, Eastern Express Highway, Near Jupiter Hospital,","Majiwada, Thane West", Mumbai,1300,4.1,no,no,yes,yes,no,no
+350,Taj Mahal Tea House,19.04857783,72.82591391,"Reclamation, Bandra West36-A, Ground Floor, Sanatan Pereira Bungalow, St. John Baptist Road,","Reclamation, Bandra West", Mumbai,1500,4.4,no,no,no,yes,yes,no
+351,Waters 24 - Vintage Cafe,19.195121,72.961905,"Panch Pakhadi, Thane West2nd floor, Sun Magnetica Building, Greens Road, Louis Wadi Service Road, Near Eastern Express Highway,","Panch Pakhadi, Thane West", Mumbai,700,3.8,no,yes,yes,yes,no,yes
+352,Hemant Oberoi,19.195121,72.961905,"Unit 5, Ground Floor, Jet Airways Godrej Building,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,4000,4.4,no,no,yes,yes,yes,no
+353,JW Café - JW Marriott Mumbai Sahar,19.1040365,72.8744336,"JW Marriott Mumbai Sahar, IA Project Road, Chhatrapati Shivaji International Airport, Mumbai Sahar,Chakala, Mumbai",Chakala, Mumbai,4000,4.7,no,yes,yes,yes,yes,no
+354,The Finch,19.114882,72.888464,"Finch Shah Industrial Estate, Opp. Huntsman Building, Saki Vihar Road, Andheri (E), Mumbai-400072","Linking Road, Bandra West", Mumbai,3000,4.3,no,yes,yes,yes,yes,no
+355,China Gate,19.06221644,72.83457175,"Linking Road, Bandra West155, Waterfield Road, Tamang Niwas,","Linking Road, Bandra West", Mumbai,1800,3.6,yes,no,yes,no,yes,no
+356,Roots Cafe,19.10961656,72.87607625,"Peninsula Redpine, Near Airport Road Metro Station, Andheri East,Marol, Mumbai",Marol, Mumbai,900,3.5,no,yes,yes,no,no,yes
+357,Madras Diaries,19.06007044,72.83403631,"Linking Road, Bandra WestShop 7, Ground Floor, Muzaffar Manor, 117 Waterfield Road,","Linking Road, Bandra West", Mumbai,550,3.8,no,no,no,yes,yes,no
+358,B MAD - The Restaurant,19.17324982,72.95541164,"Shop 6,7,8, 1st Floor, Munshi Estate, M.G Road, Near Mulund Station,Mulund West, Mumbai - 80",Mulund West, Mumbai,1200,3.8,no,no,no,no,no,no
+359,Hotel Sai Palace Garden,19.27608333,72.89006111,"Western Express Highway, Near Laxmi Baug, KashiMira Road, Mumbai",Mira Road, Mumbai,1500,3.7,no,no,yes,no,no,no
+360,Urban Tadka,19.1271518,72.82175381,"7 Bungalows, Andheri WestShiv Shopping Center, Off J.P. Road Junction, Off Bon Bon Lane and Juhu Versova Link Road,","7 Bungalows, Andheri West", Mumbai,1000,3.7,yes,no,yes,no,no,no
+361,The Homemade Cafe,19.14961949,72.83153851,"Oshiwara, Andheri West4, 41, Kaveri Building, Near Oshiwara Police Station, Oshiwara Link Road,","Oshiwara, Andheri West", Mumbai,1200,4.2,yes,no,no,no,no,no
+362,NRI - Not Really Indian,19.0546437,72.8499325,"2, North Avenue, Maker Maxity,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,2000,3.9,no,yes,yes,no,yes,no
+363,Cafe Delhi Heights,19.004722,72.826062,"Unit 2, C.S. 448, Ground Floor, Kamala Mills Compund, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,3.8,no,no,yes,yes,no,no
+364,Peshawri - ITC Maratha,19.104306,72.8704543,"ITC Maratha, Sahar Road,Chakala, Mumbai",Chakala, Mumbai,5000,4.5,no,no,yes,yes,yes,no
+365,The Bohri Kitchen,19.104306,72.8704543,"Worli, Mumbai",Worli, Mumbai,600,4.4,no,no,no,no,no,no
+366,Relish - International Veg Cuisine,18.93030319,72.82632094,"Prem Court, J Tata Road,Churchgate, Mumbai",Churchgate, Mumbai,1200,4.1,yes,no,no,no,no,no
+367,The Benedict Bistro & Bar,19.05076138,72.82720607,"Reclamation, Bandra WestBuilding 68, Chapel Road, Behind Lilavati Hospital,","Reclamation, Bandra West", Mumbai,2000,4.1,yes,yes,yes,yes,yes,yes
+368,Dinshaw's Xpress Cafe,19.15242215,72.83097222,"Oshiwara, Andheri West6, Oshiwara Shop, Windermere Building, Off Link Road,","Oshiwara, Andheri West", Mumbai,800,3.9,yes,yes,no,no,no,no
+369,Bennie's By Flag's,19.14427818,72.82919995,"Andheri Lokhandwala, Andheri WestFlags Avant Garde, Near Marks and Spencer’s, K. R. Basakhetre Road,","Andheri Lokhandwala, Andheri West", Mumbai,1500,4.2,yes,no,yes,no,yes,no
+370,Kitty Su - The Lalit Mumbai,19.1060117,72.8748801,"The Lalit Mumbai, Sahar Airport Road, Andheri East,Chakala, Mumbai",Chakala, Mumbai,3000,3.5,no,yes,yes,no,yes,no
+371,Sindhful,19.06942777,72.83796072,"Haji Mansion, 5th Road,KharWest, Khar, Mumbai",Khar, Mumbai,800,4.4,yes,no,no,no,no,no
+372,Trioz,19.06942777,72.83796072,"406, SV Road, First Floor, Next to Pawan Hans,Vile Parle West, Mumbai Above Dominos",Vile Parle West, Mumbai,1100,3.3,no,yes,yes,no,yes,no
+373,Aaswad,19.020628,72.8369474,"61, Mejwani, Sadanand, Gokhale Road, Opposite Amar Hind Mandal,Dadar Shivaji Park, Mumbai",Dadar Shivaji Park, Mumbai,300,4.2,yes,no,no,no,no,no
+374,Facing East,19.11022513,72.82748234,"JVPD Scheme, 13th Road, NearJuhuGymkhana, Juhu, Mumbai",Juhu, Mumbai,1300,3.8,yes,no,yes,no,no,no
+375,Oye Kake,19.0059054,72.8268648,"Ground Floor, Trade View Building Oasis Complex, Kamala Mills Compound, Pandurand Budhkar Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,600,3.8,yes,no,yes,no,no,no
+376,Banana Leaf,19.12525974,72.82243006,"7 Bungalows, Andheri WestShubham CHS, Opposite Vikram Petrol Pump, Juhu Versova Link Road,","7 Bungalows, Andheri West", Mumbai,600,3.9,yes,no,no,no,yes,no
+377,Juno's Pizza,19.084587,72.907544,"Shop 2, Madhav Apartment, Jawahar Road,Ghatkopar East, Mumbai",Ghatkopar East, Mumbai,600,4.4,yes,no,no,no,no,no
+378,Hideout Cafe and Bar,18.9953199,72.8252953,"Unit 9&10, Block 16, High Street Phoenix, Opposite Sky Zone,  Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1300,3.7,no,yes,yes,yes,no,no
+379,Garde Manger Cafe,19.1047979,72.8521826,"Parmar CHS, Paranjape B Scheme, 1st Road Near Mahila Sangh School,Vile Parle East, Mumbai",Vile Parle East, Mumbai,650,4.4,yes,no,no,yes,no,no
+380,70 beans,19.0556592,73.01530503,"8 /9, Plot 5, Vasundhara Height, Sector 11,   
+Navi Mumbai (Opposite Juinagar Railway Station),Sanpada, Sanpada, Navi Mumbai",Sanpada, Mumbai,1000,4.9,yes,yes,no,yes,no,no
+381,Dakshinayan,19.11251146,72.82573387,"Hotel Anand, Gandhigram Road, Near Hare Krishna Temple,Juhu, Mumbai",Juhu, Mumbai,600,4.1,yes,no,no,no,no,no
+382,GOT - Gospel Of Taste,19.06141502,72.83268783,"Linking Road, Bandra WestPlot 126 A, 29th Road, Turner Road, Next to Duruelo Convent School,","Linking Road, Bandra West", Mumbai,300,4,yes,no,no,no,no,no
+383,Lady Baga,19.00599636,72.82715189,"Oasis Complex, Kamala Mills, Gate 4,Lower Parel, Mumbai",Lower Parel, Mumbai,1500,3.7,no,yes,yes,no,yes,no
+384,Gurukripa,19.1169895,72.8892514,"55, Thunga Village, Opposite Local Office Bus Stop, Saki Vihar Road,Powai, Mumbai",Powai, Mumbai,1200,4,no,yes,yes,no,yes,no
+385,Smoke House Deli,19.065369,72.8299032,"Pali Hill, Bandra WestClove At 33rd Road, B. R. Ambedkar Road,","Pali Hill, Bandra West", Mumbai,1400,4.1,yes,yes,yes,no,yes,no
+386,Craftbar,19.06063546,72.85097111,"Hallmark Business Plaza, Sant Dyaneshwar Marg, Near Chetna College, Kalanagar,Bandra East, Mumbai",Bandra East, Mumbai,2000,3.8,no,yes,yes,no,yes,no
+387,Salt Water Cafe,19.05050341,72.82692544,"Reclamation, Bandra West87 Chapel Road, Next to Mount Carmel Church,","Reclamation, Bandra West", Mumbai,1500,4,yes,yes,yes,yes,no,no
+388,Kofuku,19.06108133,72.83619583,"6th Floor, Suburbia Mall, Next To Shoppers Stop,Linking Road, Bandra West, Mumbai","Linking Road, Bandra West", Mumbai,2300,4.2,yes,yes,yes,yes,yes,no
+389,South High Restaurant & Bar,19.004084,72.827617,"Ground Floor, Trade Tower, B Wing, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1100,4.3,yes,no,yes,no,no,no
+390,Afzal Restaurant,18.96989752,72.84086421,"9A, Shivdas Champsi Marg, Opposite Sai Niketan Building, Mazgaon,Byculla, Mumbai",Byculla, Mumbai,500,3.6,yes,no,no,no,no,no
+391,Grass & Gossips,19.1776363,72.9513286,"819/B, Ridhi Sidhi, Near Police Station, Shahid Mangal Pandey Marg,Mulund West, Mumbai",Mulund West, Mumbai,200,3.7,yes,no,no,no,no,no
+392,Tight,19.0656162,73.0007235,"1st Floor, Above KFC, Inside Inorbit Mall, Sector 30 A,Vashi, Navi Mumbai",Vashi, Mumbai,1000,3.5,no,yes,yes,no,no,no
+393,The Bombay Bronx (TBB),18.97520609,72.8063472,"10, Hub Town, Akriti Sky Bay, Bhulabhai Desai Road,Breach Candy, Mumbai",Breach Candy, Mumbai,1500,3.7,no,no,yes,no,yes,no
+394,Elco,19.0558515,72.8332185,"Hill Road, Bandra West2/A, Elco Market, 46,","Hill Road, Bandra West", Mumbai,450,3.6,yes,no,no,no,no,no
+395,Kettle & Keg,19.06718,72.832816,"Shop 1, Celeste Building, Plot 470, Kinchin CHS, 14th Road,Khar, Mumbai",Khar, Mumbai,1600,4.4,yes,no,yes,yes,yes,no
+396,FiestaBites,19.01623804,72.83516318,"Shop 8, Sugee Sadan, Gokhale Road, Babasaheb Ambedkar Nagar,Dadar West, Mumbai",Dadar West, Mumbai,800,3.8,yes,no,no,yes,no,no
+397,The Tasting Room,18.992922,72.823301,"1st Floor, Good Earth, Raghuvanshi Mills Compound, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1800,4.3,no,no,no,yes,no,no
+398,High Point,19.14418189,72.82398976,"Andheri Lokhandwala, Andheri West1 & 2, Citizen, Lokhandwala Complex,","Andheri Lokhandwala, Andheri West", Mumbai,500,3.7,yes,no,no,no,no,no
+399,Lounge 18,19.14418189,72.82398976,"Vasant Vihar, Thane West103, Block  2, Emerald Plaza, Hiranandani Meadows,","Vasant Vihar, Thane West", Mumbai,1000,3.9,no,no,yes,no,no,no
+400,Mad Over Donuts,19.1157459,72.90877707,"G 9, Ground Floor, City Park, Hiranandani Business Park,Powai, Mumbai",Powai, Mumbai,450,4,yes,no,no,no,no,no
+401,Umame,18.93201797,72.82832757,"1st Floor, East Wing, Cambata Building, Near Eros Theatre,Churchgate, Mumbai",Churchgate, Mumbai,3000,4.2,yes,no,yes,no,no,no
+402,Highway Break,19.0354861,73.07159185,"Plot No 197A ,198 ,199 Kopra Road, Sector No 10,Kharghar, Navi Mumbai",Kharghar, Mumbai,1000,3.5,yes,no,no,no,no,no
+403,Rodeo Drive - Peninsula Redpine,19.10967073,72.87584256,"Peninsula Redpine, Near Airport Road Metro Station, Andheri East,Marol, Mumbai",Marol, Mumbai,1500,3.9,no,yes,yes,no,yes,no
+404,Soda Water,19.1369925,72.83275556,"Floor 8, Blue Wave Building, Off New Link Road,Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,1100,3.4,no,yes,yes,no,yes,no
+405,Ambrosia Cafe and Deli,19.10595494,72.88093071,"Shop 2, Wellington Business Park 2, Opposite Skyline Icon, Andheri- Kurla Road,Marol, Mumbai",Marol, Mumbai,800,4,no,yes,no,no,no,no
+406,Srinathji's,18.9985948,72.8277534,"Jagtamba Bhavan, Opposite Kotak Mahindra Bank, Senapati Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,500,3.4,yes,no,no,no,no,no
+407,Theory,19.00288572,72.82814182,"Unit 1, Ground Floor, C Wing, Trade World Building, Kamla Mills Compound, SB Marg, Tulsi Pipe Road,Lower Parel, Mumbai",Lower Parel, Mumbai,2500,3.9,no,yes,yes,yes,yes,no
+408,Cat Café Studio,19.13020572,72.81624958,"Versova, Andheri West63, Harminder Singh Road, Aram Nagar Part 1,","Versova, Andheri West", Mumbai,300,4.3,no,no,no,yes,no,no
+409,Matahaari,18.9913332,72.8142391,"Level IV, The Atria Mall, Dr. Annie Besant Road,Worli, Mumbai",Worli, Mumbai,3000,3,no,yes,yes,no,yes,no
+410,Jyran - Sofitel,19.0682123,72.8689404,"Sofitel Hotel, C 57,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,3300,4.3,no,no,yes,yes,no,no
+411,The Pantry,18.9287009,72.8322383,"Yeshwant Chambers, Military Square Lane, Near Trishna, Kala Ghoda,Fort, Mumbai",Fort, Mumbai,1400,3.9,yes,no,no,yes,no,no
+412,Independence Brewing Company,19.1392059,72.8326694,"B 41, Unit 001 & 101, Boolani Estate Owners Premises Co-Op Society, New Link Road, Opposite City Mall, Mumbai,Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,1800,4.1,no,yes,no,yes,no,no
+413,Bombay Coffee House,19.06340699,72.83465255,"Linking Road, Bandra West248, Neelkamal Building, Opposite National College, Waterfield Road,","Linking Road, Bandra West", Mumbai,750,3.9,yes,no,no,yes,yes,no
+414,Village - The soul of India,19.09977518,72.91717641,"3rd Floor, North Wing, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1000,3.5,no,no,no,no,no,no
+415,The Boston Cupcakery,19.1468589,72.82779079,"Andheri Lokhandwala, Andheri WestShop 1, Legend Apartment, Near Millat Nagar Circle,","Andheri Lokhandwala, Andheri West", Mumbai,600,4.2,yes,no,no,no,no,no
+416,Joss,19.08612858,72.83468742,"Savoy Chambers, Next To Mini Cooper Showroom,Santacruz West, Mumbai",Santacruz West, Mumbai,2500,4.2,no,yes,yes,no,yes,no
+417,Frisbees,19.05599923,72.82441556,"Hill Road, Bandra WestShop 6, A39, Labaik House, Chimbai Road, Near St. Andrews Church,","Hill Road, Bandra West", Mumbai,600,4.2,yes,no,no,no,no,no
+418,Bombay to Barcelona Library Café,19.11029705,72.87803594,"3 & 4, Golden Nest Cooperation Housing Society, Mapkhan Nagar,MarolNaka, Mumbai, Marol, Mumbai",Marol, Mumbai,500,4.7,no,no,no,no,no,no
+419,Cafe Trofima,19.02842702,72.84128565,"Road 2, Raja Bade Chowk,Dadar Shivaji Park, Mumbai",Dadar Shivaji Park, Mumbai,800,3.9,no,no,no,no,no,no
+420,The Lab,18.94558495,72.79536959,"240, Walkeswar Road, Dahibai Building,Malabar Hill, Mumbai",Malabar Hill, Mumbai,750,3.7,yes,no,no,no,no,no
+421,TBC - The Boat Club,19.2631141,72.8747171,"2nd Floor, Thakur Mall,Dahisar East, Mumbai",Dahisar East, Mumbai,1200,4,yes,no,yes,yes,no,no
+422,Mahesh Lunch Home,19.1032728,72.8267956,"Next to J.W MarriottJuhuTara Road, Juhu, Mumbai",Juhu, Mumbai,1800,4.1,yes,no,yes,no,yes,no
+423,Zaika Crave - Club Aquaria,19.24028329,72.84851488,"Club Aquaria, near St. Lawrence School, Devidas Lane,Borivali West, Mumbai",Borivali West, Mumbai,1000,4.6,yes,yes,yes,no,no,no
+424,Blah Blah Lounge,19.24028329,72.84851488,"Panch Pakhadi, Thane West1st Floor, Sun Magnetica Building, Louis Wadi, Near Dhiraj Residency,","Panch Pakhadi, Thane West", Mumbai,800,4.2,no,yes,yes,yes,no,yes
+425,Romano's - JW Marriott Mumbai Sahar,19.103181,72.877653,"JW Marriott Mumbai Sahar, IA Project Road, Chhatrapati Shivaji International Airport, Sahar,Chakala, Mumbai",Chakala, Mumbai,5000,4.8,no,no,yes,yes,yes,no
+426,JW Lounge - JW Marriott Mumbai Sahar,19.103181,72.877653,"JW Marriott Mumbai Sahar, IA Project Road, Chhatrapati Shivaji International Airport, Mumbai Sahar,Chakala, Mumbai",Chakala, Mumbai,1500,4.1,no,no,yes,yes,no,no
+427,China Gate,19.1185786,72.87023608,"G 1, Ground Floor, Akruti Star, MIDC, Central Road,Mahakali, Mumbai",Mahakali, Mumbai,1800,3.7,yes,no,yes,no,yes,no
+428,China Gate,19.1402026,72.8311663,"Royal Plaza, New Link Road,Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,1800,3.6,yes,no,yes,no,no,no
+429,China Gate,19.07115062,72.86408342,"CST Road, Kalina,Santacruz East, Mumbai",Santacruz East, Mumbai,700,3,yes,no,no,no,no,no
+430,China Gate,19.09477823,72.82830879,"JuhuTara Road, Juhu, Mumbai",Juhu, Mumbai,1800,3,yes,no,no,no,no,no
+431,China Gate,19.10715786,72.88428281,"B 1, Times Square Tech Park, Andheri Kurla Road, Sakinaka Junction,Marol, Mumbai",Marol, Mumbai,1800,3,yes,no,no,no,no,no
+432,China Gate,19.13133465,72.8228914,"Versova, Andheri WestMukkti Cultural Hub, Model Town, Near Cha Cha Nehru Park,","Versova, Andheri West", Mumbai,1800,2.8,yes,no,no,no,no,no
+433,Roots Cafe,19.10961656,72.87607625,"Peninsula Redpine, Near Airport Road Metro Station, Andheri East,Marol, Mumbai",Marol, Mumbai,900,3.5,no,yes,yes,no,no,yes
+434,Rodeo Drive - Peninsula Redpine,19.10967073,72.87584256,"Peninsula Redpine, Near Airport Road Metro Station, Andheri East,Marol, Mumbai",Marol, Mumbai,1500,3.9,no,yes,yes,no,yes,no
+435,BAR BAR,19.08685004,72.88929887,"First Floor, Phoenix Marketcity, Lal Bahadur Shastri Marg,Kurla, Mumbai",Kurla, Mumbai,1500,3.7,no,yes,yes,no,yes,no
+436,Cafe Serene,19.266408,72.784619,"Virgin Beach, Behind Valenkani Church,Mira Road, Mumbai Uttan Bhayender(W), Thane, Maharashtra.",Mira Road, Mumbai,800,3.7,no,yes,yes,no,yes,no
+437,Rinpoche,19.22424961,72.85154276,"1, Ambaji Dham CHS, Near Amba Mata Mandir, Factory Lane, Shimpoli,Borivali West, Mumbai",Borivali West, Mumbai,1000,4.2,yes,no,no,no,no,no
+438,Something's Fishy,19.11765518,72.86527131,"Tunga International Hotel, B11, MIDC, Central Road,Mahakali, Mumbai",Mahakali, Mumbai,1700,4.2,yes,no,yes,no,yes,no
+439,Olive Bistro,19.1739383,72.8605481,"Oberoi Mall, Film City Road,Goregaon East, Mumbai",Goregaon East, Mumbai,1600,3.7,yes,yes,yes,no,no,no
+440,Papa Pancho Da Dhaba,19.0614506,72.8292174,"Pali Hill, Bandra WestGasper Enclave, St John's Road, Near Rupee Bank,","Pali Hill, Bandra West", Mumbai,1000,3.8,yes,no,no,no,no,no
+441,Say Cheese,18.9542148,72.8181749,"10, Paras Arcade, Supariwala Estate, Near Central Plaza,Charni Road, Mumbai",Charni Road, Mumbai,350,3.8,yes,no,no,no,no,no
+442,Mondo Fine Dine,19.25815184,72.85342801,"Shop 1, Omkareshwar, New Link Road,kanderpada,Dahisar West, Mumbai",Dahisar West, Mumbai,1300,4.9,no,no,no,no,no,no
+443,Mia Cucina,19.1200377,72.90713824,"G3, Transocean House, Lake Boulevard Street, Hiranandani Business Park,Powai, Mumbai",Powai, Mumbai,2000,3.9,yes,no,yes,yes,no,no
+444,Hit & Run,19.107745,72.8634097,"3, Near Akal Society, Tarun Bharat Road,   Andheri East,Chakala, Mumbai",Chakala, Mumbai,700,4.1,yes,no,no,no,no,no
+445,Bhagwati Veg Restaurant,19.21517015,72.82937597,"Kesar Residency, Sector 3, Charkop,Kandivali West, Mumbai",Kandivali West, Mumbai,550,3.5,yes,no,no,no,no,no
+446,Cafe Monza,19.0320535,73.0668372,"Plot 5/6, Bhoomi Heights, Opposite Sector 8,Kharghar, Navi Mumbai",Kharghar, Mumbai,1000,4.3,yes,no,no,no,no,no
+447,Ottoman Café,19.14214528,72.83255272,"1060, Above Countries Connection, Opp. Mainland China, Near. Infiniti Mall, Off New Link Road,Oshiwara, Andheri West, Mumbai","Oshiwara, Andheri West", Mumbai,800,3.7,no,yes,no,no,yes,no
+448,China Bistro,19.2195517,72.9703699,"Vasant Vihar, Thane WestGround Floor, Infinity Shopping Complex,","Vasant Vihar, Thane West", Mumbai,1700,4.2,yes,yes,yes,no,yes,no
+449,Lemon Leaf,18.922235,72.832218,"4, Mandlik Road, Behind Taj Mahal Hotel,Colaba, Mumbai",Colaba, Mumbai,1200,4.1,no,yes,yes,no,yes,no
+450,Fat Kid Deli,19.0654507,72.9989707,"Unit F2, First Floor, Haware Infotech Park, Sector 30A,Vashi, Navi Mumbai",Vashi, Mumbai,850,3.9,no,no,no,yes,no,no
+451,Sardar Refreshments,18.96964641,72.81499129,"TardeoRoad Junction, Opposite Bus Depot, Tardeo, Mumbai",Tardeo, Mumbai,250,3.6,no,no,no,no,no,no
+452,Lotus Cafe - JW Marriott Mumbai Juhu,19.10191,72.82647,"JW Marriott,JuhuTara Road, Juhu, Mumbai",Juhu, Mumbai,3500,3.7,no,no,yes,yes,no,no
+453,Barbeque Central,19.16457641,72.83510886,"1st Floor, Chandiwala Heritage, Opposite Bangur Nagar, Above Absolute Furniture, Goregaon Link Road,Goregaon West, Mumbai",Goregaon West, Mumbai,1400,4,no,no,no,no,yes,no
+454,AKA Bistro,18.9291756,72.8325194,"121, Radha Bhavan, Military Square, Nagindas Master Road, Kala Ghoda,Fort, Mumbai",Fort, Mumbai,1400,4.2,no,no,no,yes,no,no
+455,Fort 001,18.933516,72.8336849,"Janmabhoomi Marg,Fort, Mumbai",Fort, Mumbai,1600,4.1,no,no,no,no,no,no
+456,McDonald's,18.96805916,72.82452688,"273/275, Bellasis Road, Near City Centre, Jehangir Boman Behram Marg,Mumbai Central, Mumbai",Mumbai Central, Mumbai,500,2.4,yes,no,no,no,no,no
+457,Food Adda,19.23306201,72.85235781,"Shop 4, Motimahal Building, Sodawala Len,Borivali West, Mumbai",Borivali West, Mumbai,400,3.6,yes,no,no,no,no,no
+458,Shizusan Shophouse & Bar,18.995509,72.825958,"Skyzone, Ground Floor, Near Lifestyle Gate, High Street Phoenix Mall,Lower Parel, Mumbai",Lower Parel, Mumbai,1600,4.2,no,no,yes,no,yes,no
+459,Bombay Breeze Cafe,19.13519526,72.82480314,"4 Bungalows6th Floor, Trance Avenue Building, Next to Mhada Telephone Exchange,",4 Bungalows, Mumbai,1400,3.6,no,no,yes,yes,no,yes
+460,Plenty,18.931147,72.83406,"3-B, Raja Bahadur Mansion, 24-A Mumbai Samachar Marg,Fort, Mumbai",Fort, Mumbai,1300,4,no,no,no,no,no,no
+461,DP's The Fast Food Centre,19.02331762,72.84962196,"Opposite Ruia College, L N road,Matunga East, Mumbai",Matunga East, Mumbai,600,3.7,yes,no,no,no,no,no
+462,Crave,19.01298454,72.82581266,"Shivalik Building, Appasaheb Marathe Marg, Adjacent to Tata Motors,Prabhadevi, Mumbai",Prabhadevi, Mumbai,750,3.8,yes,no,no,no,no,no
+463,Fooze,19.2274697,72.9704622,"Vasant Vihar, Thane WestShop 21, Block 3, Emerald Plaza, Hiranandani Meadows, GB Road,","Vasant Vihar, Thane West", Mumbai,400,4.7,no,yes,no,yes,no,no
+464,Gaylord,18.93304391,72.82628641,"Mayfair Building, VN Road,Churchgate, Mumbai",Churchgate, Mumbai,1700,3.6,yes,no,yes,no,no,no
+465,Coppetto Artisan Gelato,19.0597803,72.8335668,"Linking Road, Bandra WestShop 3, Plot 117, Muzzafar Manor,  Waterfield Road,","Linking Road, Bandra West", Mumbai,350,3.9,no,no,no,yes,no,no
+466,Jai Hind Lunch Home,19.0022434,72.8296575,"7/8 B, Madhav Bhavan, Opposite Kamala Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,700,4,yes,no,no,no,no,no
+467,Hearsch Bakery,19.05496667,72.826875,"90/A, Next to Holy Family Hospital,Hill Road, Bandra West, Mumbai","Hill Road, Bandra West", Mumbai,400,4.3,no,no,no,no,no,no
+468,Baba Falooda,19.040063,72.8412567,"Shop 2, 52, Bell View Building, L J 2nd Cross Road,Mahim, Mumbai",Mahim, Mumbai,200,4.5,no,no,no,no,no,no
+469,Cafe Hydro,19.2210585,72.8621439,"Esspee Tower, Rajendra Nagar, Dattapada Road,Borivali East, Mumbai",Borivali East, Mumbai,1000,4,no,no,no,no,no,no
+470,The Korner House,19.07193393,72.82554511,"21, Union Park,KharWest, Khar, Mumbai",Khar, Mumbai,4000,3.8,no,yes,yes,yes,yes,no
+471,Zouk,19.11846266,72.85078637,"Hotel Imperial Palace, 45, Teli Gali, Next to Criticare Hospital,Near Andheri East Station, Mumbai",Near Andheri East Station, Mumbai,1200,4.2,no,yes,yes,yes,no,yes
+472,The Bombay Cartel,18.9911932,72.8145967,"Level 2, Atria Mall, Dr. Annie Besant Road, Opposite Poonam Chambers,Worli, Mumbai",Worli, Mumbai,1000,3.7,yes,yes,no,yes,yes,no
+473,Videsi Desi Bistro,19.25114883,73.14144617,"Vishal Mathura Apartment, Near Pulse Hospital, Kadakpada,Kalyan, Mumbai",Kalyan, Mumbai,1100,3.8,yes,no,no,yes,yes,no
+474,The Road House,19.2117523,72.9848668,"Majiwada, Thane WestBoulevard Mall, 201-A, Lodha Complex,","Majiwada, Thane West", Mumbai,1400,3.9,yes,yes,yes,yes,yes,no
+475,Woodside Inn,18.92467794,72.83169273,"Wodehouse Road, Opposite Regal Cinema,Colaba, Mumbai",Colaba, Mumbai,2000,4.1,no,no,yes,yes,yes,no
+476,Vrindavan,19.12479757,72.83772133,"Bhavan's College Main Gate, Dadabhai Road,Azad Nagar, Mumbai",Azad Nagar, Mumbai,750,3.7,yes,no,no,no,no,no
+477,The Chocolate Heaven,19.10423467,72.83665147,"4, Sheetal Smruti Building, 4 Swastik Society, Bhai Das Hall, JVPD Scheme,Vile Parle West, Mumbai",Vile Parle West, Mumbai,600,3.9,yes,yes,no,yes,no,no
+478,The Bombay Fries,19.011279,73.012485,"Shreeji Heights, Sector 46 A,Seawoods, Navi Mumbai",Seawoods, Mumbai,250,3.8,yes,no,no,no,no,no
+479,Square Pizza,19.11636586,72.88604435,"4, Harmony Apartment, Near Marwa House,Marol, Mumbai Andheri East",Marol, Mumbai,550,3.6,yes,no,no,no,yes,no
+480,The VJ Café,19.1045457,72.835889,"Shop 2, Ground Floor, Shree Nataraj Building, Opposite Bhaidas Auditorium,  JVPD Lane,Vile Parle West, Mumbai",Vile Parle West, Mumbai,400,3.8,yes,no,no,yes,no,no
+481,Ovenfresh,19.02404759,72.83786617,"Kiran Building, Ranade Road,Dadar Shivaji Park, Mumbai",Dadar Shivaji Park, Mumbai,1200,4.1,no,no,no,no,no,no
+482,Bachelorr's,18.95411444,72.81537082,"45,ChowpattySea Face, Netaji Subhash Chandra Bose Marg, Marine Drive, Chowpatty, Mumbai",Chowpatty, Mumbai,600,3.8,yes,no,no,no,no,no
+483,Jughead's,19.2085848,72.9712926,"Majiwada, Thane West10, 1st Floor, Viviana Mall, Near Jupiter Hospital, Eastern Express Highway,","Majiwada, Thane West", Mumbai,1300,2.6,yes,no,yes,no,no,no
+484,Mamledar Misal,19.1891026,72.96752114,"Near Raymond Showroom, Naupada Police Station, Thane West","Majiwada, Thane West", Mumbai,150,4.1,no,no,no,no,no,no
+485,Goila Butter Chicken,19.12758292,72.82916844,"Shop 26,4 Bungalows,  Sai Kanwal Complex, Indira Nagar, Near DN Nagar Metro Station, 4 Bungalows, Mumbai",4 Bungalows, Mumbai,700,4,yes,no,no,no,no,no
+486,Radio Bar,19.06960807,72.83355184,"355, New Castle Hotel,KharWest, Khar, Mumbai",Khar, Mumbai,2000,3.6,no,yes,yes,no,yes,no
+487,Amar Juice Centre,19.10724308,72.88223024,"Unit /Gala 8 & 9, Ground floor, Building 1, Ajay Mittal Industrial Premises, Andheri Kurla Road,Marol, Mumbai",Marol, Mumbai,550,3.5,yes,no,no,no,no,no
+488,D'Crepes Cafe,19.2264986,72.9706467,"Vasant Vihar, Thane West21/22, Block 1, Emerald Plaza, Hiranandani Meadows, Off Pokhran 2,","Vasant Vihar, Thane West", Mumbai,1000,4.3,yes,no,no,yes,no,no
+489,Banjara Dhaba,19.2531031,72.8490555,"Opposite Phillips Tower Building, Off Holy Cross Road, IC Colony,Borivali West, Mumbai",Borivali West, Mumbai,650,3.4,yes,no,yes,no,no,no
+490,Cafe Amigos,19.2271163,72.9738299,"Vasant Vihar, Thane West12, Sunrise Shopping Complex, Next to Hyde Park, Behind Hiranandani Meadows,","Vasant Vihar, Thane West", Mumbai,650,4.2,no,no,no,yes,no,no
+491,Copa,19.1098152,72.82722384,"Anna Building, 13th road, OppositeJuhuGymkhana, Juhu, Mumbai",Juhu, Mumbai,1500,3.7,no,yes,yes,no,yes,no
+492,La Folie Lab,19.0550534,72.8291722,"Hill Road, Bandra West1, Ground Floor, Libra Towers, Opposite St.Peter's Church,","Hill Road, Bandra West", Mumbai,800,4.1,yes,yes,no,yes,no,no
+493,Naaz Hotel,19.08469136,72.88923081,"Kantaria Mahal, LBS Road, Opposite Mukund Iron Limited,Kurla, Mumbai",Kurla, Mumbai,800,3.8,yes,no,no,no,no,no
+494,The Post Office Bistro & Bar,19.34406338,72.80669253,"Pam Infrastructure, Near ChimajiAppa Ground, Behind S T Depot,VasaiGaon, Vasai, Mumbai",Vasai, Mumbai,700,4.5,no,no,yes,yes,no,no
+495,Barbeque Nation,19.08558804,72.88914263,"2nd Floor, Phoenix Paragon Plaza,Kurla, Mumbai",Kurla, Mumbai,1900,4.1,no,no,yes,no,no,no
+496,Chili's American Grill & Bar,19.08682976,72.88989935,"UG-46, Upper Ground Floor, Phoenix Marketcity Mall, LBS Road,Kurla, Mumbai",Kurla, Mumbai,1800,4.4,no,yes,yes,no,no,no
+497,Harry's Bar + Cafe,19.08677653,72.8899141,"F 41, Phoenix Market City, LBS Marg,Kurla, Mumbai",Kurla, Mumbai,1300,3.7,yes,yes,yes,no,yes,no
+498,Rainforest Resto-Bar,19.08638618,72.88916677,"3, Phoenix Market City, LBS Road,Kurla, Mumbai",Kurla, Mumbai,1800,3.7,yes,yes,yes,no,no,no
+499,Pop Tate's,19.08686778,72.88878355,"Phoenix Market City, LBS Marg,Kurla, Mumbai",Kurla, Mumbai,1600,3.7,no,no,yes,no,no,no
+500,Coffee Culture,19.0866894,72.88987421,"38-39, 2nd Floor, Phoenix Market City,Kurla, Mumbai",Kurla, Mumbai,700,3.8,no,no,no,no,no,no
+501,The Irish House,19.08555762,72.88915034,"Level 1, Phoenix Market City Mall, LBS Road,Kurla, Mumbai",Kurla, Mumbai,1900,4,no,yes,yes,no,no,no
+502,Amoeba Sports Bar,19.08691974,72.88919929,"F 33, 1st Floor, Phoenix Market City, LBS Marg,Kurla, Mumbai",Kurla, Mumbai,1100,3.8,no,no,yes,no,no,no
+503,Punjab Grill,19.08690453,72.88933676,"Shop 81/82, 1st Floor, Kamai Junction,Kurla, Mumbai",Kurla, Mumbai,1600,4.1,yes,no,yes,yes,no,no
+504,Wow! Momo,19.0869757,72.8894604,"Unit No SFC 6, Second Floor Foodcourt, Phoenix Market City Mall, LBS Road,Kurla, Mumbai",Kurla, Mumbai,300,3.2,yes,no,no,no,no,no
+505,Eat Around the Corner,19.0622649,72.8328541,"Pali Hill, Bandra West24th & 30th Road Junction, Opposite St Theresa's Boys High School, TPS III,","Pali Hill, Bandra West", Mumbai,1100,3.8,yes,no,no,no,no,no
+506,Gateway Taproom,19.059356,72.864868,"Godrej BKC, Unit 3, Plot C - 68, G Block,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,2200,4.2,no,yes,yes,yes,yes,no
+507,RISO,18.9947614,72.8256762,"Gala 1, Janta Industrial Estate, Opposite High Street Phoenix Mall, SB Road,Lower Parel, Mumbai",Lower Parel, Mumbai,1400,3.9,yes,no,no,no,no,no
+508,Talli - The Unrefined Lounge,19.23581894,72.96958677,"Manpada, Thane WestI-9, 27 Acre, Kothari Compound, Tikku Ji Ni Wadi Road,","Manpada, Thane West", Mumbai,1000,3.8,yes,yes,yes,yes,yes,no
+509,Swati Snacks,18.96643385,72.81338498,"248, Karai Estate, Opposite Bhatia Hospital,TardeoRoad, Tardeo, Mumbai",Tardeo, Mumbai,800,4,yes,no,no,no,no,no
+510,Thangabali,19.0317545,72.84144731,"Shop 3/4/5, Ground Floor, Manmohan Bhavan, Takandas Kataria Marg,Mahim, Mumbai",Mahim, Mumbai,800,3.9,yes,no,no,no,yes,no
+511,Terttulia,19.02568406,72.83530869,"Ground Floor, Hotel Parkway, Off Cadell Road,Shivaji Park, Sea Face Road,Dadar Shivaji Park, Mumbai",Dadar Shivaji Park, Mumbai,1400,4.1,no,no,yes,no,no,no
+512,Oye Teri - The Kulcha Kulture,19.22361814,72.85298081,"4, Rajda Nagar, Shimpoli Road, Near Mega Party Hall,Borivali West, Mumbai",Borivali West, Mumbai,500,3.6,no,no,no,yes,no,no
+513,Kath N Ghat,19.196897,72.962943,"Panch Pakhadi, Thane WestPanch pakadi Service Road, Near Meena Apartment,","Panch Pakhadi, Thane West", Mumbai,1000,4,yes,no,no,no,no,no
+514,The Bake Room,19.1820598,72.9494246,"Shop 28, Vikas Paradise, Bhakti Marg,Mulund West, Mumbai",Mulund West, Mumbai,800,4.3,yes,no,no,yes,no,no
+515,Bayview Cafe,18.91861482,72.83209641,"Hotel Harbour View, Kerawala Chamber, Opposite Radio Club, 25, J P Ramchandani Marg,Colaba, Mumbai",Colaba, Mumbai,800,3.6,no,no,yes,no,no,no
+516,Rainforest Resto-Bar,19.09957654,72.91612364,"R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1800,3.6,yes,no,yes,no,no,no
+517,The Hood,19.18363812,72.83589542,"Opposite Goregaon Sports Club, Near Infinity Mall II, Malad Link Road,Malad West, Mumbai",Malad West, Mumbai,1100,3.9,yes,no,yes,yes,no,no
+518,Le Pain Quotidien,19.1186578,72.91137245,"Hotel Rodas, Central Avenue, Hiranandani Gardens,Powai, Mumbai",Powai, Mumbai,2000,4.1,yes,yes,yes,yes,no,no
+519,Jai Jawan,19.06425245,72.83480477,"Linking Road, Bandra WestOpposite National College, Next to Chappal Market,","Linking Road, Bandra West", Mumbai,600,4.2,no,no,no,no,no,no
+520,Home Deli,19.01413107,72.82755744,"150, Mankar Building, NearPrabhadeviTemple, Prabhadevi, Mumbai",Prabhadevi, Mumbai,700,3.7,yes,no,no,no,no,no
+521,Sudama - All Veg,18.9623735,72.8142973,"Krishna Palace Hotel, 96/98, Sleater Road, Nana Chowk,Grant Road, Mumbai",Grant Road, Mumbai,800,3.9,yes,no,no,no,yes,no
+522,Backstage Cafe,19.13444456,72.82543011,"Mhada Road Junction, Before Versova Telephone Exchange,4 Bungalows, Mumbai",4 Bungalows, Mumbai,1200,3.6,yes,yes,yes,no,yes,no
+523,Cafe 123,19.04920977,72.82912016,"Reclamation, Bandra West13, Building 3, Candies Lane, Opposite Lilavati Photo,","Reclamation, Bandra West", Mumbai,1000,3.8,yes,yes,no,yes,no,no
+524,Rajdhani,19.09947072,72.91604787,"3rd Floor, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,950,3.7,yes,no,no,no,no,no
+525,Three Chicks and A Bear,19.0016634,72.8295767,"Lodha Supremus, Survey 453, Senapati Bapat Marg, Railway Colony,Lower Parel, Mumbai",Lower Parel, Mumbai,800,4.2,no,no,no,no,no,no
+526,Above & Beyond,19.12374969,72.86421519,"Ramanna Compound, Opposite Apollo Clinic,MahakaliCaves Road, Mahakali, Mumbai",Mahakali, Mumbai,900,3.9,no,yes,no,no,no,no
+527,Amuse,19.17843756,72.83666052,"Next to Hyundai Showroom, Near Vijay Industrial Estate, Link Road,Malad West, Mumbai",Malad West, Mumbai,1200,3.9,no,yes,yes,no,yes,no
+528,K. Rustom Ice Cream,18.93320978,72.82507841,"87 Stadium House, Opposite Ambassador Hotel, Veer Nariman Road,Churchgate, Mumbai",Churchgate, Mumbai,150,4.3,no,no,no,no,no,no
+529,Crystal,18.956288,72.8119455,"19, Easter Emporium, Near Wilson College,Chowpatty, Mumbai",Chowpatty, Mumbai,250,4.2,no,no,no,no,no,no
+530,Cheelizza,19.21305875,72.84178019,"36, Ground Floor, Raj Arcade, Near Jain Temple, Mahavir Nagar,Kandivali West, Mumbai",Kandivali West, Mumbai,500,3.8,yes,no,no,no,no,no
+531,Black Haven,19.2285836,72.8477169,"Floor 4, Emperor Building, Babhai Naka Junction, L.T Road,Borivali West, Mumbai",Borivali West, Mumbai,1400,3.4,no,yes,yes,no,yes,no
+532,The Serial Griller,19.123729,72.826603,"Vibhavari Building, N Dutta Marg,4 Bungalows, Mumbai 4 Bunglows",4 Bungalows, Mumbai,600,4.4,yes,no,no,no,no,no
+533,Goa Portuguesa,19.0319314,72.8402429,"Goa Portuguesa Restobar, Nr. Hinduja Hospital, Matunga (W),Mahim, Mumbai",Mahim, Mumbai,1300,4.1,yes,yes,yes,no,yes,no
+534,Argileh,19.07108757,72.83826716,"Rooftop, Bhavya Plaza, 5th Street Road, NearKharStation, Khar West, Khar, Mumbai",Khar, Mumbai,1100,3.7,no,yes,yes,no,yes,yes
+535,The United Sports Bar & Grill,19.10011766,72.91643076,"Ground Floor, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1600,3.7,yes,yes,yes,no,no,no
+536,Kill No Kalorie,19.19248057,72.97091212,"Naupada, Thane WestShop 8, Kulkarni CHS Building, Ghantali Devi Road,","Naupada, Thane West", Mumbai,750,4.6,yes,no,no,yes,no,no
+537,St. Anthony's,19.2039009,72.9759058,"Khopat, Thane WestGala No 1 + 2, Kalika Towers, Kolbad Road,","Khopat, Thane West", Mumbai,600,4,yes,no,no,no,no,no
+538,The Bagel Shop,19.06324886,72.82487053,"Carter Road, Bandra West30, Pali Mala Road,","Carter Road, Bandra West", Mumbai,900,3.9,yes,yes,no,yes,no,no
+539,Corniche - At The Waterfront,19.07042625,72.82261882,"Carter Road, Bandra WestB 15, Gagangiri CHS,","Carter Road, Bandra West", Mumbai,1800,3.5,no,no,yes,no,yes,no
+540,Royale Masterchef Finedine and Bar,19.25869593,72.85335526,"Gagangiri Building, Near New Flyover,  Kanderpada,Dahisar West, Mumbai",Dahisar West, Mumbai,1700,3.7,yes,yes,yes,no,yes,no
+541,Soam,18.95744298,72.80893352,"Ground Floor, Sadguru Sadan, Opposite Babulnath Temple,Chowpatty, Mumbai",Chowpatty, Mumbai,700,3.9,yes,no,no,no,yes,no
+542,Kuai Kitchen,18.91957,72.829543,"16/A, Cusrow Baug, Shahid Bhagat Singh Road,Colaba, Mumbai",Colaba, Mumbai,1500,4.2,yes,no,no,no,no,no
+543,Food And Taste Theory,19.07493786,72.90509608,"Unit 12-13,C-15, Vikrant Building, Vikrant Circle,Jhulelal Chowk,Ghatkopar East, Mumbai",Ghatkopar East, Mumbai,800,4.4,yes,no,no,no,no,no
+544,Mantra Dining Bar,19.12332965,72.91312225,"Ground Floor,PowaiPlaza, Powai, Mumbai",Powai, Mumbai,2000,3.8,yes,no,yes,no,no,no
+545,Popular,19.0057779,72.83095,"Saurabh Building, Near Deepak Cinema, NM Joshi Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,350,3.9,yes,no,no,no,no,no
+546,Utsav Restaurant,19.2074025,72.97094141,"Majiwada, Thane WestOpposite Eastern Express Highway, Runwal Nagar,","Majiwada, Thane West", Mumbai,350,3.6,no,no,no,no,no,no
+547,Melting Pot,19.1011978,72.8271649,"JuhuResidency Boutique Hotel, 148 B, Juhu Tara Road, Juhu, Mumbai",Juhu, Mumbai,1900,4,yes,no,yes,yes,no,no
+548,Stir Fry Grill,19.18094841,72.83597488,"Near Toyata Showroom, Malad Link Road,Malad West, Mumbai",Malad West, Mumbai,850,4.1,yes,no,no,no,no,no
+549,Ferry Wharf,19.04950355,72.82927874,"Reclamation, Bandra WestUnit 11, 12, Building 3, ONGC Lane, Opposite Lilavati Hospital,","Reclamation, Bandra West", Mumbai,1500,3.9,no,no,no,no,yes,no
+550,Chenab,19.07543439,72.98511643,"133 A, Near Sagar Vihar, Sector 8,Vashi, Navi Mumbai",Vashi, Mumbai,1200,3.5,yes,no,yes,no,yes,yes
+551,Chocolateria San Churro,19.06192204,72.83434276,"Linking Road, Bandra West11, Silver Pearl, Waterfield Road,","Linking Road, Bandra West", Mumbai,800,4.3,no,no,no,yes,yes,no
+552,Birista - Biryanis & Kebabs,19.0105147,73.0325605,"Shop 12, Bhramma, Plot 53, Opposite Bhoomi Mall, Palm Beach Road, Sector-15,CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,600,4.4,yes,no,no,no,no,no
+553,MYXX,19.10891358,72.82542609,"Ground Floor, Navratan Apartment, A.B. Nair Road, NearJuhuPost Office, Juhu, Mumbai",Juhu, Mumbai,2700,4,no,yes,yes,yes,yes,no
+554,Silver Beach Cafe,19.11393889,72.82420278,"Jaldarshan Building, Near Hare Rama Hare Krishna Temple, Gandhi Gram Road,Juhu, Mumbai",Juhu, Mumbai,2000,3.9,yes,no,yes,no,no,no
+555,Icecream Factory & Shahi Durbar,19.160594,72.94593,"G18 R Galleria, Runwal Greens Next To Fortis Hospital, Goregaon,Mulund West, Mumbai",Mulund West, Mumbai,400,3.7,no,no,no,no,no,no
+556,The London Shakes,19.0801387,72.9030476,"Khau Galli,Ghatkopar East, Mumbai",Ghatkopar East, Mumbai,400,3.4,no,no,no,no,no,no
+557,Mainland China,19.1154478,72.90858898,"City Park, Floor 1, Central Avenue, Near D Mart, Hiranandani Business Park,Powai, Mumbai",Powai, Mumbai,1800,3.9,yes,no,yes,no,no,no
+558,Cafe Churchill,18.9199764,72.83017561,"East West Court Building, Opposite Cusrow Baug, Shahid Bhagat Singh Road,Colaba, Mumbai",Colaba, Mumbai,1200,4.1,yes,no,no,no,no,no
+559,B Bhagat Tarachand,18.95182784,72.83060074,"69/75, Mumbadevi Commercial Center, Zaveri Bazar,Marine Lines, Mumbai",Marine Lines, Mumbai,550,3.9,yes,no,no,no,no,no
+560,1 BHK - Brew House Kitchen,18.95182784,72.83060074,"Oshiwara, Andheri WestGround Floor, Next to Meera Towers, BST Colony Road,","Oshiwara, Andheri West", Mumbai,1000,3.4,no,no,no,no,no,no
+561,Pair A Dice Cafe,19.14819011,72.83144597,"Unit 53, 1st Floor, Oshiwara Link Plaza, New Link Road,Oshiwara, Andheri WestLandmark: above Firebowl resturant","Oshiwara, Andheri West", Mumbai,700,4,yes,no,no,yes,no,no
+562,Flag's,19.18938474,72.84192871,"SBS Food Court, Asiad CHS, BJ Patel Road, Near Liberty Garden,Malad West, Mumbai",Malad West, Mumbai,1200,3.7,yes,no,no,no,yes,no
+563,Barworks Eatery & Bar,19.16895,73.000572,"Liberty Towers, Next to Reliable Plaza,Thane Belapur Road,Airoli, Navi Mumbai",Airoli, Mumbai,1600,3.7,yes,yes,yes,yes,yes,no
+564,24 Lounge & Bistro,19.06983559,72.83830505,"Empressa Building, 2nd Road, Near Hotel Jewel Palace,KharWest, Khar, Mumbai",Khar, Mumbai,1250,4.1,no,yes,no,no,yes,no
+565,Northern Tadka,19.18941229,72.83445742,"Jagdamba Complex, Above Jugheads, New Link Road,Malad West, Mumbai",Malad West, Mumbai,1000,3.7,yes,yes,yes,no,yes,no
+566,Jimmy Boy,18.9308472,72.8348851,"Vikas Building, 11 Bank Street, Off Horniman Circle, Lane opposite cheetah gate,Fort, Mumbai",Fort, Mumbai,800,3.8,yes,no,no,no,no,no
+567,Gokul,18.92287333,72.83243705,"10, Tullock Road, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,1200,3.4,no,no,yes,no,no,no
+568,Cakes N Chemistry,19.175577,72.943505,"Shop 5, Meghal Industrial Estate, Devidayal Road,Mulund West, Mumbai",Mulund West, Mumbai,550,4.6,yes,no,no,yes,no,no
+569,The Cafe Cabana,19.081913,73.005142,"3rd Floor, Sector 19 C, Plot 25, Next to Satara Plaza, Palm Beach Road,Vashi, Navi Mumbai",Vashi, Mumbai,650,4.3,no,yes,yes,yes,no,yes
+570,Live It Up,19.08315718,73.00631192,"Shop 59, Satra Plaza, Behind Mercedes Showroom, Sector 19D, Palm Beach Road,Vashi, Navi Mumbai",Vashi, Mumbai,1000,3.7,no,yes,yes,yes,no,no
+571,The Liquor Factory,19.13094251,72.83103157,"Andheri Lokhandwala, Andheri WestK-4/129, New Link Rd, Sahayog Nagar, Bhudargarh Colony,","Andheri Lokhandwala, Andheri West", Mumbai,1000,3.7,no,no,yes,yes,yes,no
+572,The Hill Green,19.111187,72.917862,"Unit 2, Kailash Business Park, Powai-VikhroliLink Road, Vikhroli, Mumbai",Vikhroli, Mumbai,1200,3.6,yes,yes,yes,yes,yes,no
+573,Silli Chilli,19.14254468,72.82514244,"Andheri Lokhandwala, Andheri WestShop 4, Sunswept CHS, Opposite Hazel Salon, Lokhandwala Complex,","Andheri Lokhandwala, Andheri West", Mumbai,700,3.9,yes,no,no,no,no,no
+574,Masque,18.98986934,72.82564167,"Unit 3, Laxmi Woollen Mills, Shakti Mills Lane, Dr. E Moses Road,Mahalaxmi, Mumbai",Mahalaxmi, Mumbai,6500,4.2,no,no,yes,yes,yes,no
+575,El Toro,19.04929343,72.82910574,"Reclamation, Bandra WestShop 7 & 8, ONGC Lane, Opposite Lilavati Hospital,","Reclamation, Bandra West", Mumbai,1600,4.1,no,yes,yes,yes,no,no
+576,The Flip Bar,19.21230081,72.87155405,"3rd Floor, Vishnu Shivam Mall, Thakur Village,Kandivali East, Mumbai",Kandivali East, Mumbai,1000,3.6,no,yes,yes,yes,yes,no
+577,The Union Bar & Eating House,19.07326416,72.99824316,"Plot 10, Nirman Vyapar Kendra, Sector 17,Vashi, Navi Mumbai",Vashi, Mumbai,1200,3.8,yes,yes,yes,no,yes,no
+578,Chaitanya,19.01817224,72.83273242,"3, chinchh bhatt chawl, opp aagar bazar ,SK Bole Road, Near Siddhivinayak Temple,Dadar West, Mumbai",Dadar West, Mumbai,600,4.2,yes,no,no,no,no,no
+579,Dhadoom,19.22906694,72.85351083,"Shop 13, Natraj Building, Off Sodawala Lane, Chamunda Circle,Borivali West, Mumbai",Borivali West, Mumbai,400,4.1,yes,no,no,no,no,no
+580,Pi Pizzeria,19.07111482,72.83903327,"Shop 7, Darvesh Grand, Next to Bharat Bank, 4th Road,Khar, Mumbai",Khar, Mumbai,1500,4.2,yes,no,no,no,no,no
+581,Shree Thaker Bhojanalay,18.95112831,72.82830242,"31, Dadisheth Agyari Lane, OffKalbadeviRoad, Kalbadevi, Mumbai",Kalbadevi, Mumbai,1200,4.8,no,no,no,no,no,no
+582,Ice Cream Factory,19.0709098,72.82332558,"Carter Road, Bandra WestB-Wing, Gagangiri Premises,","Carter Road, Bandra West", Mumbai,300,3.7,no,no,no,no,no,no
+583,Flipside Burgers & More,19.2154127,72.8677598,"Shop 34,36,42 & 43, Ground Floor, Annex Mall, Opposite Dheeraj Enclave Ganpati Mandir,Borivali East, Mumbai, Mumbai",Borivali East, Mumbai,1000,3.7,yes,no,no,yes,no,no
+584,The Yoga House,19.06570854,72.82480918,"Carter Road, Bandra WestNargis Villa (Water Bungalow), Sherley Rajan Road, Opposite ICICI Bank,","Carter Road, Bandra West", Mumbai,1200,3.9,yes,no,no,no,no,no
+585,Cafe 2.0,19.08892155,73.00451282,"Shop 24, Manek Complex, Near Health Juice Centre, Sector 29,Vashi, Navi Mumbai",Vashi, Mumbai,350,3.6,no,no,no,yes,no,no
+586,LMNOPQ,19.06807628,72.83244643,"Shop No. 6, Mangal Bhavana,KharPali Road, Khar, Mumbai",Khar, Mumbai,1200,3.7,yes,no,no,yes,yes,no
+587,Lima,19.0546437,72.8499325,"2 North Avenue, Maker Maxity,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,2500,4.3,no,yes,yes,no,yes,no
+588,Cafe Haqq Se,19.0059098,72.826911,"Ground Floor, Trade View Building Oasis Complex, Gate 4, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,3.9,no,yes,yes,yes,yes,no
+589,Bistro at Coffee Break,19.05051292,72.82652847,"Bandstand, Bandra West12, 86 , Pearl Haven Apartments, Chapel Road,  Mount Mary,","Bandstand, Bandra West", Mumbai,700,3.9,yes,yes,no,no,no,no
+590,Navjeevan,19.0479027,72.8933154,"Opposite Navjeevan Society, Samrat Ashok Nagar, R.C. Marg,Chembureast, Mumbai.",Chembur, Mumbai,450,3.7,yes,no,no,no,no,no
+591,Mao Family Restaurant,18.94444207,72.82930557,"534/536, Opposite Sunlight, Near Metro Theatre, Dhobitalao, Lohar Chawl,Kalbadevi, Mumbai",Kalbadevi, Mumbai,600,3.5,yes,no,no,no,no,no
+592,Tote On The Turf,18.98005826,72.82024506,"MahalaxmiRace Course, Gate 5 & 6, Keshav Rao Khadye Marg, Mahalaxmi, Mumbai",Mahalaxmi, Mumbai,1800,3.6,no,no,yes,no,yes,no
+593,The Lumber Bar & Co.,19.010132,73.037046,"Mahavir Icon, Showroom 1/2/3, Plot 89&90, Sector 15,CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,1200,3.7,yes,yes,yes,yes,no,no
+594,Spice Republic,19.22980834,72.85352994,"Shop 5, Ajanta Estate, Market Road,Borivali West, Mumbai",Borivali West, Mumbai,1000,4.2,yes,no,no,no,yes,no
+595,Swati Snacks,18.9242664,72.8246624,"Dalamal Tower, Free Press Journal Marg,Nariman Point, Mumbai",Nariman Point, Mumbai,800,4.3,yes,no,no,no,no,no
+596,Rainforest Resto-Bar,19.08638618,72.88916677,"3, Phoenix Market City, LBS Road,Kurla, Mumbai",Kurla, Mumbai,1800,3.7,yes,yes,yes,no,no,no
+597,Rainforest Resto-Bar,19.017721,73.0441961,"16-23, Kukreja Centre, Sector 11, NMMC Building,CBD-BelapurEast, CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,1800,3.7,yes,yes,yes,no,yes,no
+598,Zaffran,19.0998566,72.91667517,"1st Floor, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1400,3.5,yes,no,yes,yes,no,no
+599,Village - The soul of India,19.09977518,72.91717641,"3rd Floor, North Wing, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1000,3.5,no,no,no,no,no,no
+600,Rajdhani,19.09947072,72.91604787,"3rd Floor, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,950,3.7,yes,no,no,no,no,no
+601,Punjab Grill,19.09975522,72.91708086,"3rd Floor, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1800,3.9,yes,no,yes,yes,no,no
+602,The United Sports Bar & Grill,19.10011766,72.91643076,"Ground Floor, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1600,3.7,yes,yes,yes,no,no,no
+603,TGI Fridays,19.10011228,72.91645255,"Ground Floor, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,2500,3.4,yes,no,yes,no,no,no
+604,Urban Tadka,19.0993592,72.91624904,"3rd Floor, R City Mall, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1000,3.8,yes,no,yes,no,no,no
+605,The Elbo Room,19.06627069,72.8334536,"Sant Kutir Apartments, Behind Vijay Sales,KharWest, Off Linking Road, Khar, Mumbai",Khar, Mumbai,2000,3.5,no,yes,yes,no,yes,no
+606,Tea and Conversations,19.1756038,72.9435902,"G-3, Meghal Industrial Estate, Devidayal Road, Near Firestation,Mulund West, Mumbai",Mulund West, Mumbai,600,4.5,no,no,no,yes,no,no
+607,39B Terrace,18.9546161,72.8146832,"39-B,ChowpattySeaface, Chowpatty, Mumbai",Chowpatty, Mumbai,1500,3.5,no,yes,yes,yes,yes,yes
+608,1701 Gastropub,18.9546161,72.8146832,"Near Options Mall,Juhu, Mumbai",Juhu, Mumbai,1200,3.3,no,no,yes,no,no,no
+609,Farmhouse Garden Family Restaurant & Bar,19.34464939,72.81259453,"Tamtalao, Next to Slema Chicken Center, Mulgaon,VasaiWest, Vasai, Mumbai",Vasai, Mumbai,1200,4,yes,yes,yes,yes,yes,yes
+610,Exhale,18.992336,72.823901,"Ground Floor, 11/12, Raghuvanshi Mills, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1100,3.8,yes,no,no,no,no,no
+611,Brew n Chew,19.14670434,72.82925695,"Shop 1, Samartha Vaibhav Society, Opposite Tarapore Towers, Next to IDBI Bank,Andheri Lokhandwala, Andheri West, Mumbai","Andheri Lokhandwala, Andheri West", Mumbai,800,3.7,yes,yes,no,yes,no,no
+612,Score Sports Bar,19.18643008,72.83559434,"107, 1st Floor, Palm Spring, Above Croma, Link Road,Malad West, Mumbai",Malad West, Mumbai,1600,3.7,no,yes,yes,yes,yes,no
+613,House of Mandarin,19.054937,72.826686,"Hill Road, Bandra WestClassic Corner Building, Next to Holy Family Hospital,","Hill Road, Bandra West", Mumbai,2100,3.4,no,no,yes,no,no,no
+614,PizzAah! District,19.20714706,72.83158612,"4, Sanghvi Premises Soc. Ltd, M. G. Road,  near RNA complex & Hindustan Naka,Kandivali West, Mumbai",Kandivali West, Mumbai,650,4.1,yes,yes,no,yes,yes,no
+615,The Super Happy Pop-Up At The Barking Deer,19.0008968,72.8296575,"Mathuradas Mill Compound, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1700,3.7,no,yes,yes,no,yes,no
+616,Da Capo Cafe & Bistro,19.0320659,73.0668488,"Shop 12 & 13, Bhoomi Heights, Plot 5 & 6, Sector-8,Kharghar, Navi Mumbai",Kharghar, Mumbai,850,4.2,yes,yes,no,no,no,no
+617,Euphoria - The Gastro Lounge,19.215482,72.86791261,"Top Floor, Annex Mall, Western Express Highway, Above Carnival Cinemas,Borivali East, Mumbai",Borivali East, Mumbai,1000,3.7,no,yes,no,no,no,yes
+618,Khiva,19.08686208,72.8890283,"F-32, First Floor, Phoenix Market City, LBS Marg,Kurla, Mumbai",Kurla, Mumbai,1900,4.4,yes,no,no,no,no,no
+619,Gluttony,19.11276109,72.87322305,"Kadamwadi, Collector Chawl, Near Gajanan Mill, Pipeline,,Marol, Mumbai",Marol, Mumbai,300,4.5,yes,no,no,no,no,no
+620,Landmark Restaurant Veg Diet,19.19267277,72.83440411,"Landmark Building, Link Road, Mithchowki,Malad West, Mumbai",Malad West, Mumbai,650,3.5,yes,no,no,no,yes,no
+621,Fly High,19.022539,73.017869,"S-49, 2nd Floor,SeawoodsGrand Central Mall, Seawoods, Navi Mumbai",Seawoods, Mumbai,1200,3.1,yes,yes,yes,yes,no,no
+622,Glasshouse - Hyatt Regency Mumbai,19.1032411,72.8708223,"Hyatt Regency Mumbai, Airport Sahar Road, Andheri East,Chakala, Mumbai",Chakala, Mumbai,4500,3.9,no,no,yes,yes,yes,no
+623,Domino's Pizza,19.11592837,72.90897857,"G5, Ground Floor, City Park, Hiranandani Business Park,Powai, Mumbai",Powai, Mumbai,700,2.9,yes,no,no,no,no,no
+624,Bagdadi,18.9227544,72.83242296,"11, Tulloch Road, Behind Taj Mahal Hotel,Colaba, Mumbai",Colaba, Mumbai,400,3.8,no,no,no,no,no,no
+625,Lion Heart,18.97869907,72.83395149,"Dr. B A Marg, Opposite Rani Baug,BycullaEast, Byculla, Mumbai",Byculla, Mumbai,1200,4.1,no,yes,yes,yes,yes,no
+620,Gluttony,19.11276109,72.87322305,"Kadamwadi, Collector Chawl, Near Gajanan Mill, Pipeline,,Marol, Mumbai",Marol, Mumbai,300,4.5,yes,no,no,no,no,no
+621,Landmark Restaurant Veg Diet,19.19267277,72.83440411,"Landmark Building, Link Road, Mithchowki,Malad West, Mumbai",Malad West, Mumbai,650,3.5,yes,no,no,no,yes,no
+626,The Bombay Churros,19.07089047,72.8233581,"A/3, Gagangiri co op society ltd, Off Carter Road, Khar Danda, Khar (West) 400052 Mumbai, India",Malad West, Mumbai,650,4.2,no,no,no,no,no,no
+627,Tapri Shapri,19.1408934,72.8310852,"Andheri Lokhandwala, Andheri WestE-4 A, Ground Flloor, Crystal Plaza, Opposite White Room,","Andheri Lokhandwala, Andheri West", Mumbai,400,3.6,yes,no,no,yes,no,no
+628,Shreeji's The Fusion Kitchen,19.23419,72.855141,"Chamunda Circle, Sardar Vallabhbhai Patel Road, Himmat Nagar,Borivali West, Mumbai",Borivali West, Mumbai,200,4.1,no,no,no,no,no,no
+629,Hometown Cafe,19.13682843,72.8326761,"Oberoi Chambers 1, Tanishq Showroom, Off New Link Road,Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,1500,3.7,yes,yes,yes,no,no,no
+630,Basil n' Spice,19.16105915,72.94482697,"G 19-20,R Galleria, Next to Fortis Hospital, Runwal Green, Goregaon-Mulund Link Road,Mulund West, Mumbai",Mulund West, Mumbai,1000,4.2,yes,no,no,yes,no,no
+631,Farmhouse Sea N Sand,19.32949,72.804776,"Pachubander,VasaiWest, Vasai, Mumbai",Vasai, Mumbai,1100,4.1,yes,yes,yes,yes,yes,yes
+632,Peco Peco,19.12735105,72.91860402,"Shop 3, Hiranandani,Powai, Mumbai.",Powai, Mumbai,700,3.5,yes,no,no,no,no,no
+633,Wok Hei,19.0523972,72.899843,"Sunder Apartment, Sion Trombay Road, Opposite Diamond Garden,Chembur, Mumbai",Chembur, Mumbai,800,3.5,yes,no,yes,no,no,no
+634,Open House Cafe And Bar,19.02573066,72.83576868,"Amar Kunj, Cadel Road,Dadar Shivaji Park, Mumbai",Dadar Shivaji Park, Mumbai,1200,3.5,yes,no,yes,yes,yes,no
+635,Mumbai Bistro - The Café,19.01637149,72.8351206,"Shop 3, Sugee Sadan Building, Next to Portuguese Church, Gokhale Road,Dadar West, Mumbai",Dadar West, Mumbai,700,3.9,yes,no,no,no,no,no
+636,Jamie's Pizzeria by Jamie Oliver,18.9953963,72.8233989,"Highstreet Phoenix,Lower Parel, Mumbai",Lower Parel, Mumbai,800,3.8,yes,no,yes,no,no,no
+637,Pravas,19.005367,72.826014,"4, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,1200,3.6,yes,no,yes,no,no,no
+638,Curry Tales,19.07110087,72.8381934,"Shop 5, Bhavya Plaza, 5th Road, Next to Kotak Mahindra Bank & Midas Salon,Khar, Mumbai",Khar, Mumbai,1150,4.2,yes,no,no,yes,no,no
+639,Chai Pe Charcha,19.0023987,72.8296674,"Shop 11, Madhav Bhuvan Building Gate 2, Opposite Kamala Mills, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,450,3.9,yes,no,no,no,no,no
+640,Hymus Restobar,19.15112265,72.83182919,"Oshiwara, Andheri West20-21-22 Meera Tower, New Link Road,","Oshiwara, Andheri West", Mumbai,1200,3.7,yes,yes,yes,yes,yes,no
+641,The Boston Butt,18.9274888,72.8322425,"1st floor, Rampart Row, Near Rhythm House, Kalaghoda,Fort, Mumbai",Fort, Mumbai,1650,4.1,no,no,yes,no,yes,no
+642,Reise All Day Bar & Kitchen,19.107841,72.8616571,"45, Tarun Bharat CHS, Dr Karnjiya Road,Chakala, Mumbai",Chakala, Mumbai,1200,3.7,no,yes,yes,yes,yes,no
+643,The Goose & Gridiron,19.107841,72.8616571,"FortOpp Sterling Theatre, Murzban Road, Azad Maidan,",Fort, Mumbai,1400,3.8,no,no,yes,no,no,no
+644,Indiana Water's,19.2026481,72.9655721,"Khopat, Thane West4th Floor, Korum Mall, Near Cadbury Compound,","Khopat, Thane West", Mumbai,1100,3.4,yes,yes,yes,no,no,no
+645,Soul Fry,19.0626572,72.8280844,"Pali Hill, Bandra WestPali Mala Road, Opposite Pali Vegetable Market,","Pali Hill, Bandra West", Mumbai,1000,3.7,yes,no,yes,no,yes,no
+646,Khasiyat The Paratha House,19.1005945,72.8396509,"21, Dashrathlal Joshi Road,Vile Parle West, Mumbai",Vile Parle West, Mumbai,600,3.8,yes,no,no,no,no,no
+647,Food Stop,19.05816937,73.00356232,"Seawoods Garden Society,Sector-17,Sanpada, Navi Mumbai, Palm Beach Road",Sanpada, Mumbai,350,4,yes,no,no,no,no,no
+648,Sizzle House,19.03040988,72.83852767,"1/2, 237, Bhagirathi Sadan, Opposite Yes Bank Cadel Road,Dadar Shivaji Park, Mumbai",Dadar Shivaji Park, Mumbai,1200,3.7,yes,no,no,yes,no,no
+649,Pancham Puriwala,18.9379889,72.8357736,"8-10, Perin Nariman Street,Fort, Mumbai",Fort, Mumbai,200,3.9,no,no,no,no,no,no
+650,pedalpower,19.38373784,72.82493055,"Shop 2,3,4,5 Ram Rahim Towers Samata Nagar,Vasai, Mumbai",Vasai, Mumbai,200,3.9,no,no,no,yes,no,no
+651,Pritam Da Dhaba,19.01667928,72.84610055,"Hotel Midtown Pritam, Pritam Estates,Dadar East, Mumbai",Dadar East, Mumbai,1200,3.5,yes,no,yes,no,yes,no
+652,Khyber,18.9281226,72.831827,"145, MG Road, Kala Ghoda,Fort, Mumbai",Fort, Mumbai,2600,3.9,yes,no,yes,yes,yes,no
+653,BusaGo,19.11723037,72.90743195,"Lakeview Developers, City Park, Olympia Building, Hiranandani Garden,Powai, Mumbai",Powai, Mumbai,800,3.5,yes,no,no,no,no,no
+654,KA.FE,19.12830419,72.82918453,"Shop 4, Sai Kanwal Complex, Opposite Westside, Below D N Nagar Metro Station, Next to Airtel Gallery,4 Bungalows, Andheri West, Mumbai",4 Bungalows, Mumbai,500,4,yes,no,no,yes,no,no
+655,SamBar Pub & Kitchen,19.07201157,72.8393729,"8 Vora Building, 3rd Road, opp Simran Plaza,KharWest. Mumbai, Khar, Mumbai",Khar, Mumbai,1250,3.9,yes,yes,yes,no,yes,no
+656,Pincuk,19.1610879,72.9916226,"Shop 1, Sul Building, Sector 20D,Airoli, Navi Mumbai",Airoli, Mumbai,700,4.5,yes,no,no,no,no,no
+657,Samrat Restaurant,18.93070089,72.82627601,"Ground Floor, Prem Court, JT Road,Churchgate, Mumbai",Churchgate, Mumbai,900,3.8,yes,no,no,no,no,no
+658,Indigo Delicatessen,18.9943692,72.8237951,"1st Floor, Palladium Mall, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,2100,4,yes,no,yes,yes,no,no
+659,Trishna,18.9286064,72.8321963,"7, Sai Baba Marg, Kala Ghoda,Fort, Mumbai",Fort, Mumbai,2200,4.1,no,no,yes,no,yes,no
+660,Bhaijaanz,19.06757149,72.82520816,"Carter Road, Bandra WestG2, White Rose Building, Rizvi Complex, Sherly Rajan Road, Off Carter Road,","Carter Road, Bandra West", Mumbai,900,3.5,yes,yes,no,no,no,no
+661,Dewano Daa Dhaba,19.14071963,72.81231478,"Versova, Andheri WestOff Yari Road,","Versova, Andheri West", Mumbai,900,3.8,yes,no,no,yes,no,no
+662,Izaya,18.92552633,72.81922214,"NCPA, Gate 2,Nariman Point, Mumbai",Nariman Point, Mumbai,2500,2.7,no,no,yes,no,no,no
+663,7th Heaven,19.1731203,72.95720067,"Shop 7, Shanti Bhavan, Opposite Station J.S Dosa Road,Mulund West, Mumbai",Mulund West, Mumbai,400,3.6,yes,no,no,no,no,no
+664,Bunkerzzz Cafe,19.21207507,72.87441462,"Shop 42, Evershine Millenium Park 38, Near Rama's Hotel, Thakur Village,Kandivali East, Mumbai",Kandivali East, Mumbai,500,3.7,yes,no,no,no,no,no
+665,4 Bro's Pizza,19.2117775,72.87480078,"Shop 52, Jupiter EMP, Phase 1, Evershine Millennium Paradise,Kandivali East, Mumbai",Kandivali East, Mumbai,600,4.1,yes,no,no,no,no,no
+666,Sukh Sagar,18.95592474,72.81324718,"Marina Mansion, SVP Road,Chowpatty, Mumbai",Chowpatty, Mumbai,600,3.7,no,no,no,no,no,no
+667,Everyday Anday,19.19082073,72.97105294,"Naupada, Thane WestShop no.1, Shree sadan building, Ghantali Road,","Naupada, Thane West", Mumbai,500,4.3,yes,no,no,no,no,no
+668,Tantra,18.95815263,72.8109948,"9, Hughes Road,Chowpatty, Mumbai",Chowpatty, Mumbai,1000,3.6,no,no,yes,no,yes,no
+669,FIRKI*,18.9924171,72.8241529,"11/12, Block 27, Raghuvanshi Mills Compound, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1200,3.6,yes,no,no,no,yes,no
+670,Hotel Deluxe,18.9340658,72.8332118,"10-A, Pitha Street, Opposite Lane of Citi Bank,Fort, Mumbai",Fort, Mumbai,300,4.1,yes,no,no,no,no,no
+671,Qbaa Terrace,19.18822707,72.83821017,"9th Floor, Synergy Court, Kanchpada,Malad West, Mumbai",Malad West, Mumbai,1500,3.6,no,yes,no,yes,yes,yes
+672,Kobe Sizzlers,18.95653737,72.81338096,"13/14, Sukh Sagar, Hughes Road, Opera House,Chowpatty, Mumbai",Chowpatty, Mumbai,1500,3.5,no,no,no,no,no,no
+673,Revival Restaurant,18.954724,72.8148823,"39-B,ChowpattySeaface, Chowpatty, Mumbai",Chowpatty, Mumbai,900,3.6,yes,yes,yes,yes,yes,no
+674,Shake Shop,19.1456642,72.82309894,"Andheri Lokhandwala, Andheri WestShop 4, Nebula Co-operative Housing Society Ltd,","Andheri Lokhandwala, Andheri West", Mumbai,350,4.2,yes,no,no,no,no,no
+675,Reunion Bar & Kitchen,19.028519,72.841476,"204, Ground Floor, Sai Niwas, LJ Road, Near City Light,Dadar Shivaji Park, Mumbai",Dadar Shivaji Park, Mumbai,1250,3.4,yes,no,yes,yes,yes,no
+676,The Daily Bar & Kitchen,19.06088612,72.83709235,"Linking Road, Bandra WestGround Floor Behind Shoppers Stop, SV Road,","Linking Road, Bandra West", Mumbai,2000,4.1,yes,yes,yes,yes,yes,no
+677,Cafe Irani Chaii,19.0391488,72.8426674,"9, Rosary Chawl, Mangireesh CHS Ltd., MMC Road,Mahim, Mumbai",Mahim, Mumbai,400,4.1,yes,no,no,no,no,no
+678,THE THA'L CO,19.05499718,72.83487853,"Pooja Apartments- ground floor. Chinchpokli road, off Hill Road, lane touching Bata showroom. Hill road,Bandra West. Mumbai",Dadar Shivaji Park, Mumbai,2000,4.2,no,no,no,no,yes,no
+679,Lazeez,19.0557475,72.834741,"Hill Road, Bandra WestShop 8-9, Rizvi Palace, Next to Bata Showroom,","Hill Road, Bandra West", Mumbai,1000,4.4,yes,yes,no,no,no,no
+680,PizzAah! District,19.0557475,72.834741,"7 Bungalows, Andheri WestShop 3, Chetna Building, Bon Bon Lane, Near Versova Metro Station,","7 Bungalows, Andheri West", Mumbai,650,4.4,yes,no,no,no,no,no
+681,PizzAah! District,19.0557475,72.834741,"Shop 3, Opposite Toyota Showroom, Link Road,Malad West, Mumbai",Malad West, Mumbai,650,4.4,yes,no,no,no,no,no
+682,STAX - Hyatt Regency Mumbai,19.1035234,72.8704711,"Hyatt Regency Mumbai, Airport Sahar Road, Andheri East,Chakala, Mumbai",Chakala, Mumbai,4000,4,no,no,yes,yes,yes,no
+683,The Bakery -  Hyatt Regency,19.1032404,72.8708209,"Hyatt Regency, Airport Sahar Road, Andheri East, Mumbai,Chakala, Mumbai",Chakala, Mumbai,1000,3.3,no,no,no,yes,no,no
+684,STAX Bar - Hyatt Regency Mumbai,19.10324,72.870812,"Hyatt Regency Mumbai, Airport Sahar Road, Andheri East,Chakala, Mumbai",Chakala, Mumbai,3500,3.3,no,no,yes,yes,no,no
+685,Domino's Pizza,19.2078869,73.0948037,"Shree Complex, Gajbandhan Patharli Village, Manpada Road,Dombivali East, Dombivali East, Mumbai",Dombivali East, Mumbai,700,3.2,yes,no,no,no,no,no
+686,Domino's Pizza,19.1481693,72.995315,"6 & 7, Ground Floor, Shivshankar Plaza, Plot 1, Sector 7,Airoli, Navi Mumbai",Airoli, Mumbai,700,2.3,yes,no,no,no,no,no
+687,Domino's Pizza,19.06790644,72.83281289,"1, Ground Floor, Mangal Bhavan, 14th Road,KharWest, Khar, Mumbai",Khar, Mumbai,700,3.4,yes,no,no,no,no,no
+688,Domino's Pizza,19.2422391,72.8542711,"8-11, Bethlehem Apartments, SVP Road,Borivali West, Mumbai",Borivali West, Mumbai,700,2.6,yes,no,no,no,no,no
+689,Domino's Pizza,19.00526007,72.82128979,"554, Landmark Building, GM Bhosle Marg,Worli, Mumbai",Worli, Mumbai,700,2.7,yes,no,no,no,no,no
+690,Curry Culture,19.12770107,72.91937247,"Hiranandani,Powai, Mumbai",Powai, Mumbai,700,3.7,yes,no,no,no,no,no
+691,Zinc Neo Lounge & Kitchen,19.2639639,72.96728544,"Kasarvadavli, Thane West3rd Floor, DE Grandeur Hotels, Anand Nagar, Near Bhakti Park, Ghodbunder Road, Mumbai  Thane, Ghodbunder Road,","Kasarvadavli, Thane West", Mumbai,1500,3.8,yes,yes,yes,no,yes,no
+692,Belo,19.14426582,72.83189524,"Andheri Lokhandwala, Andheri WestNear Lotus Petrol Station, Adarsh Nagar,","Andheri Lokhandwala, Andheri West", Mumbai,300,4.3,yes,no,no,no,no,no
+693,Mahlzeit - Berlin Street Food,19.06309296,72.82469317,"1, Sefa House, Pali Mala Road,Pali Hill, Bandra WestNext to Gem Medicals","Pali Hill, Bandra West", Mumbai,750,4,yes,no,no,no,no,no
+694,The Frontier Post,19.0060791,72.8270018,"Level 2, Kamla Trade House, Kamla Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,1300,4.1,no,yes,yes,yes,no,no
+695,Cafe Noorani,18.97714615,72.81185813,"5 D,TardeoRoad, Haji Ali Circle, Tardeo, Mumbai",Tardeo, Mumbai,750,3.5,yes,no,no,no,no,no
+696,Amor Churros,19.19313955,72.96776021,"Shop 1, Gagangiri Society,Panch Pakhadi, Thane West, Mumbai","Panch Pakhadi, Thane West", Mumbai,400,3.7,yes,no,no,yes,no,no
+697,The Veg Klub,19.25886,72.859322,"Anand Nagar, Chatrapati Shivaiji Raje Complex, Next to Muncipal Garden,Dahisar East, Mumbai",Dahisar East, Mumbai,800,4,yes,no,no,no,no,no
+698,Twisties,19.2272515,72.9740132,"Manpada, Thane WestShop 20-22, Sunrise Shopping Arcade, Hyde Park,","Manpada, Thane West", Mumbai,500,4.4,yes,yes,no,yes,no,no
+699,Noor Mohammadi Hotel,18.9578231,72.8320694,"179, Wazir Building, Abdul Hakim Chowk, Bhendi Bazar, Near,Mohammad Ali Road, Mumbai",Mohammad Ali Road, Mumbai,350,3.8,yes,no,no,no,no,no
+700,Anda Apna Apna,19.12583753,72.84110326,"Ground Floor, Shop 1, Opposite Pathare Prabhu Hall, JP Road,   4 Bunglows,Azad Nagar, Mumbai",Azad Nagar, Mumbai,500,3.7,yes,no,no,no,no,no
+701,Faham Restaurant & Lounge,18.95395431,72.83579249,"Building No. 23, Satkar Hotel Lane,  Near Zakaria Masjid, Masjid Station Road,Mohammad Ali Road, Mumbai",Mohammad Ali Road, Mumbai,1100,4.3,yes,yes,no,yes,yes,no
+702,Shloka Dining Bar,19.08981757,72.90857624,"2A, Ground Floor, Integrated Bhoomi Ltd., Near Patidar Wadi, LBS Marg,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1100,3.8,yes,yes,yes,yes,no,no
+703,Desi Fusion Grill & Bar,19.04430383,73.01181648,"Sector 4, Behind SBI Bank,Nerul, Navi Mumbai",Nerul, Mumbai,800,3.7,yes,yes,yes,yes,yes,no
+704,Greens Restaurant,19.17661417,72.83702195,"Linkway Estate, Link Road,Malad West, Mumbai",Malad West, Mumbai,800,3.4,yes,no,no,no,no,no
+705,The Yellow Chilli,19.02297561,72.84202963,"2nd Floor, Star Mall, N. C. Kelkar Road,Dadar West, Mumbai",Dadar West, Mumbai,1300,4.4,yes,no,yes,yes,no,no
+706,Go Biryan,19.14449419,72.82965492,"Andheri Lokhandwala, Andheri West311, Snehanjali CHS, Near Samartha Aishwarya, Aadarsh Nagar/Lokhandwala Complex, Andheri West,","Andheri Lokhandwala, Andheri West", Mumbai,900,3.9,yes,no,no,no,no,no
+707,Ghef's Premium Takeaway,19.06140234,72.83439204,"Linking Road, Bandra WestShop 7, 142 Waterfield Road, R.K Patkar Marg,","Linking Road, Bandra West", Mumbai,550,3.9,yes,no,no,yes,no,no
+708,Hyderabad Xpress,19.14264382,72.83167329,"Oshiwara, Andheri WestNear Lotus Pump, New Link Road,","Oshiwara, Andheri West", Mumbai,350,4.1,yes,no,no,no,no,no
+709,Order order,19.18834676,72.83597153,"K4, Old Sonal Link Estate,Malad West, Mumbai",Malad West, Mumbai,400,4.2,yes,no,no,no,no,no
+710,Francesco's Pizzeria,18.9954735,72.8253761,"Shop 9-11, Next to L'vista Furnitures, Skyzone, High Street Phoenix, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,1000,4,yes,no,no,no,no,no
+711,Felicita,18.97269118,72.8147348,"Shop 3, Ground Floor, Zainab Manzil, NearTardeoAC market, Tardeo, Mumbai",Tardeo, Mumbai,550,4,yes,no,no,no,no,no
+712,The Thekka,19.08164706,73.00503518,"Sector 19 C, Near Satra Plaza, Palm Beach Road,Vashi, Navi Mumbai",Vashi, Mumbai,1200,3.8,yes,yes,yes,no,yes,no
+713,Food Inn,18.9220446,72.83118546,"61A, Rabro House, SB Road, Opposite Electric House,Colaba, Mumbai",Colaba, Mumbai,550,3.3,yes,no,no,no,no,no
+714,Bistro 1,19.13662887,72.82910608,"Andheri Lokhandwala, Andheri West6 &  7, Mayfair Building, Vastu Lane, Near Lakshmi Industrial Estate, Behind SAB TV Lane, Next to Reliance Energy,","Andheri Lokhandwala, Andheri West", Mumbai,1000,3.9,yes,yes,no,yes,no,no
+715,Cafe at The NCPA,18.9264406,72.8194807,"NCPA,Nariman Point, Mumbai",Nariman Point, Mumbai,1200,3.9,yes,no,no,no,yes,no
+716,Bogeto Cafe,18.96618748,72.81948902,"Jain Lakshmi Mansion, Opposite Navjeevan Society,Mumbai Central, Mumbai",Mumbai Central, Mumbai,850,3.7,no,no,no,no,yes,no
+717,Mockingbird Cafe Bar,18.933301,72.826262,"80, Veer Nariman Road,Churchgate, Mumbai",Churchgate, Mumbai,1700,4,yes,no,yes,yes,no,no
+718,Singh Saab,19.0502641,72.8935923,"Ground Floor, Swami Jayaramdas Shopping Complex, Near Basant Park, RC Marg,ChemburEast, Chembur, Mumbai",Chembur, Mumbai,1000,4.1,yes,yes,yes,no,yes,no
+719,Kook,19.05012311,72.89355386,"Swami Jayramadas Shopping Centre,ChemburMahul Road, R.C marg, Near Basant Park, Chembur, Mumbai",Chembur, Mumbai,1000,4,yes,no,no,no,yes,no
+720,Jade Raven,19.19358,72.966641,"Panch Pakhadi, Thane WestShop 3, Ravi Industrial Estate,","Panch Pakhadi, Thane West", Mumbai,1000,3.8,yes,no,yes,yes,no,no
+721,Kebab Corner,19.12468068,72.86475532,"12, New Malini Apartments,MahakaliCaves Road, Near Conossa Convent School, Mahakali, Mumbai",Mahakali, Mumbai,500,3.7,yes,no,no,no,no,no
+722,Club Sirkus,19.09572016,72.85324328,"Hotel Sahara Star, Opposite Domestic Airport,Santacruz East, Mumbai",Santacruz East, Mumbai,3000,3.8,no,yes,yes,no,yes,no
+723,Amrut Sagar Fast Food,19.0560277,72.8343627,"5, Adeshir House, 49,Hill Road, Bandra West, Mumbai","Hill Road, Bandra West", Mumbai,500,3.6,yes,no,no,no,no,no
+724,The Cuckoo Cafe,19.0611624,72.8269105,"Pali Hill, Bandra West5AA, Mac Ronells Compound, St Andrews Road,","Pali Hill, Bandra West", Mumbai,700,3.8,yes,no,no,yes,no,no
+725,Sweetish House Mafia,19.0005527,72.8304747,"Mathuradas Mills Compound, NM Joshi Marg,Lower ParelWest, Lower Parel, Mumbai",Lower Parel, Mumbai,350,4.3,yes,no,no,yes,no,no
+726,Jaffer Bhai's Delhi Darbar,19.0414134,72.8406922,"18, Lady Jamshedji Road, St Michael Church,MahimWest, Mahim, Mumbai",Mahim, Mumbai,800,3.5,yes,no,no,no,no,no
+727,Madmex,19.1343584,72.82545928,"244, Near Telephone Exchange, SVP Nagar,4 Bungalows, Mumbai",4 Bungalows, Mumbai,1000,3.7,no,yes,yes,yes,yes,yes
+728,The Brew Corner,19.34475998,72.80620471,"5 & 6, Emerald Wing, Near GG College,Vasai, Mumbai",Vasai, Mumbai,650,4.2,no,no,no,yes,no,no
+729,Burger King,19.10773983,72.882764,"Next to Times Square Building,Marol, Mumbai",Marol, Mumbai,500,3.8,yes,no,no,no,no,no
+730,Wowfillss,18.99481714,72.82561351,"High Street Phoenix, Shop 1, Main Road, S.B Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,300,4,no,no,no,no,no,no
+731,Z's Creamery,18.99481714,72.82561351,"Shop. 7, Panchsheel heights, Mahavir Nagar. Kandivali west.",Lower Parel, Mumbai,300,4.6,no,no,no,yes,no,no
+732,Little Italy,19.0898086,72.8275572,"18 B, Hotel Atlantic, Near Maneckji Cooper School,JuhuTara Road, Juhu, Mumbai",Juhu, Mumbai,1400,3.6,yes,no,yes,no,yes,no
+733,World Of Waffles,19.18121504,72.94080667,"Shop 4, Willows Tower, Vasant Garden, Near Ceremonial Hall,Mulund West, Mumbai",Mulund West, Mumbai,200,4.1,no,no,no,no,no,no
+734,Bombay Talkiezzz,19.17536965,73.0863886,"Kalyan Shil Road,  Near. H.P. Petrol Pump, Dombivli (E), Mumbai,Dombivali East, Mumbai",Dombivali East, Mumbai,1000,3.7,no,yes,no,yes,no,no
+735,Capers Ristorante,19.24824483,72.85346522,"Shop 2, Acropolis, Opposite Mary Immaculate Girls High School,Borivali West, Mumbai",Borivali West, Mumbai,1000,4,yes,no,no,no,yes,no
+736,Thyme,19.12823197,72.92609308,"First Floor, Huma Mall, JVLR & LBS Junction, Kanjurmarg West,Bhandup, Mumbai",Bhandup, Mumbai,1500,3.8,yes,yes,yes,no,no,no
+737,Dale's Eden Cake Shop,19.143022,72.82451749,"Andheri Lokhandwala, Andheri West20, Sunswept Building, Lokhandwala Complex,","Andheri Lokhandwala, Andheri West", Mumbai,600,3.7,yes,no,no,no,no,no
+738,Birdsong -  The Organic Cafe,19.0541551,72.8275549,"Hill Road, Bandra WestShop 1-5, Waroda Road, Behind American Express Bakery, Near Jude Bakery,","Hill Road, Bandra West", Mumbai,1400,3.7,yes,no,no,yes,no,no
+739,TIB - The Ice-cream Bakery,19.12881197,72.8163448,"Versova, Andheri WestShop 2, Opposite Gwalior House, Behind 7 Bungalow Police Station, JP Road, Aram Nagar,","Versova, Andheri West", Mumbai,300,4.8,yes,no,no,no,no,no
+740,Zen Cafe,18.9923248,72.823772,"at the Mezzanine of ICasa, Raghuvanshi Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,1300,3.9,yes,no,no,yes,yes,no
+741,Whatta Waffle!,19.1294943,72.8215175,"7 Bungalows, Andheri WestShop 21, Shiv Shopping Centre, JP Road,","7 Bungalows, Andheri West", Mumbai,300,4.3,yes,no,no,yes,no,no
+742,Urban Street Café,19.07095511,72.83834796,"Bhavya Plaza, Shop 1, Near Kotak Mahindra Bank,Khar, Mumbai",Khar, Mumbai,700,4,yes,no,no,no,no,no
+743,Udipi Vihar,19.1662891,72.8540634,"Aarey Road,Goregaon East, Mumbai",Goregaon East, Mumbai,450,3.6,yes,no,no,no,no,no
+744,The Brothers Biryani House,19.12230108,72.91754253,"Shop 6-7, Diamond Apartment, Near Hiranandani Hospital,Powai, Mumbai",Powai, Mumbai,800,3.9,yes,no,no,no,no,no
+745,ZIKO,19.12851896,72.86471106,"A-4, 148 Ajeet Building, Neat Tolani College, Shere E Punjab, CHS, MK Road,Mahakali, Mumbai",Mahakali, Mumbai,650,4.1,yes,no,no,yes,no,no
+746,Only Parathas,19.06975764,72.83315454,"355,   New Castle Hotel, Second Floor,Khar, Mumbai",Khar, Mumbai,1150,3.6,yes,no,no,no,yes,no
+747,Barcode 09,19.06975764,72.83315454,"Andheri Lokhandwala, Andheri WestG1, Morya Classic, Opposite Infiniti Mall, New Link Road,","Andheri Lokhandwala, Andheri West", Mumbai,1500,3.7,no,yes,yes,no,no,no
+748,BusaGo,19.14859774,72.83156164,"Oshiwara, Andheri West19, Link Plaza, Oshiwara Link Road, MHADA Colony,","Oshiwara, Andheri West", Mumbai,800,3.9,yes,no,no,no,no,no
+749,Masala Kraft - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,6500,3.9,no,no,yes,yes,no,no
+750,Pondichery Cafe - Sofitel,19.0681982,72.8689432,"Sofitel Hotel, C 57,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,4500,4.1,no,no,yes,yes,no,no
+751,Cafe Istaa,19.041858,72.861174,"12 A/1 NewSionC.H.S. Limited, Sion, Mumbai",Sion, Mumbai,300,4.1,no,no,no,no,no,no
+752,The Roof Top - Yogi Executive,19.07105,73.00933056,"Hotel Yogi Executive, Sector 24, Opposite Mafco Market,Vashi, Navi Mumbai",Vashi, Mumbai,1500,3.7,no,yes,yes,yes,yes,yes
+753,Caravan Serai,19.06220947,72.83456974,"Linking Road, Bandra West155, Waterfield Road, Opposite Amarsons Showroom,","Linking Road, Bandra West", Mumbai,1550,3.7,yes,no,yes,no,yes,no
+754,The Secret Kitchen,19.06220947,72.83456974,"1, Sunder Niwas, Tilak Mandir Road, Opposite Sai Baba Mandir,Vile Parle East, Mumbai",Vile Parle East, Mumbai,500,4.1,no,no,no,no,no,no
+755,Sai Veg World,19.1648709,72.8505837,"Railway Station,Goregaon East, Mumbai",Goregaon East, Mumbai,600,3.7,yes,no,no,no,no,no
+756,The Post Office,19.45707778,72.80375556,"Shop 1, Kingston Court, Opposite Viva College,Virar, Mumbai",Virar, Mumbai,700,3.7,yes,no,yes,yes,yes,no
+757,Kinara Dhaba,19.302263,72.904039,"Mumbai Ahmedabad Highway, Ghodbundar Junction,Vasai, Mumbai",Vasai, Mumbai,1000,2.7,no,no,no,no,no,no
+758,The Bhookha Beirdo,19.06303592,72.82521252,"27/A, Pali Mala Road, OffPali Hill, Bandra West, Pali Hill, Bandra West","Pali Hill, Bandra West", Mumbai,850,4,yes,no,no,no,no,no
+759,Lucknowee Tunday Kebab,19.1382427,72.84536898,"121, SV Road, Opposite Ghaswala Dairy Fresh,Jogeshwari, Mumbai",Jogeshwari, Mumbai,650,3.8,yes,no,no,no,no,no
+760,Between Breads,19.0649534,72.8309154,"Pali Hill, Bandra West2, Kalpitam Apartments, Opposite Hawaiian Shack, 16th Road,","Pali Hill, Bandra West", Mumbai,1000,3.9,yes,no,no,yes,no,no
+761,Fleur - The Fern Goregaon,19.1617741,72.8569827,"The Fern Hotel, 4/277, I.B Patel Road,Goregaon East, Mumbai",Goregaon East, Mumbai,1200,4,no,yes,no,no,yes,no
+762,Shawarma Factory,19.12364452,72.86431007,"Shop 1, Dhanlaxmi Apartments,MahakaliCaves Road, Mahakali, Mumbai",Mahakali, Mumbai,750,3.7,yes,yes,no,no,no,no
+763,The House,19.13089404,72.81363744,"Versova, Andheri West1, Aaram Nagar 1, JP Road,","Versova, Andheri West", Mumbai,1200,3.5,no,yes,yes,yes,yes,no
+764,Dimsum & More,19.12969764,72.81505231,"7 Bungalows, Andheri West6, Gold Crown Building, JP Road, ICICI Bank,","7 Bungalows, Andheri West", Mumbai,800,3.9,yes,yes,no,yes,no,no
+765,The Suburban Bean,19.1607356,72.94475527,"First Floor, F-32, R Galleria, Mulund-Goregaon Link Road,Mulund West, Mumbai",Mulund West, Mumbai,750,4.1,no,no,no,no,no,no
+766,PJ's,19.065381,72.830172,"Pali Hill, Bandra WestSAISA Gymkhana, St. Anthony's Institute, 33rd Road,","Pali Hill, Bandra West", Mumbai,700,3.8,no,no,yes,no,no,no
+767,Home Chef,19.02424727,72.83791412,"71 Meher Building, Line of Sushrusha Hospital, Ranade Road,Dadar Shivaji Park, Mumbai",Dadar Shivaji Park, Mumbai,600,3.6,yes,no,no,no,no,no
+768,Satkar Rice Plate House,19.1648942,72.8508671,"15,1st Floor, Dreamland Building, Opposite Railway Station,Goregaon East, Mumbai",Goregaon East, Mumbai,500,4.3,yes,no,no,no,no,no
+769,Let's Go Eat,19.1648942,72.8508671,"1, F2, Hyde Park,Manpada, Thane West, 400610","Manpada, Thane West", Mumbai,700,4.5,yes,no,no,no,no,no
+770,Stomach,19.0606784,72.8342602,"Pali Hill, Bandra West116/117, Waterfield Road, Off Turner Road,","Pali Hill, Bandra West", Mumbai,500,2.3,yes,no,yes,no,no,no
+771,Anand Stall,19.1029523,72.8368353,"Opposite Mithibai College, Gulmohar Road 1,Vile Parle West, Mumbai",Vile Parle West, Mumbai,200,4.4,no,no,no,no,no,no
+772,Seasonal Tastes - The Westin Mumbai Garden City,19.172689,72.860413,"The Westin Mumbai Garden City, International Business Park, Oberoi Garden City,Goregaon East, Mumbai",Goregaon East, Mumbai,4000,3.8,no,no,yes,yes,no,no
+773,Pandora's Box,18.9279627,72.832981,"Ground floor, Bake House, Behind Rhythm House, Kalaghoda,Fort, Fort, Mumbai",Fort, Mumbai,600,3.8,yes,yes,no,no,yes,no
+774,Village 12-20 Pure Veg,19.0728894,73.0787325,"Shop 19-23, Plot 1, Manomay CHS, Sector 35D,Kharghar, Navi Mumbai",Kharghar, Mumbai,500,4,yes,no,no,yes,no,no
+775,Over Load,19.0728894,73.0787325,"Shop 19-23, Plot 1, Manomay CHS, Sector 35D,Kharghar, Navi Mumbai","Andheri Lokhandwala, Andheri West", Mumbai,700,4.1,no,no,no,no,no,no
+776,Cafe Safar,19.14931449,72.83295203,"Oshiwara, Andheri WestNear Heera Panna Mall, Oshiwara, Link Road Andheri(w)Mumbai-102,","Oshiwara, Andheri West", Mumbai,600,3.6,yes,no,no,no,no,no
+777,Pali Village,19.280765,72.890718,"Western Express Highway, Ghodbunder Road,Mira Road, Mumbai",Mira Road, Mumbai,1200,3.5,no,no,yes,yes,no,no
+778,Fire Bowl,19.1767291,72.8419623,"Ground Floor, Aruna Residency, Atmaram Compound, Near Dalmia College, Sundar Nagar,Malad West, Mumbai",Malad West, Mumbai,700,3.7,yes,no,no,no,no,no
+779,B Desi,19.13608248,72.83347204,"Ground Floor, Dreams Square, Daliya Estate, Off Link Road, Near Fun Republic Mall,Veera Desai Area, Mumbai",Veera Desai Area, Mumbai,1000,3.6,no,yes,yes,yes,no,no
+780,Dr. Bubbles Chai Specialist,19.0561763,72.8341965,"Hill Road, Bandra WestOpposite Marks and Spencers,","Hill Road, Bandra West", Mumbai,350,4,no,no,no,no,no,no
+781,Prasad Food Divine,19.1631811,72.9400377,"Mulund-Goregoan Link Road, Off LBS Marg,Mulund West, Mumbai",Mulund West, Mumbai,700,3.8,no,no,no,no,no,no
+782,Curry Me Up,19.18891515,72.83614151,"1, Old Sonal Industrial Estate,Malad West, Mumbai",Malad West, Mumbai,700,4,yes,no,no,no,no,no
+783,STOVE - The Vegetarian Kitchen,19.18891515,72.83614151,"Near CST Road, Kalina,Santacruz East, Mumbai",Santacruz East, Mumbai,600,3.7,no,no,no,no,no,no
+784,The Food Town,19.24355575,73.12908098,"Shop no. 2, Sahjanad Chowk, Near Katkar Hospital, Agra Road,Kalyanwest, Kalyan, Mumbai",Kalyan, Mumbai,400,3.7,yes,no,no,no,no,no
+785,Brew House Cafe,19.0099494,73.0329469,"Sector 15,CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,1400,3.6,yes,yes,yes,yes,no,no
+786,Mini Pancakes and More,19.07116488,72.82289308,"Carter Road, Bandra WestCCD Lane,","Carter Road, Bandra West", Mumbai,300,4.3,yes,no,no,no,no,no
+787,Yalla Yalla,19.1140289,72.82617711,"Shop 2, Om Vithoba Rukmani Apartments, Raut Lane , Near PVR cinemas,Juhu, Mumbai",Juhu, Mumbai,500,3.4,yes,yes,no,yes,no,no
+788,Mao The Family Restaurant,19.1266228,72.83856355,"63 - 64 Aboobakar Mahal Jai Prakash Road, Next ToAzad NagarMetro Station, Azad Nagar, Mumbai",Azad Nagar, Mumbai,900,3.6,yes,no,no,no,yes,no
+789,Aquafire Restaurant,19.1072561,72.8518133,"005-010, E Square Building, Near Garware House, Subhash Road,Vile Parle East, Mumbai",Vile Parle East, Mumbai,1100,3.6,yes,no,yes,yes,yes,no
+790,Soi Kitchen,19.0693244,72.900422,"The Destination Building, MG Road, Near Shopper's Stop,Chembur, Mumbai",Chembur, Mumbai,750,3.7,yes,no,no,no,no,no
+791,Oye Kiddan,19.1164308,72.87016433,"Ramkrishna Mandir Marg, Kondivita Road, Andheri East,Mahakali, Mumbai",Mahakali, Mumbai,300,4,yes,no,no,no,no,no
+792,Foodie Bros,19.05051577,72.90660851,"Shop 1, Jolitha Complex, Gatla Village Road, Patil Marg,Chembur, Mumbai",Chembur, Mumbai,500,3.6,yes,no,no,no,no,no
+793,Arya Bhavan,19.0270061,72.85085477,"Opposite Matunga Railway Station,Matunga East, Mumbai",Matunga East, Mumbai,400,4.3,no,no,no,no,no,no
+794,Chaayos,19.160667,72.944888,"Shop 21, Ground Floor, Runwal Galleria, Runwal Greens, Goregaon Link Road,Mulund West, Mumbai",Mulund West, Mumbai,500,3.8,yes,no,no,yes,no,no
+795,Stomach II,19.12933716,72.81890228,"7 Bungalows, Andheri WestRaheja Complex,","7 Bungalows, Andheri West", Mumbai,600,3.7,yes,no,no,no,no,no
+796,Cocoon- Dragonfly Hotel,19.110997,72.8629774,"Hotel Dragonfly, NewChakalaLink Road, Near Solitaire Corporate Park, Chakala, Mumbai",Chakala, Mumbai,600,4,yes,yes,no,yes,yes,no
+797,TAPPA,19.005844,72.826361,"Unit 9, Oasis City, Kamala Mills, Gate 4, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,1800,3.7,no,no,yes,yes,no,no
+798,Mumbai 90 Veg World,19.16462011,72.8350123,"Ground Floor, Chandiwala Arcade, Next to Absolute Furniture, Goregaon Link Road,Goregaon West, Mumbai",Goregaon West, Mumbai,1000,3.6,yes,no,no,no,yes,no
+799,Indigo,18.92212199,72.83206321,"4, Mandlik Road,Colaba, Mumbai",Colaba, Mumbai,4500,4.2,no,no,yes,yes,no,no
+800,Souk - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,5500,4,no,no,yes,yes,no,no
+801,Kaffeine,19.21747361,72.85190505,"Shop 1, Bhatia Apartment, S V Road, Next to Vijay Sales,Borivali West, Mumbai",Borivali West, Mumbai,500,4,no,no,no,yes,no,no
+802,The Salad Bar & Walnut Cafe,19.0658942,72.9993858,"F9, 1st Floor, Haware Infotech Park, Sector 30 A,Vashi, Navi Mumbai",Vashi, Mumbai,1000,3.9,yes,no,no,yes,no,no
+803,Masala Cuisine,19.14619377,72.83481516,"Oshiwara, Andheri WestShop 14, Raigad Commercial Complex, New Link Road,","Oshiwara, Andheri West", Mumbai,850,4,yes,yes,no,no,no,no
+804,Kaizer Ethnique Cuisine,19.138029,72.832471,"Andheri Lokhandwala, Andheri WestB-47 Paramount Building, Monginis Factory Lane, New Link Road,","Andheri Lokhandwala, Andheri West", Mumbai,1100,3.8,yes,no,no,no,no,no
+805,Prakash Shakahari Upahaar Kendra,19.023323,72.838593,"Horizon Towers, Ranade Road Dadar West,Dadar Shivaji Park, Mumbai",Dadar Shivaji Park, Mumbai,150,4.3,no,no,no,no,no,no
+806,LSD - Love Sugar & Dough,19.15138173,72.83234552,"Oshiwara, Andheri West2, Meera Towers, Opposite Mega Mall, Oshiwara,","Oshiwara, Andheri West", Mumbai,400,3.9,yes,no,no,no,no,no
+807,And Chillies,19.0391119,72.8423225,"8 & 9, Mangireesh Society, LJ & MMC Road Junction,MahimWest, Mahim, Mumbai",Mahim, Mumbai,800,3.9,yes,no,yes,no,yes,no
+808,The Joy Pizzateria,19.1793939,72.837318,"Shop 13-14, Ashok Enclave, Chincholi Bunder,Malad West, Mumbai",Malad West, Mumbai,950,4.2,yes,no,no,no,no,no
+809,China Inc - Taj Santacruz,19.0928003,72.854062,"Taj Santacruz, Chhatrapati Shivaji International Airport, Off Western Express Highway,Santacruz East, Mumbai",Santacruz East, Mumbai,2500,3.9,no,no,yes,yes,yes,no
+810,Neopolitan Pizza,19.19256163,72.96727471,"Panch Pakhadi, Thane WestShop 1-3, Vihang Vihar CHS, Opposite Gautam Park,","Panch Pakhadi, Thane West", Mumbai,550,3.1,yes,no,no,yes,no,no
+811,Subway,19.12184872,72.87071653,"Ground Floor, Central Road, MIDC, Premier House,Mahakali, Mumbai",Mahakali, Mumbai,500,2.7,yes,no,no,no,no,no
+812,Paapi Paet,19.182986,72.947823,"Shop 9, Zeeneth Building, LBS Marg, Near Santoshi Mata Mandir,Mulund West, Mumbai",Mulund West, Mumbai,500,4.2,yes,no,no,no,no,no
+813,UFO's,19.21179646,72.86749989,"321-322, Dimple Arcade, Thakur Complex,Kandivali East, Mumbai",Kandivali East, Mumbai,1500,4.1,no,yes,yes,no,yes,no
+814,Lume Restaurant & Bar,19.11583555,72.85355944,"Hotel Aureole, Bima Nagar Society, Sir Mathuradas Vasanji Road, Telli Gali,Near Andheri East Station, Mumbai",Near Andheri East Station, Mumbai,1200,4,yes,yes,yes,yes,yes,no
+815,Pergula,18.92515748,72.83201996,"166, MG Road, Opposite Regal Cinema,Colaba, Mumbai",Colaba, Mumbai,1800,3.5,no,no,yes,no,yes,no
+816,Grab A Bite,19.182171,72.949497,"Ambaji Dam, Opposite Ram Punjab Hotel, Gauri Shankar Chawl, MG Road,Mulund West, Mumbai",Mulund West, Mumbai,300,3.6,yes,no,no,no,no,no
+817,Desi Culture,19.00381328,72.82753028,"C Wing, Trade World, Kamala Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,1300,3.7,yes,no,yes,no,no,no
+818,Mocambo Cafe,18.9342776,72.8337888,"23/A, Sir Phirozshah Mehta Road,Fort, Mumbai",Fort, Mumbai,1400,3.7,yes,no,yes,yes,yes,no
+819,Shabari,19.08231562,72.84084074,"Balaji Darshan, Tilak Road,Santacruz West, Mumbai",Santacruz West, Mumbai,500,4.3,yes,no,no,no,no,no
+820,The Beer Cafe,19.03187,72.8403779,"Plot 29/30, Shop 1-4, Mili CHD, T.H Kataria Road,Mahim, Mumbai",Mahim, Mumbai,1800,3.8,no,no,yes,yes,no,no
+821,Vanderlust,19.03187,72.8403779,"Sagar Resham,Bandstand, Bandra West400050, Mumbai, Bandstand, Bandra West","Bandstand, Bandra West", Mumbai,400,3.5,no,no,no,no,no,no
+822,Orchids,19.0616734,72.9017241,"Hotel Royal Orchid, NG Acharya Marg,Chembur, Mumbai",Chembur, Mumbai,1200,3.9,yes,no,yes,no,yes,no
+823,Gupta Sandwiches & Snacks,19.0740389,72.9995242,"4, JK Chamber, Sector 17,Vashi, Navi Mumbai",Vashi, Mumbai,450,3.8,yes,no,no,no,no,no
+824,Deliciae by Bunty Mahajan,19.07299894,72.83144563,"Opposite Curio Cottage,KharDanda Road, Khar, Mumbai",Khar, Mumbai,400,4,yes,no,no,no,no,no
+825,Gopala's Veg Kitchen,19.13095042,72.92676095,"Laxmi Udyog Nagar, IND Colony, LBS Marg, Kanjurmarg West,Bhandup, Mumbai",Bhandup, Mumbai,550,3.6,yes,no,no,no,no,no
+826,Healthy Treats,19.13095042,72.92676095,"Pali Hill, Bandra West22, Cherrysons, St Cyril's Road,","Pali Hill, Bandra West", Mumbai,400,3.9,no,no,no,no,no,no
+827,Gypsy Chinese,19.02552273,72.84058191,"121 Maryland Corner, Keluskar Marg,Dadar Shivaji Park, Mumbai",Dadar Shivaji Park, Mumbai,1000,3.7,yes,no,yes,no,no,no
+828,Mystery Box,19.18033883,72.83394948,"Eureka Towers, C Wing, Mind Space, Next to Barista, Near Goregaon Sports Club and Toyota Showroom,Malad West, Mumbai",Malad West, Mumbai,550,4.1,yes,yes,no,no,yes,no
+829,Maharashtra Lunch Home,19.042475,73.0221255,"Shop 2, Paradise Apartments, Opposite SIES College, Sector 3,NerulEast, Nerul, Navi Mumbai",Nerul, Mumbai,400,4,yes,no,no,yes,no,no
+830,Kalinga,19.13694246,72.83148319,"Andheri Lokhandwala, Andheri WestNyayadeep Society, Behind SAB TV Tower, Oberoi Complex,","Andheri Lokhandwala, Andheri West", Mumbai,700,3.5,no,no,no,no,no,no
+831,Shreejee's,19.14889102,72.83152476,"Oshiwara, Andheri West24 & 60, Link Plaza, Link Road Extension, Near Oshiwara Police Station,","Oshiwara, Andheri West", Mumbai,600,3.8,yes,no,no,no,yes,no
+832,Breadily Baked,19.14889102,72.83152476,"Shop 5, Coral Classic Commercial Complex, Road 20, Near Ambedkar Garden,Chembur, Mumbai",Chembur, Mumbai,300,3.9,no,no,no,no,no,no
+833,CarKhana,19.14889102,72.83152476,"Shop G9 Vishal Apartment, Opposite Maxus Banquet Hall, Near Maxus Mall, Temba Hospital Road,Bhayandar, Mumbai",Bhayandar, Mumbai,650,3.6,no,no,no,no,no,no
+834,The Bar Index,19.22764933,72.97046218,"Vasant Vihar, Thane WestEmerald Plaza, G3 & 4 Hiranadani Medows ,Pokaran Road,","Vasant Vihar, Thane West", Mumbai,1000,3.6,yes,yes,yes,no,yes,no
+835,Biryani By Kilo,19.22764933,72.97046218,"Shabbir Niwas,MahakaliCaves Road, Andheri East, Mahakali, Mumbai",Mahakali, Mumbai,700,3.3,no,no,no,no,no,no
+836,Breadkraft,19.14305178,72.82453794,"Andheri Lokhandwala, Andheri West15, Sun Swept Building, Lokhandwala Complex,","Andheri Lokhandwala, Andheri West", Mumbai,300,3.9,yes,no,no,no,no,no
+837,Pangat,19.2310412,72.8368237,Borivali West,Borivali West, Mumbai,650,3.7,yes,no,no,no,no,no
+838,Mystery Box,19.18033883,72.83394948,"Eureka Towers, C Wing, Mind Space, Next to Barista, Near Goregaon Sports Club and Toyota Showroom,Malad West, Mumbai",Malad West, Mumbai,550,4.1,yes,yes,no,no,yes,no
+839,Shawarma Factory,19.12446718,72.84031,"5, Naman Co Operative Housing Society, 22 Dadabhai Road,Azad Nagar, Mumbai",Azad Nagar, Mumbai,750,3.7,yes,no,no,no,no,no
+840,Masala Kraft - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,6500,3.9,no,no,yes,yes,no,no
+841,Souk - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,5500,4,no,no,yes,yes,no,no
+842,Sea Lounge - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,3500,4.4,no,no,no,yes,no,no
+843,Wasabi By Morimoto - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,10000,4.5,no,no,yes,yes,no,no
+844,Starbucks,18.921876,72.833322,"The Taj Mahal Palace & Tower, Ground Floor, Apollo Bunder, Opposite Gateway Of India,Colaba, Mumbai",Colaba, Mumbai,700,4.2,no,no,no,yes,no,no
+845,La Patisserie - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,1500,4.2,no,no,yes,yes,no,no
+846,Golden Dragon - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,5000,4.1,no,no,yes,yes,no,no
+847,Harbour Bar - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,2500,3.8,no,no,yes,yes,no,no
+848,Aquarius - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,3000,3.3,no,no,yes,yes,no,no
+849,Ashok Vada Pav Stall,19.01992447,72.83211954,"Off Cadel Road, Kirti College Lane,Prabhadevi, Mumbai",Prabhadevi, Mumbai,100,4.3,no,no,no,no,no,no
+850,CarKhana,19.01992447,72.83211954,"Shop G9 Vishal Apartment, Opposite Maxus Banquet Hall, Near Maxus Mall, Temba Hospital Road,Bhayandar, Mumbai",Bhayandar, Mumbai,650,3.6,no,no,no,no,no,no
+851,Breadkraft,19.14305178,72.82453794,"Andheri Lokhandwala, Andheri West15, Sun Swept Building, Lokhandwala Complex,","Andheri Lokhandwala, Andheri West", Mumbai,300,3.9,yes,no,no,no,no,no
+852,Maharashtra Lunch Home,19.042475,73.0221255,"Shop 2, Paradise Apartments, Opposite SIES College, Sector 3,NerulEast, Nerul, Navi Mumbai",Nerul, Mumbai,400,4,yes,no,no,yes,no,no
+853,Biryani By Kilo,19.042475,73.0221255,"Shabbir Niwas,MahakaliCaves Road, Andheri East, Mahakali, Mumbai",Mahakali, Mumbai,700,3.3,no,no,no,no,no,no
+854,The Bar Index,19.22764933,72.97046218,"Vasant Vihar, Thane WestEmerald Plaza, G3 & 4 Hiranadani Medows ,Pokaran Road,","Vasant Vihar, Thane West", Mumbai,1000,3.6,yes,yes,yes,no,yes,no
+855,Boulevard - The Orchid,19.097302,72.854816,"The Orchid Hotel, Level 1, 70/C, Nehru Road, Adjacent to Domestic Airport,Vile Parle East, Mumbai",Vile Parle East, Mumbai,2600,4,no,no,yes,yes,no,no
+856,Mama Mia!,18.9712575,72.8321323,"21/22, Clare Road,BycullaHouse, Byculla, Mumbai",Byculla, Mumbai,600,3.4,yes,no,no,no,no,no
+857,Italy in a Box,19.11937056,72.90128667,"1, Jheel Darshan ,CHS, Rambaugh, ADI Shankaracharya Marg,Powai, Mumbai",Powai, Mumbai,600,4.5,yes,no,no,no,no,no
+858,Mumbai 77,19.07608428,72.90370736,"G-1, Megor Arcade , M.G road , Next to Sindhuwadi, 
+Near Satyam Shopping Centre,Ghatkopar East, Mumbai",Ghatkopar East, Mumbai,600,3.5,yes,no,no,yes,no,no
+859,Amoeba Sports Bar,19.08691974,72.88919929,"F 33, 1st Floor, Phoenix Market City, LBS Marg,Kurla, Mumbai",Kurla, Mumbai,1100,3.8,no,no,yes,no,no,no
+860,Global Affair,19.2237427,72.8409203,"Shop 4, A- AHCL Homes, Link Road, Near Shimpholi tel exchange,Borivali West, Mumbai",Borivali West, Mumbai,1300,3.7,no,no,yes,no,yes,no
+861,Falafel's,18.96328845,72.8104037,"6A, Ground Floor, B Block, Hasan Manzil House, August Kranti Marg, Gowlia Tank,Tardeo, Mumbai",Tardeo, Mumbai,600,3.3,yes,no,no,no,no,no
+862,Food,19.10418303,72.86174688,"Shop 1, Sahar Road, Near Suba International Hotel,Chakala, Mumbai",Chakala, Mumbai,400,3.5,yes,no,no,no,no,no
+863,Zyka,19.19093029,72.83091255,"Brindavan Building, Evershine Nagar, Near Movietime Cinema,Malad West, Mumbai",Malad West, Mumbai,600,3.5,yes,no,no,no,no,no
+864,Spirit Kitchen and Bar,19.2239907,72.8408959,"AHCL Building, Link Road, Opposite Shimpoli Telephone Exchange,Borivali West, Mumbai",Borivali West, Mumbai,1200,3.8,no,no,yes,no,no,no
+865,Snack & the Beanstock,19.16420017,72.85101939,"Shop 1, Sarvan Mansion, Next to Union Bank, Sonawala Road,Goregaon East, Mumbai",Goregaon East, Mumbai,800,4.2,no,no,no,yes,no,no
+866,Shiro,19.0063687,72.8296113,"Wadia International Center, Bombay Dyeing, Pandhurang Budhkar Marg,Worli, Mumbai",Worli, Mumbai,3000,3.8,yes,no,yes,no,yes,no
+867,Street Gourmet,19.232591,72.853367,"2, Aravali Business Park, Sodawala Lane,Borivali West, Mumbai",Borivali West, Mumbai,400,3.6,yes,no,no,no,no,no
+868,Ministry of Games,19.172045,72.941354,"Aviour Building, Nirmal Galaxy, LBS Marg,Mulund West, Mumbai",Mulund West, Mumbai,650,4.5,no,yes,no,no,no,no
+869,Sea Lounge - The Taj Mahal Palace,18.921876,72.833322,"The Taj Mahal Palace & Tower, Apollo Bunder,Colaba, Mumbai",Colaba, Mumbai,3500,4.4,no,no,no,yes,no,no
+870,Lucky Restaurant,19.05177835,72.9103817,"Hotel Satyabhama, Opposite Amar Theatre, WT Patil Marg, Acharya Nagar,Chembur, Mumbai",Chembur, Mumbai,700,3.6,yes,no,no,yes,yes,no
+871,Shaollin Temple,19.0136223,73.0381411,"Krishna Avtar Building, Plot F/3, Palm Beach Road, Sector 14,CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,1000,3.8,yes,yes,no,no,no,no
+872,Lucky Biryani,19.15103936,72.83548169,"Oshiwara, Andheri West4 & 5, A Wing, Vaibhav Palace, Malad Andheri Link Road,","Oshiwara, Andheri West", Mumbai,800,3.7,yes,no,no,no,no,no
+873,Cafe Terra - Executive Enclave,19.066747,72.8300933,"Pali Hill, Bandra WestExecutive Enclave Hotel, Seventh Floor,","Pali Hill, Bandra West", Mumbai,1800,3.6,yes,yes,yes,no,yes,yes
+874,"Sun, Moon & Potatoes",19.12384852,72.86975529,"A/1, Rainbow Industrial Estate, Subhash Nagar, 23rd Road, MIDC, Andheri East,Mahakali, Mumbai",Mahakali, Mumbai,1000,3.7,yes,no,yes,no,no,no
+875,Cafe Heaven,19.17978815,72.8363286,"5, Ganga Niwas, Chincholi Bunder, Opposite Trends Hotel, Link Road,Malad West, Mumbai",Malad West, Mumbai,400,3.4,yes,no,no,no,no,no
+876,Chef's Biryani,19.11864164,72.91140229,"Powai, Mumbai",Powai, Mumbai,400,3.8,yes,no,no,no,no,no
+877,Fusion Dhaba,19.11864164,72.91140229,"16,Wagle Estate, Thane WestThane West Main Road, Near Fire Brigade, Wagle Estate, Wagle Estate","Wagle Estate, Thane West", Mumbai,1000,3.7,yes,no,yes,no,no,no
+878,AndaMental - The Express Cafe,19.12730258,72.83735354,"Shop 4, Sarkar Corner, Junction of JP Road and Veera Desai Road,Azad NagarMetro Station, Azad Nagar, Mumbai",Azad Nagar, Mumbai,550,3.9,yes,no,no,no,no,no
+879,Almond Flowerr,19.14464907,72.82933977,"Andheri Lokhandwala, Andheri West461, Off Lokhandwala,","Andheri Lokhandwala, Andheri West", Mumbai,1500,4,yes,no,yes,yes,yes,yes
+880,Ticca Tikka,19.13951886,72.83162568,"Andheri Lokhandwala, Andheri West4, Royal Classic, New link road,","Andheri Lokhandwala, Andheri West", Mumbai,700,3.8,yes,yes,no,no,yes,no
+881,Bliss Veg Resto,19.1707948,72.951916,"Sevaram Lalwani road, Opposite Vijay Society Hall,Mulund West, Mumbai",Mulund West, Mumbai,150,4.2,yes,no,no,no,no,no
+882,Bliss Veg Resto,19.1707948,72.951916,"Sevaram Lalwani road, Opposite Vijay Society Hall,, Mumbai",Mulund West, Mumbai,150,4.2,yes,no,no,no,no,no
+884,Shiv Sagar,19.0981382,72.8459053,"8, Dharam Prem Apartment, Nehru Road,Vile Parle East, Mumbai",Vile Parle East, Mumbai,600,3.5,yes,no,no,no,no,no
+885,B Merwan,18.9628905,72.8159591,"Ali Bhai Remji Road, Opposite Station,Grant RoadEast, Grant Road, Mumbai",Grant Road, Mumbai,100,4.5,no,no,no,no,no,no
+886,Desiklub,18.9248316,72.8222912,"Maker Chamber 5, Jamanala Bajaj Road,Nariman Point, Mumbai",Nariman Point, Mumbai,1000,3.7,yes,no,no,no,no,no
+887,The Laughter Chapter Cafe,19.1744468,72.9581905,"E Wing, Shanti Bhavan, Opposite MCC College, Sarojini Naidu Road,Mulund West, Mumbai",Mulund West, Mumbai,500,3.9,yes,no,no,yes,no,no
+888,The Punjabi's Kitchen and Bar,19.1114447,72.8636987,"First floor, Sanjay Appa Chambers, Charat Singh Colony, HarGobind Ji Marg Road,Chakala, Mumbai",Chakala, Mumbai,950,3.7,yes,no,no,yes,yes,no
+889,Hot Wok,19.02364789,73.0235726,"1, Shop 10, Safal Pride CHS, Opposite Sterling College, Sector 25,Nerul, Navi Mumbai",Nerul, Mumbai,500,3.5,yes,no,no,no,no,no
+890,Daffodils 23,19.1804511,72.8357298,"Daffodils 23 Restaurants, Club Link building. Near Toyota Showroom, Link Road. Chincholi Bunder,Malad West, Mumbai",Malad West, Mumbai,1200,3.6,yes,yes,yes,no,yes,no
+891,Panayaa - Modern Indian Kitchen,18.9920137,72.8231975,"Block 25, Raghuvanshi Mills Compound, SB Road,Lower Parel, Mumbai",Lower Parel, Mumbai,1700,3.7,yes,no,no,no,no,no
+892,The Dock,19.44617938,72.79994342,"1st floor, Above Planet Fashion, Madhyam B Wing, Viva Dwarganga Complex, Bolinj Road,Virar, Mumbai",Virar, Mumbai,900,3.4,yes,no,no,no,no,no
+893,Sigree,19.06559446,72.99594853,"Platinum Techno Park, Behind Raghuleela Mall, Sector 30 A,Vashi, Navi Mumbai",Vashi, Mumbai,1800,3.6,yes,no,yes,no,no,no
+894,Meraki,19.14314015,72.99690843,"Shop 7, Gajanan Appartments, Sector 8A,Airoli, Navi Mumbai",Airoli, Mumbai,600,3.3,yes,no,no,no,no,no
+895,Fat Man's Cafe & Grill,19.114676,72.835926,"Tian Building, 48 Gulmohar Road,Juhu, Mumbai",Juhu, Mumbai,1500,3.4,yes,yes,yes,no,no,no
+896,Road House Bluez,19.12713089,72.83596583,"Ground Floor, Tokyo House, Next ToAzad NagarMetro Station, JP Road, Azad Nagar, Mumbai",Azad Nagar, Mumbai,1600,3.7,no,yes,yes,yes,yes,no
+897,Pharaoh Lounge & Gastro Pub,19.1115661,72.8657504,"183 &184, Shahid Bhagat Singh Marg, Guru Nanak Nagar,Chakala, Mumbai",Chakala, Mumbai,1700,3.6,no,no,yes,no,yes,no
+898,Fish N Bait,19.05940662,72.86508705,"Unit 4, Ground Floor, Jet Airways Godrej BKC, G Block, Next to MCA,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,2500,3.8,yes,no,yes,no,yes,no
+899,Vatavaran,19.12525056,72.91843638,"Shop 2, Ground Floor, Bhawani Industrial Estate, Hare Krishna Road, Tirandaz, IIT Market,Powai, Mumbai",Powai, Mumbai,2500,3.4,yes,no,no,no,no,no
+900,1Tablespoon Pizza Kitchen,19.027586,72.857696,"23, Ram Villa, Opposite Sahkari Bhandar,Matunga East, Mumbai",Matunga East, Mumbai,800,3.9,yes,no,no,no,no,no
+901,Frips,19.082843,73.00566,"Satra Plaza, Near Palm Beach Galleria, Sector 19 D, Palm Beach Road,Vashi, Navi Mumbai",Vashi, Mumbai,850,3.7,no,no,no,no,no,no
+902,The White Owl - Brewery & Bistro,19.007391,72.83304,"Lobby, Tower 2 B, One Indiabulls Center, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,4,no,yes,yes,no,yes,no
+903,Scrumptiious,19.13623135,72.80922186,"Versova, Andheri West9 & 10, Everest Apartment, JP Road, Yari Road,","Versova, Andheri West", Mumbai,800,3.6,yes,no,no,no,no,no
+904,Chakra,19.103619,72.8863239,"SakinakaJunction, Andheri Kurla Road, Andheri East, Mumbai",Sakinaka, Mumbai,1000,3.8,yes,no,no,no,no,no
+905,Punjab Depot,19.11471634,72.88123582,"Gala 4,MarolMaroshi Road, Andheri East, Marol, Mumbai",Marol, Mumbai,600,4,yes,no,no,no,no,no
+906,Dum & Curry,19.11795169,72.90368758,"No. 45, Prathmesh Galaxy, Oop. Vijaya Vihar ,Near Hira Panna Market,Powai, Mumbai",Powai, Mumbai,700,4,yes,no,no,no,no,no
+907,Spices & Flavours,18.9302417,72.8333503,"6/8, Rajabahadur Mansion, Hamam Street, Next to Bombay Stock Exchange Building,Fort, Mumbai",Fort, Mumbai,1700,3.7,yes,yes,yes,yes,no,no
+908,On The Go Veg Lounge,19.2245682,72.8477855,"3-A, Prathemesh Pooja, T P S Road,Borivali West, Mumbai",Borivali West, Mumbai,1100,3.7,yes,no,no,no,no,no
+909,Playteria,19.17165007,72.95116575,"Shop Number. 9. Bhagyashree Apartments, Dr. Ambedkar Road,Mulund West, Mumbai",Mulund West, Mumbai,500,4,yes,no,no,no,no,no
+910,Vista - Taj Lands End,19.043575,72.819367,"Taj Lands End,Bandstand, Bandra West, Mumbai","Bandstand, Bandra West", Mumbai,5500,3.7,no,no,yes,yes,no,no
+911,Zazie Bistro & Grill,19.08321263,73.00600916,"25-Atrium, Ground Floor, Satra Plaza,Vashi, Navi Mumbai",Vashi, Mumbai,1200,4,yes,yes,no,yes,no,no
+912,Somethings Fishy - Regenza By Tunga,19.0664799,72.9988754,"Regenza By Tunga, Plot 37, Sector 30 - A,Vashi, Navi Mumbai",Vashi, Mumbai,1400,3.9,yes,yes,yes,yes,yes,no
+913,Pizza Caprina,19.05784233,72.90470045,"2, Arihant Shop Owner Society, Subhash Nagar,Chembur, Mumbai",Chembur, Mumbai,650,3.7,yes,no,no,no,no,no
+914,Utsav,19.11007085,72.92507552,"LBS Marg, Opposite HDFC bank,VikhroliWest, Vikhroli, Mumbai",Vikhroli, Mumbai,400,3,yes,no,no,no,no,no
+915,Hotel Laxmi Next,19.12465281,72.91578703,"IIT Main Gate,Powai, Mumbai",Powai, Mumbai,600,3.5,yes,no,yes,no,no,no
+916,King Chilli Chindian Fusion,19.07779977,72.86507886,"5, 179 A, Gabriel House, Opposite HDFC, Kalina Kurla Road,Santacruz East, Mumbai",Santacruz East, Mumbai,700,3.8,yes,no,no,yes,no,no
+917,Oriental Spice,19.1990729,72.9648339,"Panch Pakhadi, Thane WestShreeji Arcade, Almeda Road,","Panch Pakhadi, Thane West", Mumbai,1000,3.7,yes,no,no,no,no,no
+918,Maple Restro-Bar,19.23267074,72.97127154,"Manpada, Thane WestShop 6-9, Aggarwal Arcade, Aggarwal Estate Opposite To Acme Ozone,","Manpada, Thane West", Mumbai,800,3.4,yes,yes,yes,no,yes,no
+919,Durga Restaurant and Bar,19.02667868,72.85074178,"279 B, Nalla Mansion, Opposite Railway Station,Matunga East, Mumbai",Matunga East, Mumbai,900,4,yes,no,yes,no,no,no
+920,Govinda's Restaurant,19.11181989,72.82653518,"Iskcon Hare Krishna Temple,Juhu, Mumbai",Juhu, Mumbai,900,4,no,no,no,no,no,no
+921,Rajwada Thal,19.0654494,72.8615635,"Floor 1, Urban Plaza, GN Block, Next to Asian Hearts Hospital,Bandra Kurla Complex, Mumbai",Bandra Kurla Complex, Mumbai,900,3.9,yes,no,no,no,no,no
+922,Royal Oak Brewery,19.08226207,73.00585359,"Satra Plaza, Sector 19, Palm Beach Road,Vashi, Navi Mumbai",Vashi, Mumbai,1500,3.9,no,yes,yes,yes,yes,no
+923,Eddies Bistro,19.0655374,72.8306095,"Pali Hill, Bandra West6, Silver Croft Building, 16th & 33rd Road Junction,","Pali Hill, Bandra West", Mumbai,1400,3.9,no,no,yes,no,yes,no
+924,Spukies,19.17578924,72.87009794,"Shop 6, Mukadam Compound, Off Film City Road, Gokuldham,Goregaon East, Mumbai",Goregaon East, Mumbai,600,4.2,yes,no,no,no,no,no
+925,Cafe Junction,19.2171353,73.0872037,"Ground Floor, Sarthak Building, Ursekarwadi, Ramnagar,Dombivali East, Mumbai",Dombivali East, Mumbai,500,4,no,no,no,no,no,no
+926,Gabbar's Grill & Fry,19.15107071,72.8354542,"Oshiwara, Andheri West2A, Vaibhav Palace , Opposite Mega Mall, Off New Link Road,","Oshiwara, Andheri West", Mumbai,750,4.2,yes,no,no,no,no,no
+928,Thug-Lyf,19.18028468,72.83550113,"Basement, Daffodils 23. Club Link Building, Link Road. Chincholi Signal,Malad West, Mumbai",Malad West, Mumbai,1200,3.7,yes,yes,yes,no,yes,no
+929,Cocoamaya,19.1056574,72.883338,"Shivani Dongre Industrial Premises, Andheri Kurla Road,Sakinaka, Mumbai Near Sakinaka Metro Station",Sakinaka, Mumbai,300,3.4,yes,no,no,no,no,no
+931,Grills & Wok,18.9709541,72.8321998,"13 -14, 27,BycullaHouse, Clare Road, Byculla, Mumbai",Byculla, Mumbai,700,3.6,yes,no,no,no,no,no
+932,Gomantak,19.02352111,72.84283128,"301 Miranda Chawl, Kelkar Road,Dadar West, Mumbai",Dadar West, Mumbai,700,3.8,no,no,no,no,no,no
+933,One Street Over,19.06498065,72.83492245,"Linking Road, Bandra WestGround Floor, 35th Street, Off of Linking Road, Khar West,","Linking Road, Bandra West", Mumbai,2000,4.1,no,yes,yes,yes,yes,no
+934,Delizioso,19.2140154,73.0901928,"Dr. Rajendra Prasad Road, Raghuveer Nagar, Near Char Rasta, Near Lassi Cycles,Dombivali East, Mumbai",Dombivali East, Mumbai,550,4,yes,no,no,yes,no,no
+935,Trattoria - Vivanta By Taj President,18.91423313,72.82112516,"Vivanta by Taj President, 90,Cuffe Parade, Mumbai",Cuffe Parade, Mumbai,2500,4.1,no,no,yes,yes,no,no
+936,Cafe Ville Villa,19.10347305,72.85136942,"Shop 3, Dunhill Castle, Hanuman Road,opposite to icici bank and gajalee hotel,Vile Parle East, Mumbai",Vile Parle East, Mumbai,600,4,yes,yes,no,yes,no,no
+937,Navaratna,19.0733691,72.9981404,"Hotel Navaratna,  Plot 10, Sector 17,Vashi, Navi Mumbai",Vashi, Mumbai,550,3.8,yes,no,no,no,yes,no
+938,Brewers Bay,19.0298075,73.06553516,"Plot 20, Shah Prima Building,KhargharStation Road, Sector 2, Kharghar, Navi Mumbai",Kharghar, Mumbai,600,4,no,yes,no,yes,no,no
+939,Bombay Brews,19.2263482,72.97029119,"Vasant Vihar, Thane WestShop 11, Block 1, Emerald Plaza, Pokhran Road 2, Hiranandani Meadows,","Vasant Vihar, Thane West", Mumbai,800,3.8,yes,yes,no,no,no,no
+940,Pack-A-Pav,19.0616185,72.8273115,"Pali Hill, Bandra WestShop 2, St. Andrews Road, Near New India General Store,","Pali Hill, Bandra West", Mumbai,500,4.2,no,no,no,no,no,no
+942,Cafe Bombay Diaries,19.0173766,73.0443902,"Shop 9, Chawla Plaza, Sarovar Vihar, Sector 11,CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,550,4.1,yes,yes,no,no,no,no
+943,Häagen-Dazs,19.11593281,72.90901445,"Ground Floor, City Park, Hiranandani Gardens,Powai, Mumbai",Powai, Mumbai,800,4.1,yes,no,no,yes,no,no
+944,Lucknowee Tunday Kebab,19.07934415,72.88033862,"789-A, Goawala Building, LBS Marg, Opposite Fauziya Nursing Home,Kurla, Mumbai",Kurla, Mumbai,500,3.4,yes,no,no,no,no,no
+945,Food Jar,19.18020044,72.83654921,"6-7, Ground Floor, Ganga Niwas, New Link Road,  Chincholi Bundari,Malad West, Mumbai",Malad West, Mumbai,800,4,yes,no,no,no,no,no
+946,Sigdi,19.06155857,72.83340566,"Linking Road, Bandra WestAbbas Compound, 29th Road, Off Waterfield Road,","Linking Road, Bandra West", Mumbai,650,3.5,yes,no,no,no,no,no
+947,Fill In The Blank,19.02794624,72.84161441,"Keshav Bhavan, Shop - 13, Bal Govindas Road, Near Shivaji Park, Opposite Raja Rani Travels,Mahim, Mumbai",Mahim, Mumbai,300,3.7,yes,no,no,no,no,no
+948,Timbuctoo,19.10631547,72.91701045,"C 13, Mayfair Sonata,VikhroliPowai Link Road, Vikhroli West, Vikhroli, Mumbai",Vikhroli, Mumbai,1650,3.5,yes,no,yes,no,no,no
+949,Biryani Guru,19.0164184,73.0433417,"Mermaid 1, Opp Indian Naval Canteen
+, Sector 11,CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,750,3.9,yes,yes,no,no,no,no
+950,Shree Sagar Veg Restaurant,19.0624137,72.8305879,"Pali Hill, Bandra WestShyam Kunj, Pali Naka, 16th Road,","Pali Hill, Bandra West", Mumbai,900,3.4,yes,no,no,yes,yes,no
+951,Peninsula - Peninsula Grand Hotel,19.1027639,72.8887813,"The Peninsula Grand Hotel,SakinakaJunction, Andheri East, Sakinaka, Mumbai",Sakinaka, Mumbai,1800,3.9,yes,yes,yes,yes,yes,no
+952,New Modern Cafe,19.2191581,73.0903772,"1, Chirag CHS, Phadke Road,Dombivali East, Mumbai",Dombivali East, Mumbai,450,3.6,no,no,no,no,no,no
+953,Soy Street,19.0657147,73.0008157,"Inorbit Mall, First Floor,Sector 30 A,Vashi, Navi Mumbai",Vashi, Mumbai,1100,3.7,yes,yes,yes,yes,no,no
+954,Around d' Globe,19.21775,72.84182,"Shop 2/3/4 Shripal Nagar CHS, Near Malpani Ground, Satya Nagar,Borivali West, Mumbai",Borivali West, Mumbai,900,3.5,yes,no,no,no,no,no
+955,Blue Waters,18.9990389,72.8252261,"1st Floor, Peninsula Corporation Park, Ganpatrao Kadam Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,650,3.2,yes,no,yes,no,no,no
+956,Pronto Pasta and Noodles,19.0880776,73.0045059,"1, Indraprastha Tower, Sector 29,Vashi, Navi Mumbai",Vashi, Mumbai,500,3.8,yes,no,no,no,no,no
+957,Utsav,19.194584,72.9667715,"Panch Pakhadi, Thane WestAtunkumar Vaidya Marg,","Panch Pakhadi, Thane West", Mumbai,700,3.5,no,no,no,no,no,no
+958,GrubHub,19.19401627,72.83365913,"MMC market, Mith Chowki, Link Road,Malad West, Mumbai",Malad West, Mumbai,850,3.5,yes,no,no,no,no,no
+959,Papacream,18.93185401,72.82752793,"18, Cambatta Building, J.T Road,Churchgate, Mumbai",Churchgate, Mumbai,400,3.7,yes,no,no,yes,no,no
+960,Farm Cafe,19.17253171,72.94303866,"Shop - G - 11, Runwal Greens Goregaon-Mulund Link Road, Next to Fortis Hospital,Mulund West, Mumbai",Mulund West, Mumbai,500,3.3,yes,no,no,yes,no,no
+961,Chaai Centre,19.0157088,73.0413681,"Shop 14&16, Plot 37, Mayuresh Cosmos, Sector 11,CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,450,4.1,yes,yes,no,yes,no,no
+962,Hot Wok,19.0337188,73.0638744,"Shop 20, Plot 28, Bhoomi Tower, Near ITM College, Sector 4,Kharghar, Navi Mumbai",Kharghar, Mumbai,650,3.7,yes,no,no,yes,no,no
+963,Daffodils 23,19.2315253,72.8476698,"Royal Complex, Eksar Road,Borivali West, Mumbai",Borivali West, Mumbai,1200,3.3,yes,no,yes,no,yes,no
+964,Meraki,19.0570317,73.002116,"A6, Shah Complex II, Sector 13,Sanpada, Navi Mumbai",Sanpada, Mumbai,600,4.2,yes,no,no,no,no,no
+965,Meraki,19.02987994,73.0603943,"16, Balaji Aangan, 1, Near NIFT College, Sector 3,Kharghar, Navi Mumbai",Kharghar, Mumbai,600,3.9,yes,no,no,yes,no,no
+966,Meraki,18.99582304,72.82287765,"Shop 16, Ground Floor, Dr. Johar Chawl, Dainik Shivneri Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,600,3.6,yes,no,no,no,no,no
+967,Meraki,19.06660025,72.82493893,"House 1, Sangam House, Shirley Rajan Road,Pali Hill, Bandra West, Mumbai","Pali Hill, Bandra West", Mumbai,600,3.9,yes,no,no,no,no,no
+968,Meraki,19.14486825,72.82938771,"Andheri Lokhandwala, Andheri WestAdarsh Nagar,","Andheri Lokhandwala, Andheri West", Mumbai,600,4,yes,no,no,no,no,no
+969,1Tablespoon Pizza Kitchen,19.0008663,72.8302807,"1, Mathuradas Mill Compound, Todi Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,800,3.9,yes,no,no,no,no,no
+971,Pop Tate's,19.0818828,73.00661366,"Shop 120, 1st Floor, Satra Plaza, Sector 19-D, Palm Beach Road,Vashi, Navi Mumbai",Vashi, Mumbai,1600,3.8,no,no,yes,no,no,no
+972,Shiv Sagar,19.00387584,72.8279102,"Ground Floor, Times Tower, Kamala Mills,Lower Parel, Mumbai",Lower Parel, Mumbai,650,3.9,yes,no,yes,no,no,no
+973,27 Yard,19.236276,72.969668,"Manpada, Thane WestShop 6&7, Kothari Compound, Near Tikujini Wadi,","Manpada, Thane West", Mumbai,800,3.4,yes,no,no,no,no,no
+974,Toast - Bistro & Bar,19.11087901,72.87452158,"T24 Residency, Church Road, Near Airport Metro Station, Andheri East,Marol, Mumbai",Marol, Mumbai,2000,3.9,no,yes,yes,yes,no,yes
+975,Elementaria Bakery Cafe,18.99516554,72.82660324,"Shop 10 , Khimji Nagji chawl 1, Opposite Pheonix High Street,Lower Parel, Mumbai",Lower Parel, Mumbai,300,3.4,yes,no,no,no,no,no
+976,House of Nomad - Taj Lands End,19.043575,72.819367,"Bandstand, Bandra WestTaj Lands End,","Bandstand, Bandra West", Mumbai,1500,4.6,no,no,yes,no,no,no
+977,Deepak,19.2285292,72.8480862,"14, Laxmichhaya, LT Road, Babhai Naka,Borivali West, Mumbai",Borivali West, Mumbai,550,3.6,yes,no,no,no,no,no
+978,Blue Tokai Coffee Roasters,19.06046212,72.82435186,"May Flower Apartment, New Kantwadi Road,Pali Hill, Bandra West, Mumbai","Pali Hill, Bandra West", Mumbai,350,4.1,no,no,no,yes,no,no
+979,Zaika Restaurant & Party Hall,19.2946004,72.8499105,"First Floor, Govind Mall, 150 Feet Road, Salasar Brij Bhumi,Bhayandar, Mumbai",Bhayandar, Mumbai,1000,4.4,yes,no,no,no,no,no
+980,Roasted Beans Café,19.0101667,73.0331601,"Shop 26/27, Belle Vista, CHS Plot 46,47,48, Sector 15, Next to DY Patil College,CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,700,4,no,no,no,yes,no,no
+981,Abhinandan,19.0963329,72.91522846,"LBS Marg, Next to Damodar Park,Ghatkopar West, Mumbai",Ghatkopar West, Mumbai,1000,3.7,yes,no,yes,no,no,no
+982,North West,19.08204534,73.00602626,"118, 1st Floor, Satra Plaza, Sector 19-D, Palm Beach Road,Vashi, Navi Mumbai",Vashi, Mumbai,1100,4,yes,no,yes,no,yes,no
+983,Cafe 2.0,19.02608692,72.85468362,"541, Noor Mahal, Near Koolar Irani, Dr. Babasaheb Ambedkar Road,Matunga East, Mumbai",Matunga East, Mumbai,300,3.9,yes,no,no,yes,no,no
+984,Theeram,19.07870916,72.86779627,"Church Road,Santacruz EastNear Our Lady of Egypt Church, Santacruz East, Mumbai",Santacruz East, Mumbai,550,3.5,yes,no,no,no,no,no
+985,Nawab Saheb - Renaissance Hotel,19.1348268,72.9017243,"Renaissance Hotel, 2-3B, Near Chinmayanand Ashram,Powai, Mumbai",Powai, Mumbai,4000,3.9,no,no,yes,yes,yes,no
+986,The Pabulum,19.08173926,72.83611368,"Shop 2, Tagore Kunj CHS, Near Poddar School, Saraswati Road,Santacruz West, Mumbai",Santacruz West, Mumbai,200,3.7,yes,no,no,no,no,no
+987,Local's Eatery & More,19.12741725,72.82922979,"36, Sai Kanwal Complex, Indian oil nagar,  near4 Bungalowsgurudwara, Mumbai, 4 Bungalows, Mumbai",4 Bungalows, Mumbai,550,3.7,yes,no,no,no,no,no
+988,Kings White Castle,19.2741476,72.9611434,"Owale, Thane WestNear Mahindra Showroom, Ovala Naka,","Owale, Thane West", Mumbai,1300,3.5,yes,yes,yes,yes,yes,no
+989,Fishland,19.2030632,72.9727688,"Khopat, Thane West9/10, Ramkunj, Ground Floor,","Khopat, Thane West", Mumbai,800,3.6,yes,no,no,no,yes,no
+990,Delhi Zaika,18.96194878,72.82453928,"Chapra Hotel, M.S Ali Road, Near Nishat Cinema,Grant Road, Mumbai",Grant Road, Mumbai,800,3.4,yes,no,no,no,yes,no
+991,Round About Bar & Kitchen,19.07116869,72.83996165,"Hotel Evergreen, Guru Gobind Singh Marg, Near Railway Station,KharWest, Khar, Mumbai",Khar, Mumbai,1200,4,yes,yes,yes,yes,yes,no
+992,TRE,18.9924714,72.8234258,"25, Raghuvanshi Mills Compound, SB Road,Lower Parel, Mumbai",Lower Parel, Mumbai,2000,3.7,no,yes,yes,no,yes,yes
+993,TNT Taste 'N' Trip,19.17921023,72.8376298,"Shop B-11, Kamala Nagar, Chincholi Bunder Road,Malad West, Mumbai",Malad West, Mumbai,700,3.8,yes,no,no,yes,no,no
+994,Haaochi - Hotel Sun N Sand,19.109614,72.824112,"Hotel Sun N Sand, 39,JuhuBeach, Juhu, Mumbai",Juhu, Mumbai,3000,3.7,no,no,yes,no,yes,no
+995,Flavours - Grand Hometel,19.179544,72.84010515,"Grand Hometel Hotel, Off New Link Road, Chincholi Bunder, Next to Inorbit Mall,Malad West, Mumbai",Malad West, Mumbai,1500,3.8,yes,no,yes,yes,no,no
+996,Wild Dining Restaurant,19.14888406,72.83283133,"Oshiwara, Andheri West3rd Floor, Om Heera Panna Mall,","Oshiwara, Andheri West", Mumbai,1200,3.6,yes,no,yes,no,yes,no
+997,1 By Two,19.12911289,72.86788881,"Shop 9A, Lala Compound. Next to Takshila Police Station.MahakaliCaves Road. Andheri East, Mahakali, Mumbai",Mahakali, Mumbai,800,3.7,yes,no,no,no,no,no
+998,Curry Coriander,19.22389504,72.84222543,"Shop 1 & 2, AHCL Homes, Shimpoli Junction, Link Road,Borivali West, Mumbai",Borivali West, Mumbai,1300,3.8,yes,no,no,no,yes,no
+999,Ziya - The Oberoi Mumbai,18.9278812,72.8215909,"The Oberoi,Nariman Point, Mumbai",Nariman Point, Mumbai,4500,4.2,no,no,yes,yes,no,no
+1001,Royal Treat,19.17173767,72.94290852,"Madan Mohan Malviya Road, Near Telephone Exchange,Mulund West, Mumbai",Mulund West, Mumbai,1600,3.7,yes,yes,yes,yes,yes,no
+1002,Sky View Cafe,19.0060174,72.8270611,"3rd Floor, Trade View Building, Gate 4, Kamala Mills Compound,Lower Parel, Mumbai",Lower Parel, Mumbai,750,3.4,yes,yes,no,no,no,yes
+1003,New Skyway,19.14281454,72.84308542,"8 & 9, Ayesha Tower, SV Road,JogeshwariWest, Jogeshwari, Mumbai",Jogeshwari, Mumbai,500,3.6,yes,no,no,no,no,no
+1004,Craving Salad,19.06563661,72.83054609,"Pali Hill, Bandra WestShop 1, Solace Building , 33rd Road,","Pali Hill, Bandra West", Mumbai,400,4.1,yes,no,no,yes,no,no
+1005,Urban Juice Cafe,19.38489666,72.82405917,"Shop F 11, Jayraj Nagar, 100 Ft Road,Vasai, Mumbai",Vasai, Mumbai,600,4,yes,no,no,no,no,no
+1006,Munch,19.03511243,72.84337442,"Shop 2, Mehta Mansion, Sitladevi Temple Road,Mahim, Mumbai",Mahim, Mumbai,500,4.1,yes,no,no,no,no,no
+1007,Shake Me Up,19.28395589,72.86623858,"Shop 8, Geeta Arcade, Opposite St. Joseph Church, Station Road, Sheetal Nagar,Mira Road, Mumbai",Mira Road, Mumbai,600,3.9,yes,no,no,no,no,no
+1008,Utsav Delight Fine Dine,19.19801917,72.97194578,"Opposite Makhamali Talav, 
+L.B.S. Road,Khopat, Thane West, Mumbai","Khopat, Thane West", Mumbai,500,3.6,yes,yes,yes,yes,yes,no
+1011,Oh Dough,18.9295697,72.8319424,"Hind Rajasthan Chambers, 6 Allana Marg,Fort, Mumbai",Fort, Mumbai,700,4.1,no,no,no,no,no,no
+1012,The Broadway,19.2274177,72.9736915,"Manpada, Thane WestShop 6, Mint Building, India Bulls, Behind Hiranandani Meadows,","Manpada, Thane West", Mumbai,1500,3.7,yes,yes,yes,yes,no,no
+1013,Aqaba,18.9979757,72.8295639,"Club House, Level P5, Peninsula Business Park, Senapati Bapat Marg,Lower Parel, Mumbai",Lower Parel, Mumbai,150,3.8,no,yes,yes,yes,yes,no
+1014,Natural Ice Cream,19.11524189,72.90713355,"12, Eden 2, Bank Of Baroda, Hiranandani Gardens,Powai, Mumbai",Powai, Mumbai,200,4.1,yes,no,no,no,no,no
+1015,Brain Freeze Icecream,19.21194209,72.8417889,"Shop 4, Shubhkamana CHS. Ltd, Mahavir Nagar, Near Sukh Sagar Restaurant,Kandivali West, Mumbai",Kandivali West, Mumbai,1200,4.3,yes,no,no,yes,no,no
+1016,Malhaar Tribes Restobar,19.11167322,72.87965298,"Opposite Jalaram Traders,MarolMarushi Road, Steelmade Industrial Estate Marol, Marol, Mumbai",Marol, Mumbai,700,4,yes,yes,yes,no,yes,no
+1017,Cafe Quantico,19.01042487,72.83257585,"8, Parekh building, Opposite Parel Street Depot, Near Motilal Oswal Tower,Prabhadevi, Mumbai",Prabhadevi, Mumbai,1400,3.6,yes,no,no,no,no,no
+1018,The Bombay Havelli,18.9534461,72.8166977,"Ground Floor, Ladhabhai Mansion, Opera House, Next to Vijay Sales,Charni Road, Mumbai",Charni Road, Mumbai,3000,4,yes,no,no,yes,no,no
+1019,Olio - Novotel,19.10835556,72.82457778,"Novotel,JuhuBeach, Balraj Sahani Marg, Juhu, Mumbai",Juhu, Mumbai,1000,3.7,no,no,yes,yes,yes,no
+1020,Chulha  Restrobar,19.2339165,72.9692628,"Manpada, Thane WestGala-F1/1&2, Kothari Warehouse, SV Road Chitaslasr,","Manpada, Thane West", Mumbai,650,3.4,no,yes,yes,no,no,no
+1021,Chaplin Barbeque,19.12877142,72.81939581,"7 Bungalows, Andheri WestShop no - 3, Varsha Building, J.P Road, Seven Bungalows,","7 Bungalows, Andheri West", Mumbai,800,3.5,yes,no,no,no,no,no
+1022,La Sanazaar Cafe,19.10718542,72.82693148,"Plot - U/13/3, Road-13, J.V.P.D. Scheme, OppositeJuhuChurch, Juhu, Mumbai",Juhu, Mumbai,500,3.1,yes,no,no,no,no,no
+1023,"HBO Cafe - Hey Belly, Ola!",18.938431,72.834423,"138/14, Empire Building, Opposite CST Station, D.N.Road,Fort, Mumbai",Fort, Mumbai,650,3.8,no,no,no,no,no,no
+1024,Indigo Grill,19.05558536,72.88762987,"112-2-2, S.G. Barve Marg, Opposite Swastik Chambers,Chembur, Mumbai",Chembur, Mumbai,3700,3.5,yes,no,no,no,no,no
+1025,The Earth Plate - Sahara Star,19.095652,72.853839,"Hotel Sahara Star, Opposite Domestic Airport,Vile Parle East, Mumbai",Vile Parle East, Mumbai,1700,4,no,yes,yes,yes,yes,no
+1026,The White Door,19.0108193,73.0348236,"23-24, Sai Sagar Complex, Sector 15,CBD-Belapur, Navi Mumbai",CBD-Belapur, Mumbai,3500,3.6,no,yes,yes,yes,no,no
+1027,The Square - Novotel,19.10836667,72.82453056,"Novotel,JuhuBeach, Balraj Sahani Marg, Juhu, Mumbai",Juhu, Mumbai,1500,3.6,no,no,yes,yes,no,no
+1028,Sequel Bistro & Juice Bar,19.06555041,72.83059403,"Pali Hill, Bandra WestShop 2, Solace, 33rd Road, Near Eye Max,","Pali Hill, Bandra West", Mumbai,2000,3.9,yes,no,no,yes,no,no
+1030,Alfredo's,19.1070477,72.8261262,"5, Next to Temple Flower, King's International Hotel,JuhuTara Road, Juhu, Mumbai",Juhu, Mumbai,450,3.5,yes,no,yes,no,yes,no
+1031,Little Hut Chinese Cuisine,19.05416389,72.82846111,"Hill Road, Bandra West6, Dunhill Apartment, Waroda Road, Hill Road,","Hill Road, Bandra West", Mumbai,450,3.2,yes,no,no,no,no,no
+1033,The Corner Club Cafe,19.2186144,73.091182,"Opposite Roshan Automobile, Tilak Road, Off Phadke Road,Dombivali East, Mumbai",Dombivali East, Mumbai,1500,3.3,yes,no,no,yes,no,no
+1034,The Den,19.06618228,72.83343852,"Ground Floor, Prabhat Kunj, 24th Road,KharWest, Khar, Mumbai",Khar, Mumbai,1500,3.7,no,yes,yes,yes,yes,no

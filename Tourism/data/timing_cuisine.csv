@@ -1,0 +1,180 @@
+id,cuisine,starttime,endtime
+0,Afghani,11:00 AM,2:00 PM
+1,Afghani,6:00 PM,1:00 AM
+2,American,11:00 AM,3:00 PM
+3,American,6:00 PM,1:00 AM
+4,Andhra,6:00 PM,12:00 AM
+5,Arabian,11:00 AM,2:00 PM
+6,Arabian,6:00 PM,1:00 AM
+7,Asian,12:00 PM,11:59 AM
+8,Australian,11:00 AM,2:00 PM
+9,Australian,6:00 PM,1:00 AM
+10,Awadhi,6:00 PM,12:00 AM
+11,BBQ,11:00 AM,2:00 PM
+12,BBQ,4:00 PM,1:00 AM
+13,Bakery,6:00 AM,1:00 PM
+14,Bakery,4:00 PM,11:00 PM
+15,Bar Food,6:00 PM,2:00 AM
+16,Bengali,11:00 AM,2:00 PM
+17,Bengali,6:00 PM,1:00 AM
+18,Beverages,12:00 PM,11:59 AM
+19,Biryani,11:00 AM,3:00 PM
+20,Biryani,6:00 PM,12:00 AM
+21,Bohri,11:00 AM,2:00 PM
+22,Bohri,6:00 PM,1:00 AM
+23,Brazilian,11:00 AM,2:00 PM
+24,Brazilian,6:00 PM,1:00 AM
+25,British,11:00 AM,2:00 PM
+26,British,6:00 PM,1:00 AM
+27,Burger,2:00 PM,1:00 AM
+28,Burmese,11:00 AM,2:00 PM
+29,Burmese,6:00 PM,1:00 AM
+30,Cafe,10:00 AM,2:00 PM
+31,Cafe,3:00 PM,10:00 PM
+32,Cantonese,11:00 AM,2:00 PM
+33,Cantonese,6:00 PM,1:00 AM
+34,Charcoal Chicken,11:00 AM,2:00 PM
+35,Charcoal Chicken,6:00 PM,1:00 AM
+36,Chinese,2:00 PM,1:00 AM
+37,Coffee and Tea,10:00 AM,2:00 PM
+38,Coffee and Tea,3:00 PM,10:00 PM
+39,Contemporary,10:00 AM,12:00 PM
+40,Continental,10:00 AM,12:00 PM
+41,Deli,10:00 AM,12:00 PM
+42,Desserts,11:00 AM,2:00 PM
+43,Desserts,6:00 PM,1:00 AM
+44,Dim Sum,10:00 AM,12:00 PM
+45,Dumplings,11:00 AM,2:00 PM
+46,Dumplings,6:00 PM,1:00 AM
+47,European,11:00 AM,2:00 PM
+48,European,6:00 PM,1:00 AM
+49,Fast Food,12:00 PM,11:59 AM
+50,Finger Food,11:00 AM,2:00 PM
+51,Finger Food,6:00 PM,1:00 AM
+52,French,11:00 AM,2:00 PM
+53,French,6:00 PM,1:00 AM
+54,Fusion,11:00 AM,2:00 PM
+55,Fusion,6:00 PM,1:00 AM
+56,German,11:00 AM,2:00 PM
+57,German,6:00 PM,1:00 AM
+58,Goan,11:00 AM,2:00 PM
+59,Goan,6:00 PM,1:00 AM
+60,Greek,11:00 AM,2:00 PM
+61,Greek,6:00 PM,1:00 AM
+62,Grill,11:00 AM,2:00 PM
+63,Grill,6:00 PM,1:00 AM
+64,Gujarati,11:00 AM,2:00 PM
+65,Gujarati,6:00 PM,1:00 AM
+66,Healthy Food,6:00 AM,11:00 AM
+67,Healthy Food,4:00 PM,11:00 PM
+68,Hyderabadi,11:00 AM,2:00 PM
+69,Hyderabadi,6:00 PM,1:00 AM
+70,Ice Cream,11:00 AM,3:00 AM
+71,Indian,11:00 AM,2:00 PM
+72,Indian,6:00 PM,1:00 AM
+73,Indonesian,11:00 AM,2:00 PM
+74,Indonesian,6:00 PM,1:00 AM
+75,Iranian,11:00 AM,2:00 PM
+76,Iranian,6:00 PM,1:00 AM
+77,Italian,11:00 AM,2:00 PM
+78,Italian,6:00 PM,1:00 AM
+79,Japanese,11:00 AM,2:00 PM
+80,Japanese,6:00 PM,1:00 AM
+81,Juices,6:00 AM,10:00 AM
+82,Juices,4:00 PM,7:00 PM
+83,Kebab,11:00 AM,2:00 PM
+84,Kebab,6:00 PM,1:00 AM
+85,Kerala,7:00 AM,2:00 PM
+86,Kerala,7:00 PM,11:00 PM
+87,Konkan,11:00 AM,2:00 PM
+88,Konkan,6:00 PM,1:00 AM
+89,Korean,11:00 AM,2:00 PM
+90,Korean,6:00 PM,1:00 AM
+91,Latin American,11:00 AM,2:00 PM
+92,Latin American,6:00 PM,1:00 AM
+93,Lebanese,11:00 AM,2:00 PM
+94,Lebanese,6:00 PM,1:00 AM
+95,Lucknowi,11:00 AM,2:00 PM
+96,Lucknowi,6:00 PM,1:00 AM
+97,Maharashtrian,11:00 AM,2:00 PM
+98,Maharashtrian,6:00 PM,1:00 AM
+99,Malaysian,11:00 AM,2:00 PM
+100,Malaysian,6:00 PM,1:00 AM
+101,Malwani,11:00 AM,2:00 PM
+102,Malwani,6:00 PM,1:00 AM
+103,Mangalorean,11:00 AM,2:00 PM
+104,Mangalorean,6:00 PM,1:00 AM
+105,Mediterranean,11:00 AM,2:00 PM
+106,Mediterranean,6:00 PM,1:00 AM
+107,Mexican,6:00 PM,1:00 AM
+108,Middle Eastern,11:00 AM,2:00 PM
+109,Middle Eastern,6:00 PM,1:00 AM
+110,Mithai,11:00 AM,11:00 PM
+111,Modern Australian,11:00 AM,2:00 PM
+112,Modern Australian,6:00 PM,1:00 AM
+113,Modern Indian,11:00 AM,2:00 PM
+114,Modern Indian,6:00 PM,1:00 AM
+115,Moroccan,11:00 AM,2:00 PM
+116,Moroccan,6:00 PM,1:00 AM
+117,Mughlai,11:00 AM,2:00 PM
+118,Mughlai,6:00 PM,1:00 AM
+119,North Eastern,11:00 AM,2:00 PM
+120,North Eastern,6:00 PM,1:00 AM
+121,North Indian,11:00 AM,2:00 PM
+122,North Indian,6:00 PM,1:00 AM
+123,Oriental,11:00 AM,2:00 PM
+124,Oriental,6:00 PM,1:00 AM
+125,Pakistani,11:00 AM,2:00 PM
+126,Pakistani,6:00 PM,1:00 AM
+127,Pan Asian,11:00 AM,2:00 PM
+128,Pan Asian,6:00 PM,1:00 AM
+129,Parsi,11:00 AM,2:00 PM
+130,Parsi,6:00 PM,1:00 AM
+131,Persian,11:00 AM,2:00 PM
+132,Persian,6:00 PM,1:00 AM
+133,Peruvian,11:00 AM,2:00 PM
+134,Peruvian,6:00 PM,1:00 AM
+135,Pizza,12:00 PM,11:59 AM
+136,Rajasthani,11:00 AM,2:00 PM
+137,Rajasthani,6:00 PM,1:00 AM
+138,Roast Chicken,11:00 AM,2:00 PM
+139,Roast Chicken,6:00 PM,1:00 AM
+140,Rolls,6:00 PM,1:00 AM
+141,Salad,7:00 AM,1:00 PM
+142,Salad,7:00 PM,10:00 PM
+143,Sandwich,12:00 PM,11:59 AM
+144,Satay,11:00 AM,2:00 PM
+145,Satay,6:00 PM,1:00 AM
+146,Seafood,11:00 AM,2:00 PM
+147,Seafood,6:00 PM,1:00 AM
+148,Sindhi,11:00 AM,2:00 PM
+149,Sindhi,6:00 PM,1:00 AM
+150,Singaporean,11:00 AM,2:00 PM
+151,Singaporean,6:00 PM,1:00 AM
+152,Soul Food,11:00 AM,2:00 PM
+153,Soul Food,6:00 PM,1:00 AM
+154,South American,11:00 AM,2:00 PM
+155,South American,6:00 PM,1:00 AM
+156,South Indian,7:00 AM,2:00 PM
+157,South Indian,7:00 PM,11:00 PM
+158,Spanish,11:00 AM,2:00 PM
+159,Spanish,6:00 PM,1:00 AM
+160,Steak,11:00 AM,2:00 PM
+161,Steak,6:00 PM,1:00 AM
+162,Street Food,12:00 PM,11:59 PM
+163,Sushi,11:00 AM,2:00 PM
+164,Sushi,6:00 PM,1:00 AM
+165,Tea,12:00 PM,11:59 PM
+166,Tex-Mex,11:00 AM,2:00 PM
+167,Tex-Mex,6:00 PM,1:00 AM
+168,Thai,11:00 AM,2:00 PM
+169,Thai,6:00 PM,1:00 AM
+170,Tibetan,11:00 AM,2:00 PM
+171,Tibetan,6:00 PM,1:00 AM
+172,Turkish,11:00 AM,2:00 PM
+173,Turkish,6:00 PM,1:00 AM
+174,Vegetarian,12:00 PM,11:59 PM
+175,Vietnamese,11:00 AM,2:00 PM
+176,Vietnamese,6:00 PM,1:00 AM
+177,Yum Cha,11:00 AM,2:00 PM
+178,Yum Cha,6:00 PM,1:00 AM

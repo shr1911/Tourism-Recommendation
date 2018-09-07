@@ -1,0 +1,3636 @@
+id,rid, cuisine
+0,0,Mediterranean
+1,0,Italian
+2,0,North Indian
+3,0,Continental
+4,1,Modern Indian
+5,1,European
+6,1,Pizza
+7,1,Grill
+8,2,Finger Food
+9,2,Continental
+10,3,Pizza
+11,4,Modern Indian
+12,5,Mexican
+13,5,Italian
+14,5,North Indian
+15,5,Japanese
+16,5,Asian
+17,6,Healthy Food
+18,6,Continental
+19,6,Italian
+20,6,North Indian
+21,7,European
+22,7,Continental
+23,7,Indian
+24,7,Asian
+25,8,North Indian
+26,8,Continental
+27,9,Cafe
+28,9,Fast Food
+29,10,North Indian
+30,10,Chinese
+31,10,Continental
+32,10,American
+33,11,North Indian
+34,11,Mughlai
+35,11,South Indian
+36,12,Spanish
+37,12,Italian
+38,12,European
+39,12,Lebanese
+40,13,Fast Food
+41,13,Burger
+42,14,Asian
+43,14,Fast Food
+44,14,Desserts
+45,15,Continental
+46,15,Italian
+47,15,North Indian
+48,16,Continental
+49,16,Seafood
+50,16,Fast Food
+51,16,Desserts
+52,16,Italian
+53,16,Finger Food
+54,17,Asian
+55,17,North Indian
+56,17,Italian
+57,17,Lebanese
+58,17,Seafood
+59,18,Continental
+60,18,North Indian
+61,19,Continental
+62,19,Fast Food
+63,19,North Indian
+64,19,Salad
+65,19,European
+66,20,North Indian
+67,20,Japanese
+68,21,Italian
+69,21,Pizza
+70,21,Salad
+71,22,Chinese
+72,22,Japanese
+73,22,Asian
+74,22,North Indian
+75,23,Modern Indian
+76,24,Lebanese
+77,24,European
+78,24,Mediterranean
+79,24,Arabian
+80,24,Cafe
+81,25,Seafood
+82,25,Modern Australian
+83,25,Grill
+84,26,North Indian
+85,26,Turkish
+86,26,Lebanese
+87,26,Greek
+88,27,Asian
+89,27,Cantonese
+90,27,Chinese
+91,27,Dim Sum
+92,27,Tea
+93,27,Yum Cha
+94,28,Finger Food
+95,29,Italian
+96,29,Pizza
+97,30,Continental
+98,30,Finger Food
+99,30,Fusion
+100,31,Mediterranean
+101,31,European
+102,31,Mughlai
+103,31,Finger Food
+104,32,Japanese
+105,32,Sushi
+106,32,Finger Food
+107,32,Indian
+108,32,Asian
+109,33,Finger Food
+110,33,Fast Food
+111,33,Pizza
+112,34,Beverages
+113,35,Modern Indian
+114,35,Italian
+115,35,American
+116,36,North Indian
+117,36,Italian
+118,36,Chinese
+119,36,Continental
+120,37,Modern Indian
+121,38,Asian
+122,38,Italian
+123,38,Finger Food
+124,39,North Indian
+125,39,South Indian
+126,40,North Indian
+127,40,Mexican
+128,40,Italian
+129,40,Continental
+130,41,Seafood
+131,42,Continental
+132,42,Lebanese
+133,42,North Indian
+134,42,Mediterranean
+135,42,European
+136,42,Italian
+137,42,Pan Asian
+138,42,Asian
+139,43,Pizza
+140,43,Italian
+141,44,Desserts
+142,45,Cafe
+143,45,Desserts
+144,46,North Indian
+145,46,Mughlai
+146,46,Chinese
+147,47,Fast Food
+148,48,European
+149,48,Continental
+150,48,Mediterranean
+151,49,European
+152,49,Pizza
+153,49,Sushi
+154,49,Burger
+155,49,Grill
+156,50,Italian
+157,50,Mediterranean
+158,50,Salad
+159,51,North Indian
+160,51,Mughlai
+161,52,North Indian
+162,52,Chinese
+163,52,Italian
+164,52,Mexican
+165,53,Continental
+166,53,Thai
+167,53,Italian
+168,53,Mexican
+169,53,Mediterranean
+170,54,Modern Indian
+171,55,American
+172,55,Continental
+173,55,Italian
+174,55,Finger Food
+175,56,Cafe
+176,56,Italian
+177,56,Salad
+178,56,Desserts
+179,56,Beverages
+180,57,Finger Food
+181,58,Thai
+182,59,Goan
+183,59,Indian
+184,59,Continental
+185,60,American
+186,60,North Eastern
+187,60,Chinese
+188,60,Finger Food
+189,61,Cafe
+190,61,American
+191,61,Desserts
+192,62,Continental
+193,63,American
+194,63,Chinese
+195,63,Mughlai
+196,63,Italian
+197,64,Mexican
+198,64,Italian
+199,64,Finger Food
+200,64,Greek
+201,65,Finger Food
+202,65,Continental
+203,66,Sushi
+204,66,Asian
+205,66,Chinese
+206,66,Thai
+207,66,Japanese
+208,67,Parsi
+209,67,Iranian
+210,67,Indian
+211,68,North Indian
+212,68,Chinese
+213,68,Continental
+214,69,Desserts
+215,70,Salad
+216,70,Healthy Food
+217,70,Juices
+218,71,Chinese
+219,71,Cantonese
+220,71,Asian
+221,71,Dim Sum
+222,72,American
+223,72,North Indian
+224,72,Asian
+225,73,Finger Food
+226,73,North Indian
+227,73,Italian
+228,74,Finger Food
+229,75,Pizza
+230,76,Modern Indian
+231,77,North Indian
+232,77,Continental
+233,77,Indian
+234,78,Fast Food
+235,78,Italian
+236,78,Beverages
+237,79,Mexican
+238,79,Italian
+239,79,North Indian
+240,79,Japanese
+241,79,Asian
+242,80,Modern Indian
+243,81,Finger Food
+244,82,Modern Indian
+245,83,North Indian
+246,83,Mexican
+247,83,Italian
+248,83,Continental
+249,84,European
+250,84,Pizza
+251,84,Sushi
+252,84,Burger
+253,84,Grill
+254,85,North Indian
+255,86,Asian
+256,86,North Indian
+257,86,Continental
+258,86,Desserts
+259,87,Continental
+260,87,Fast Food
+261,87,Cafe
+262,87,Sandwich
+263,87,Chinese
+264,87,Salad
+265,87,Modern Indian
+266,87,Finger Food
+267,88,South Indian
+268,88,Fast Food
+269,88,Beverages
+270,88,Street Food
+271,89,Street Food
+272,89,Continental
+273,89,Burger
+274,89,Biryani
+275,89,Italian
+276,89,Pizza
+277,89,Finger Food
+278,89,Indian
+279,90,American
+280,90,Burger
+281,90,Fast Food
+282,91,Asian
+283,92,Chinese
+284,92,Continental
+285,92,Italian
+286,92,North Indian
+287,92,Mexican
+288,92,Thai
+289,93,European
+290,93,Continental
+291,93,North Indian
+292,94,Mediterranean
+293,94,Mexican
+294,94,Spanish
+295,94,Italian
+296,94,European
+297,94,Greek
+298,94,Lebanese
+299,95,Cafe
+300,95,Beverages
+301,95,Continental
+302,95,Italian
+303,95,Lebanese
+304,95,Desserts
+305,95,Chinese
+306,96,Continental
+307,96,Mediterranean
+308,97,Biryani
+309,97,North Indian
+310,97,Chinese
+311,97,Persian
+312,97,Mughlai
+313,98,Continental
+314,98,Burger
+315,99,North Indian
+316,99,Street Food
+317,99,Fast Food
+318,99,Chinese
+319,100,Finger Food
+320,100,North Indian
+321,100,Italian
+322,100,Mexican
+323,100,Continental
+324,100,Coffee and Tea
+325,101,Cafe
+326,101,Desserts
+327,102,American
+328,102,Italian
+329,102,Burger
+330,103,Bakery
+331,103,Desserts
+332,104,North Indian
+333,104,Biryani
+334,104,Sandwich
+335,104,Rolls
+336,104,Salad
+337,104,Ice Cream
+338,105,Mediterranean
+339,105,European
+340,106,Italian
+341,106,Salad
+342,107,European
+343,107,Asian
+344,108,Fast Food
+345,109,Chinese
+346,109,Desserts
+347,110,Continental
+348,110,Cafe
+349,110,North Indian
+350,110,Chinese
+351,110,Finger Food
+352,110,Italian
+353,111,Mexican
+354,111,European
+355,111,Spanish
+356,112,North Indian
+357,113,North Indian
+358,113,Modern Indian
+359,114,North Indian
+360,114,Continental
+361,114,Chinese
+362,115,Continental
+363,115,Mexican
+364,115,Burger
+365,115,Italian
+366,115,Pizza
+367,115,Chinese
+368,115,American
+369,115,Indian
+370,116,Continental
+371,116,European
+372,116,Bar Food
+373,116,Contemporary
+374,116,British
+375,117,North Indian
+376,117,Kebab
+377,117,BBQ
+378,117,Chinese
+379,117,Continental
+380,118,Cafe
+381,118,Italian
+382,118,Mexican
+383,118,Continental
+384,119,Continental
+385,120,Asian
+386,120,Pizza
+387,121,Italian
+388,122,American
+389,122,Mexican
+390,122,Italian
+391,122,Burger
+392,122,Salad
+393,122,Healthy Food
+394,123,North Indian
+395,123,Continental
+396,123,Indian
+397,124,Finger Food
+398,124,North Indian
+399,125,Asian
+400,125,Continental
+401,125,North Indian
+402,126,Sushi
+403,126,Asian
+404,126,Chinese
+405,127,Italian
+406,127,Chinese
+407,128,North Indian
+408,128,Italian
+409,129,North Indian
+410,129,Continental
+411,129,Chinese
+412,130,Continental
+413,130,Italian
+414,130,Fast Food
+415,130,Salad
+416,131,Desserts
+417,132,Continental
+418,132,Mediterranean
+419,132,Italian
+420,132,European
+421,132,Lebanese
+422,132,Salad
+423,133,North Indian
+424,134,Mexican
+425,134,Italian
+426,134,North Indian
+427,134,Chinese
+428,134,European
+429,135,Fast Food
+430,135,Beverages
+431,135,Desserts
+432,135,Juices
+433,136,Pizza
+434,136,Fast Food
+435,137,Modern Indian
+436,138,Cafe
+437,138,Italian
+438,138,American
+439,138,Mexican
+440,138,Tea
+441,139,Street Food
+442,139,Fast Food
+443,139,North Indian
+444,139,Mughlai
+445,139,Rolls
+446,139,Kebab
+447,140,Asian
+448,140,Burmese
+449,141,Cafe
+450,141,American
+451,141,European
+452,142,Mexican
+453,142,Burmese
+454,142,Desserts
+455,142,Italian
+456,142,North Indian
+457,142,Bakery
+458,142,Lebanese
+459,142,Asian
+460,143,Mexican
+461,143,Italian
+462,143,North Indian
+463,143,Lebanese
+464,143,Sushi
+465,143,Asian
+466,144,Modern Indian
+467,144,Italian
+468,144,Asian
+469,145,North Indian
+470,145,Kebab
+471,145,Indian
+472,145,Seafood
+473,145,Salad
+474,146,Continental
+475,146,Burger
+476,146,Desserts
+477,146,British
+478,146,Italian
+479,146,Pizza
+480,146,Salad
+481,146,European
+482,147,Continental
+483,147,Chinese
+484,147,North Indian
+485,147,Italian
+486,147,Mexican
+487,148,Cafe
+488,148,Desserts
+489,148,Bakery
+490,149,Italian
+491,149,Pizza
+492,150,Modern Indian
+493,151,North Indian
+494,151,Continental
+495,151,Chinese
+496,152,Mughlai
+497,152,Fast Food
+498,152,North Indian
+499,152,Chinese
+500,152,Pizza
+501,153,Modern Indian
+502,153,Asian
+503,153,Continental
+504,154,Cafe
+505,155,European
+506,155,Continental
+507,155,Asian
+508,155,North Indian
+509,156,Mughlai
+510,156,North Indian
+511,156,Chinese
+512,157,Modern Indian
+513,158,Continental
+514,158,Mexican
+515,158,American
+516,159,Italian
+517,159,European
+518,159,Mediterranean
+519,160,Modern Indian
+520,160,Continental
+521,161,Biryani
+522,161,Pizza
+523,161,Burger
+524,161,Street Food
+525,161,Continental
+526,161,Finger Food
+527,161,Indian
+528,161,Asian
+529,162,Finger Food
+530,163,North Indian
+531,163,Continental
+532,163,Indian
+533,164,North Indian
+534,164,Mexican
+535,164,Italian
+536,164,Continental
+537,165,Mexican
+538,165,Italian
+539,165,North Indian
+540,165,Japanese
+541,165,Asian
+542,166,Modern Indian
+543,167,Finger Food
+544,168,Modern Indian
+545,169,European
+546,169,Pizza
+547,169,Sushi
+548,169,Burger
+549,169,Grill
+550,170,North Indian
+551,170,Chinese
+552,170,Thai
+553,170,European
+554,171,Desserts
+555,171,Bakery
+556,172,North Indian
+557,172,Mughlai
+558,172,Biryani
+559,172,Seafood
+560,173,European
+561,173,Italian
+562,173,Burger
+563,173,Salad
+564,173,Healthy Food
+565,174,Bakery
+566,174,Fast Food
+567,174,Desserts
+568,175,Italian
+569,175,Mexican
+570,175,North Indian
+571,175,Chinese
+572,175,Salad
+573,176,North Indian
+574,176,Lebanese
+575,176,Fast Food
+576,176,Chinese
+577,176,Rolls
+578,176,Salad
+579,177,European
+580,177,Mediterranean
+581,177,Italian
+582,178,Desserts
+583,178,Fast Food
+584,179,North Indian
+585,179,Mughlai
+586,180,North Indian
+587,180,Pakistani
+588,180,Bengali
+589,180,Lucknowi
+590,181,American
+591,181,Burger
+592,182,American
+593,182,Mexican
+594,182,Burger
+595,183,Cafe
+596,183,Italian
+597,183,American
+598,183,Fusion
+599,184,South Indian
+600,185,Continental
+601,185,Italian
+602,185,American
+603,185,Salad
+604,186,North Indian
+605,186,Chinese
+606,186,Continental
+607,187,Parsi
+608,187,Bakery
+609,188,American
+610,188,Lebanese
+611,188,Italian
+612,188,Salad
+613,189,Continental
+614,189,Asian
+615,189,North Indian
+616,190,Continental
+617,190,Goan
+618,190,North Indian
+619,191,Cafe
+620,191,Salad
+621,192,European
+622,192,Italian
+623,193,European
+624,193,Continental
+625,194,Italian
+626,194,Mexican
+627,194,Spanish
+628,195,Italian
+629,195,Lebanese
+630,195,American
+631,195,Moroccan
+632,196,Asian
+633,196,Italian
+634,196,Continental
+635,196,Juices
+636,197,Mughlai
+637,197,North Indian
+638,197,Chinese
+639,197,Asian
+640,197,Pizza
+641,198,European
+642,198,American
+643,198,BBQ
+644,198,Burger
+645,198,Continental
+646,198,Fusion
+647,198,Soul Food
+648,198,Bakery
+649,199,Chinese
+650,199,North Indian
+651,199,Continental
+652,199,Italian
+653,200,Finger Food
+654,200,Continental
+655,200,Italian
+656,200,Pizza
+657,200,Chinese
+658,201,North Indian
+659,201,Continental
+660,201,Seafood
+661,201,Salad
+662,202,North Indian
+663,202,South Indian
+664,202,Continental
+665,202,Italian
+666,202,Mexican
+667,203,Desserts
+668,203,Bakery
+669,204,Continental
+670,204,Malaysian
+671,204,Chinese
+672,204,North Indian
+673,205,Asian
+674,205,Mexican
+675,205,American
+676,206,Modern Indian
+677,207,Italian
+678,207,Continental
+679,208,South Indian
+680,209,European
+681,209,Finger Food
+682,209,Continental
+683,209,Desserts
+684,210,North Indian
+685,210,South Indian
+686,210,Street Food
+687,211,Cafe
+688,211,Healthy Food
+689,211,Beverages
+690,211,Salad
+691,212,Chinese
+692,212,Thai
+693,212,Japanese
+694,212,Asian
+695,212,Sushi
+696,212,Seafood
+697,213,North Indian
+698,214,Mediterranean
+699,214,Mughlai
+700,214,Italian
+701,215,Fast Food
+702,215,Juices
+703,215,Healthy Food
+704,215,Beverages
+705,216,Pizza
+706,216,Salad
+707,217,French
+708,218,Continental
+709,218,Italian
+710,218,Chinese
+711,218,Modern Indian
+712,218,Finger Food
+713,218,Mediterranean
+714,218,Seafood
+715,218,Desserts
+716,219,European
+717,219,Italian
+718,219,Continental
+719,219,Mexican
+720,220,Indian
+721,220,Chinese
+722,220,Continental
+723,220,Italian
+724,221,Italian
+725,221,Pizza
+726,221,Healthy Food
+727,221,Cafe
+728,221,Salad
+729,222,North Indian
+730,222,Continental
+731,222,Italian
+732,223,Italian
+733,223,Continental
+734,224,Mughlai
+735,224,Awadhi
+736,225,North Indian
+737,225,Chinese
+738,225,Continental
+739,226,German
+740,226,European
+741,226,Continental
+742,226,Burger
+743,227,North Indian
+744,227,Chinese
+745,227,Mughlai
+746,227,Seafood
+747,228,Healthy Food
+748,228,American
+749,228,Burger
+750,228,Salad
+751,229,Fast Food
+752,230,Desserts
+753,230,Bakery
+754,231,Desserts
+755,231,Bakery
+756,232,Desserts
+757,232,Bakery
+758,233,North Indian
+759,233,Mughlai
+760,233,Biryani
+761,233,Seafood
+762,234,North Indian
+763,234,Mughlai
+764,234,Biryani
+765,234,Seafood
+766,235,North Indian
+767,235,Mughlai
+768,235,Biryani
+769,235,Seafood
+770,236,North Indian
+771,236,Mughlai
+772,236,Biryani
+773,236,Seafood
+774,237,North Indian
+775,237,Mughlai
+776,237,Biryani
+777,237,Seafood
+778,238,North Indian
+779,238,Mughlai
+780,238,Biryani
+781,238,Seafood
+782,239,North Indian
+783,240,Seafood
+784,240,Biryani
+785,240,Beverages
+786,240,North Indian
+787,240,Chinese
+788,240,Mughlai
+789,240,Thai
+790,241,Cafe
+791,241,Italian
+792,241,Chinese
+793,241,Continental
+794,242,Continental
+795,242,Italian
+796,242,Finger Food
+797,243,European
+798,243,Salad
+799,244,Mexican
+800,244,Italian
+801,244,Continental
+802,244,Salad
+803,244,Healthy Food
+804,245,North Indian
+805,245,Continental
+806,245,Asian
+807,246,Mughlai
+808,246,North Indian
+809,247,Italian
+810,247,Continental
+811,247,Mexican
+812,248,Desserts
+813,248,Ice Cream
+814,248,Fast Food
+815,249,Thai
+816,249,Chinese
+817,249,North Indian
+818,249,Mexican
+819,249,Italian
+820,249,Asian
+821,250,European
+822,250,Mexican
+823,250,Continental
+824,250,American
+825,251,Asian
+826,251,Sushi
+827,252,North Indian
+828,252,Chinese
+829,252,Thai
+830,253,North Indian
+831,254,Italian
+832,254,American
+833,254,Salad
+834,254,Desserts
+835,255,Continental
+836,255,Italian
+837,255,Finger Food
+838,256,North Indian
+839,256,Kebab
+840,256,BBQ
+841,256,Chinese
+842,256,Continental
+843,257,Asian
+844,257,Finger Food
+845,258,North Indian
+846,258,Continental
+847,258,Italian
+848,258,Pizza
+849,258,Burger
+850,259,Bakery
+851,259,Desserts
+852,260,Parsi
+853,260,Lebanese
+854,260,Continental
+855,261,Mexican
+856,261,Italian
+857,261,Continental
+858,261,Salad
+859,261,Healthy Food
+860,262,North Indian
+861,263,Mediterranean
+862,263,Lebanese
+863,264,Cafe
+864,264,Italian
+865,265,American
+866,265,Continental
+867,265,Italian
+868,265,Salad
+869,266,Finger Food
+870,266,Italian
+871,266,American
+872,267,Continental
+873,267,Chinese
+874,267,North Indian
+875,267,Seafood
+876,267,Italian
+877,268,European
+878,268,Mediterranean
+879,268,Asian
+880,268,Modern Indian
+881,268,Finger Food
+882,268,Salad
+883,268,Desserts
+884,269,European
+885,269,American
+886,270,Seafood
+887,270,Maharashtrian
+888,270,North Indian
+889,271,Parsi
+890,272,Pizza
+891,272,Fast Food
+892,273,North Indian
+893,273,Mughlai
+894,273,Biryani
+895,274,Desserts
+896,275,Fast Food
+897,276,Italian
+898,276,Mexican
+899,277,North Indian
+900,277,Italian
+901,278,North Indian
+902,278,Mediterranean
+903,278,American
+904,279,North Indian
+905,279,Mughlai
+906,280,European
+907,280,Mexican
+908,280,Italian
+909,281,Mediterranean
+910,281,European
+911,281,American
+912,281,Italian
+913,281,Finger Food
+914,281,Mexican
+915,282,Japanese
+916,283,Continental
+917,284,Cafe
+918,284,Desserts
+919,285,Mexican
+920,286,Italian
+921,286,Mexican
+922,286,Burger
+923,286,Salad
+924,287,Continental
+925,287,Mediterranean
+926,287,North Indian
+927,287,Chinese
+928,288,North Indian
+929,289,Chinese
+930,289,Thai
+931,289,Italian
+932,290,South American
+933,290,Brazilian
+934,291,North Indian
+935,291,South Indian
+936,291,Street Food
+937,291,Chinese
+938,292,Mughlai
+939,292,Chinese
+940,293,Modern Indian
+941,294,Continental
+942,294,Mexican
+943,294,Burger
+944,294,American
+945,294,Sandwich
+946,294,Italian
+947,294,Finger Food
+948,294,Grill
+949,295,Mexican
+950,295,Beverages
+951,295,Cafe
+952,295,Desserts
+953,295,Italian
+954,296,Continental
+955,296,Italian
+956,296,North Indian
+957,297,Cafe
+958,297,American
+959,297,Mexican
+960,297,Italian
+961,298,Asian
+962,298,Chinese
+963,298,Sushi
+964,299,North Indian
+965,300,North Indian
+966,300,Mughlai
+967,301,Continental
+968,301,European
+969,302,Continental
+970,302,North Indian
+971,302,European
+972,303,Continental
+973,303,Biryani
+974,303,Italian
+975,303,Pizza
+976,303,North Indian
+977,303,Mughlai
+978,303,Asian
+979,303,Middle Eastern
+980,304,North Indian
+981,304,Mughlai
+982,305,North Indian
+983,305,Continental
+984,305,Chinese
+985,305,Seafood
+986,306,Italian
+987,306,Desserts
+988,306,Pizza
+989,307,North Indian
+990,307,Asian
+991,307,Mughlai
+992,308,Cafe
+993,309,North Indian
+994,309,Mughlai
+995,309,Biryani
+996,309,BBQ
+997,309,Chinese
+998,310,Mughlai
+999,310,North Indian
+1000,310,Chinese
+1001,311,Mexican
+1002,311,Chinese
+1003,311,Tex-Mex
+1004,311,Desserts
+1005,312,Japanese
+1006,312,Asian
+1007,313,Biryani
+1008,313,North Indian
+1009,313,Mughlai
+1010,313,Chinese
+1011,313,Seafood
+1012,313,Rolls
+1013,314,North Indian
+1014,314,Mughlai
+1015,314,Chinese
+1016,315,Italian
+1017,315,Thai
+1018,315,Mexican
+1019,315,Chinese
+1020,316,Cafe
+1021,316,Italian
+1022,316,Continental
+1023,317,Continental
+1024,317,Asian
+1025,317,American
+1026,318,North Indian
+1027,318,South Indian
+1028,319,North Indian
+1029,319,Italian
+1030,319,Chinese
+1031,319,Mexican
+1032,320,Street Food
+1033,320,South Indian
+1034,320,Fast Food
+1035,321,American
+1036,321,Mexican
+1037,322,Continental
+1038,322,Mexican
+1039,322,Italian
+1040,322,American
+1041,323,Burger
+1042,323,Fast Food
+1043,324,Seafood
+1044,324,Burger
+1045,324,Fast Food
+1046,324,North Indian
+1047,324,Finger Food
+1048,325,Fast Food
+1049,325,Italian
+1050,325,Beverages
+1051,326,Continental
+1052,326,North Indian
+1053,326,Chinese
+1054,326,Healthy Food
+1055,327,Cafe
+1056,327,Desserts
+1057,328,American
+1058,328,Italian
+1059,328,Chinese
+1060,328,Finger Food
+1061,328,Middle Eastern
+1062,328,Salad
+1063,329,North Indian
+1064,329,Mughlai
+1065,329,Chinese
+1066,329,Thai
+1067,329,Biryani
+1068,329,Hyderabadi
+1069,329,Lucknowi
+1070,329,Seafood
+1071,330,Fast Food
+1072,330,Tibetan
+1073,331,Rajasthani
+1074,331,Gujarati
+1075,332,Italian
+1076,332,Mexican
+1077,332,Chinese
+1078,332,North Indian
+1079,333,North Indian
+1080,333,Rolls
+1081,334,American
+1082,334,Italian
+1083,334,Mexican
+1084,334,Continental
+1085,334,Bar Food
+1086,335,Continental
+1087,335,Mexican
+1088,335,Italian
+1089,335,Mediterranean
+1090,335,Desserts
+1091,336,North Indian
+1092,336,Asian
+1093,336,Continental
+1094,336,Italian
+1095,336,Desserts
+1096,337,Fast Food
+1097,337,Desserts
+1098,337,Beverages
+1099,338,Asian
+1100,338,Thai
+1101,338,Chinese
+1102,339,North Indian
+1103,339,Continental
+1104,339,Mexican
+1105,340,American
+1106,340,Continental
+1107,340,Italian
+1108,340,Salad
+1109,341,European
+1110,341,American
+1111,342,European
+1112,342,American
+1113,343,European
+1114,343,American
+1115,344,European
+1116,344,American
+1117,345,European
+1118,345,American
+1119,346,European
+1120,346,American
+1121,347,European
+1122,347,American
+1123,348,Italian
+1124,348,Pizza
+1125,349,Parsi
+1126,349,Iranian
+1127,349,Indian
+1128,350,Cafe
+1129,350,Tea
+1130,351,North Indian
+1131,351,Chinese
+1132,351,American
+1133,352,Continental
+1134,352,Italian
+1135,352,French
+1136,352,European
+1137,352,Japanese
+1138,352,Lebanese
+1139,352,Asian
+1140,352,Middle Eastern
+1141,353,North Indian
+1142,353,Asian
+1143,353,Continental
+1144,353,Italian
+1145,353,Desserts
+1146,354,Modern Indian
+1147,354,Continental
+1148,354,Italian
+1149,355,Chinese
+1150,355,Thai
+1151,356,Cafe
+1152,356,Indian
+1153,356,Asian
+1154,356,Chinese
+1155,356,Continental
+1156,356,Desserts
+1157,357,South Indian
+1158,357,Cafe
+1159,357,Kerala
+1160,358,Indian
+1161,358,Italian
+1162,358,Mexican
+1163,358,Lebanese
+1164,359,North Indian
+1165,359,Chinese
+1166,360,North Indian
+1167,361,Continental
+1168,361,Cafe
+1169,361,Italian
+1170,362,Indian
+1171,363,Continental
+1172,363,Italian
+1173,363,Seafood
+1174,363,North Indian
+1175,363,Cafe
+1176,364,North Indian
+1177,364,Mughlai
+1178,365,Mughlai
+1179,366,North Indian
+1180,366,Italian
+1181,366,Mexican
+1182,366,Tex-Mex
+1183,367,American
+1184,367,Mexican
+1185,367,Italian
+1186,367,Desserts
+1187,367,Grill
+1188,368,Cafe
+1189,368,Burger
+1190,368,Desserts
+1191,368,Italian
+1192,368,Pizza
+1193,368,Parsi
+1194,369,Continental
+1195,369,Mexican
+1196,369,Italian
+1197,369,North Indian
+1198,369,Lebanese
+1199,369,Asian
+1200,369,Middle Eastern
+1201,369,Thai
+1202,370,Finger Food
+1203,371,Sindhi
+1204,371,North Indian
+1205,371,Chinese
+1206,372,Italian
+1207,372,Chinese
+1208,372,Mexican
+1209,372,Thai
+1210,372,North Indian
+1211,372,Indian
+1212,372,Desserts
+1213,373,Maharashtrian
+1214,373,South Indian
+1215,373,Street Food
+1216,373,Desserts
+1217,373,Mithai
+1218,374,Chinese
+1219,374,Asian
+1220,374,Seafood
+1221,374,Thai
+1222,375,North Indian
+1223,376,South Indian
+1224,377,Beverages
+1225,377,Desserts
+1226,377,Italian
+1227,377,Pizza
+1228,378,Cafe
+1229,378,Fast Food
+1230,378,Finger Food
+1231,378,Healthy Food
+1232,378,Juices
+1233,378,Coffee and Tea
+1234,378,Italian
+1235,378,Bar Food
+1236,379,Cafe
+1237,379,Healthy Food
+1238,379,Italian
+1239,379,Juices
+1240,380,Cafe
+1241,380,Continental
+1242,380,North Indian
+1243,380,Italian
+1244,380,Salad
+1245,380,Sandwich
+1246,380,Burger
+1247,380,Desserts
+1248,381,South Indian
+1249,382,Cafe
+1250,383,Goan
+1251,383,Continental
+1252,383,Seafood
+1253,384,North Indian
+1254,384,Chinese
+1255,384,Biryani
+1256,385,European
+1257,385,Italian
+1258,385,Salad
+1259,386,Continental
+1260,386,Mediterranean
+1261,386,Modern Indian
+1262,386,Mexican
+1263,387,European
+1264,387,Italian
+1265,387,Salad
+1266,388,Japanese
+1267,389,South Indian
+1268,389,North Indian
+1269,390,Mughlai
+1270,390,North Indian
+1271,390,Chinese
+1272,390,Seafood
+1273,391,Maharashtrian
+1274,391,Fast Food
+1275,391,Chinese
+1276,392,Finger Food
+1277,393,Finger Food
+1278,393,Coffee and Tea
+1279,393,Pizza
+1280,393,Sandwich
+1281,393,Salad
+1282,393,Street Food
+1283,393,Fusion
+1284,394,Street Food
+1285,394,Chinese
+1286,394,South Indian
+1287,394,Juices
+1288,395,Cafe
+1289,395,Burger
+1290,395,American
+1291,395,Continental
+1292,395,Desserts
+1293,395,Italian
+1294,395,European
+1295,395,Grill
+1296,396,Continental
+1297,396,Mexican
+1298,396,Fast Food
+1299,396,Desserts
+1300,396,Italian
+1301,396,Chinese
+1302,397,European
+1303,397,Salad
+1304,398,Chinese
+1305,398,Fast Food
+1306,398,North Indian
+1307,398,South Indian
+1308,398,Beverages
+1309,399,Continental
+1310,399,Italian
+1311,399,North Indian
+1312,400,Desserts
+1313,401,Asian
+1314,401,Chinese
+1315,401,Japanese
+1316,401,Singaporean
+1317,402,Mughlai
+1318,402,North Indian
+1319,402,Chinese
+1320,403,American
+1321,403,Mexican
+1322,403,Italian
+1323,403,Asian
+1324,403,Bar Food
+1325,404,Finger Food
+1326,404,Asian
+1327,404,Italian
+1328,405,Mexican
+1329,405,Cafe
+1330,405,Italian
+1331,405,American
+1332,405,Beverages
+1333,405,Coffee and Tea
+1334,405,Deli
+1335,405,Grill
+1336,406,Bakery
+1337,406,Fast Food
+1338,407,European
+1339,407,American
+1340,408,Cafe
+1341,408,Beverages
+1342,409,Asian
+1343,409,Finger Food
+1344,410,North Indian
+1345,410,Mughlai
+1346,411,Cafe
+1347,411,Healthy Food
+1348,411,Salad
+1349,412,Continental
+1350,412,American
+1351,412,Italian
+1352,412,Finger Food
+1353,413,American
+1354,413,Cafe
+1355,413,Desserts
+1356,413,Sandwich
+1357,413,European
+1358,413,Asian
+1359,414,North Indian
+1360,414,Gujarati
+1361,414,Lucknowi
+1362,414,Maharashtrian
+1363,414,South Indian
+1364,414,Bengali
+1365,414,Street Food
+1366,415,Desserts
+1367,415,Bakery
+1368,416,Japanese
+1369,416,Asian
+1370,417,Fast Food
+1371,417,American
+1372,417,Burger
+1373,418,Cafe
+1374,418,Fast Food
+1375,418,Spanish
+1376,419,Cafe
+1377,419,Continental
+1378,420,Fast Food
+1379,420,Continental
+1380,421,Continental
+1381,421,North Indian
+1382,421,Chinese
+1383,421,Salad
+1384,422,Seafood
+1385,422,North Indian
+1386,422,Chinese
+1387,422,Mangalorean
+1388,423,Continental
+1389,423,Beverages
+1390,423,Desserts
+1391,423,North Indian
+1392,423,Chinese
+1393,423,BBQ
+1394,423,Indian
+1395,424,North Indian
+1396,424,Chinese
+1397,424,Italian
+1398,424,Fast Food
+1399,424,Burger
+1400,425,Italian
+1401,426,Italian
+1402,426,North Indian
+1403,426,American
+1404,427,Chinese
+1405,427,Thai
+1406,428,Chinese
+1407,428,Thai
+1408,429,Chinese
+1409,429,Thai
+1410,430,Chinese
+1411,430,Thai
+1412,431,Chinese
+1413,431,Thai
+1414,432,Chinese
+1415,432,Thai
+1416,433,Cafe
+1417,433,Indian
+1418,433,Asian
+1419,433,Chinese
+1420,433,Continental
+1421,433,Desserts
+1422,434,American
+1423,434,Mexican
+1424,434,Italian
+1425,434,Asian
+1426,434,Bar Food
+1427,435,North Indian
+1428,435,Chinese
+1429,435,Finger Food
+1430,435,Thai
+1431,436,Cafe
+1432,436,Continental
+1433,436,North Indian
+1434,437,Continental
+1435,437,Mexican
+1436,437,Italian
+1437,437,Salad
+1438,437,European
+1439,437,Sushi
+1440,437,Asian
+1441,438,Seafood
+1442,438,North Indian
+1443,438,Chinese
+1444,439,Mediterranean
+1445,439,European
+1446,440,North Indian
+1447,440,Street Food
+1448,441,Fast Food
+1449,441,Pizza
+1450,441,Mexican
+1451,441,Rolls
+1452,442,North Indian
+1453,442,Continental
+1454,443,Italian
+1455,444,Mughlai
+1456,444,Lebanese
+1457,444,Chinese
+1458,444,Salad
+1459,444,Healthy Food
+1460,444,Rolls
+1461,445,South Indian
+1462,445,Fast Food
+1463,445,North Indian
+1464,445,Chinese
+1465,445,Beverages
+1466,446,Italian
+1467,446,American
+1468,446,Salad
+1469,446,Mexican
+1470,447,North Indian
+1471,447,Chinese
+1472,448,Asian
+1473,448,Chinese
+1474,448,Thai
+1475,448,Vietnamese
+1476,448,Indonesian
+1477,449,Asian
+1478,450,American
+1479,450,Fast Food
+1480,450,Burger
+1481,451,Street Food
+1482,451,Maharashtrian
+1483,451,Fast Food
+1484,451,Juices
+1485,452,Italian
+1486,452,Continental
+1487,452,North Indian
+1488,452,Asian
+1489,453,North Indian
+1490,453,Continental
+1491,453,Mediterranean
+1492,453,Asian
+1493,453,Bakery
+1494,453,BBQ
+1495,453,Desserts
+1496,453,Chinese
+1497,454,European
+1498,454,Italian
+1499,454,Spanish
+1500,454,Desserts
+1501,455,Italian
+1502,455,Indian
+1503,455,Cafe
+1504,456,Burger
+1505,456,Fast Food
+1506,457,Fast Food
+1507,458,Korean
+1508,458,Chinese
+1509,458,Japanese
+1510,458,Vietnamese
+1511,458,Asian
+1512,458,Thai
+1513,459,North Indian
+1514,459,Chinese
+1515,459,Continental
+1516,460,Cafe
+1517,461,Chinese
+1518,461,Fast Food
+1519,461,South Indian
+1520,461,Street Food
+1521,462,Cafe
+1522,462,Burger
+1523,462,Pizza
+1524,463,Cafe
+1525,463,Burger
+1526,464,Bakery
+1527,464,Continental
+1528,464,North Indian
+1529,465,Desserts
+1530,466,Seafood
+1531,466,Goan
+1532,466,North Indian
+1533,466,Konkan
+1534,467,Bakery
+1535,467,Desserts
+1536,467,Fast Food
+1537,468,Desserts
+1538,468,Ice Cream
+1539,468,Beverages
+1540,469,Asian
+1541,470,European
+1542,470,BBQ
+1543,470,Beverages
+1544,470,Burger
+1545,470,Coffee and Tea
+1546,470,Desserts
+1547,470,Seafood
+1548,471,Chinese
+1549,471,Italian
+1550,471,Mexican
+1551,471,Indian
+1552,471,Continental
+1553,471,Fast Food
+1554,472,Italian
+1555,472,Chinese
+1556,472,Continental
+1557,473,Asian
+1558,473,Italian
+1559,473,Chinese
+1560,473,North Indian
+1561,474,Finger Food
+1562,474,Continental
+1563,475,Italian
+1564,475,Continental
+1565,476,South Indian
+1566,476,North Indian
+1567,476,Chinese
+1568,476,Fast Food
+1569,476,Mexican
+1570,477,Fast Food
+1571,477,Cafe
+1572,477,Desserts
+1573,477,Italian
+1574,477,Pizza
+1575,478,Fast Food
+1576,478,Beverages
+1577,479,Pizza
+1578,480,American
+1579,480,Beverages
+1580,480,Fast Food
+1581,480,Desserts
+1582,480,Italian
+1583,480,French
+1584,481,Italian
+1585,481,Mexican
+1586,481,Mediterranean
+1587,481,Desserts
+1588,482,Desserts
+1589,482,Beverages
+1590,482,Fast Food
+1591,482,Juices
+1592,482,Asian
+1593,482,Pizza
+1594,482,Sandwich
+1595,482,Ice Cream
+1596,483,Continental
+1597,483,Italian
+1598,483,Mexican
+1599,483,Chinese
+1600,484,Maharashtrian
+1601,485,North Indian
+1602,485,Mughlai
+1603,486,Finger Food
+1604,486,Italian
+1605,486,European
+1606,487,Street Food
+1607,487,South Indian
+1608,487,Beverages
+1609,488,Cafe
+1610,488,Salad
+1611,488,Healthy Food
+1612,489,Chinese
+1613,489,North Indian
+1614,490,Cafe
+1615,491,Finger Food
+1616,492,Bakery
+1617,492,Cafe
+1618,493,North Indian
+1619,493,Chinese
+1620,493,Mughlai
+1621,494,Continental
+1622,494,Desserts
+1623,494,Italian
+1624,494,North Indian
+1625,494,BBQ
+1626,494,Asian
+1627,495,North Indian
+1628,495,Kebab
+1629,495,BBQ
+1630,495,Chinese
+1631,495,Continental
+1632,496,American
+1633,496,Mexican
+1634,496,Burger
+1635,497,Asian
+1636,497,Mexican
+1637,497,American
+1638,498,Chinese
+1639,498,North Indian
+1640,498,Italian
+1641,498,Seafood
+1642,499,European
+1643,499,Italian
+1644,499,Continental
+1645,499,Mexican
+1646,500,Cafe
+1647,500,Italian
+1648,500,Mexican
+1649,500,Continental
+1650,501,European
+1651,501,American
+1652,502,Finger Food
+1653,502,Modern Indian
+1654,503,North Indian
+1655,503,Mughlai
+1656,504,Chinese
+1657,504,Fast Food
+1658,505,American
+1659,505,Italian
+1660,505,Lebanese
+1661,506,European
+1662,506,American
+1663,506,Continental
+1664,506,Burger
+1665,506,German
+1666,506,Healthy Food
+1667,506,Steak
+1668,507,Italian
+1669,507,Mexican
+1670,508,Continental
+1671,508,European
+1672,508,Italian
+1673,508,Burger
+1674,508,Kebab
+1675,508,Grill
+1676,508,Finger Food
+1677,509,Gujarati
+1678,509,Street Food
+1679,510,Seafood
+1680,510,South Indian
+1681,510,Mangalorean
+1682,510,Andhra
+1683,510,Kerala
+1684,511,Italian
+1685,511,Continental
+1686,512,North Indian
+1687,513,Maharashtrian
+1688,514,Bakery
+1689,514,Desserts
+1690,514,Fast Food
+1691,515,Chinese
+1692,515,Mughlai
+1693,516,Chinese
+1694,516,North Indian
+1695,516,Italian
+1696,516,Seafood
+1697,517,Modern Indian
+1698,517,American
+1699,517,Continental
+1700,517,Mexican
+1701,518,European
+1702,518,French
+1703,519,North Indian
+1704,519,Mughlai
+1705,520,Continental
+1706,520,Seafood
+1707,520,Fast Food
+1708,520,North Indian
+1709,520,Chinese
+1710,521,North Indian
+1711,521,Chinese
+1712,521,South Indian
+1713,521,Gujarati
+1714,521,Fast Food
+1715,522,Continental
+1716,522,North Indian
+1717,522,Chinese
+1718,522,Mughlai
+1719,523,Burger
+1720,523,American
+1721,523,Beverages
+1722,523,Cafe
+1723,523,Desserts
+1724,523,Italian
+1725,523,North Indian
+1726,523,Finger Food
+1727,524,Gujarati
+1728,524,Rajasthani
+1729,525,American
+1730,525,Burger
+1731,526,European
+1732,527,Continental
+1733,527,Italian
+1734,527,Chinese
+1735,527,Finger Food
+1736,528,Desserts
+1737,528,Ice Cream
+1738,529,North Indian
+1739,529,Street Food
+1740,530,Beverages
+1741,530,Fast Food
+1742,530,Desserts
+1743,530,Italian
+1744,530,Pizza
+1745,530,Chinese
+1746,531,Mexican
+1747,531,Italian
+1748,531,North Indian
+1749,531,Chinese
+1750,532,Fast Food
+1751,532,Burger
+1752,533,Maharashtrian
+1753,533,Goan
+1754,533,North Indian
+1755,533,Seafood
+1756,534,Italian
+1757,534,Chinese
+1758,534,Continental
+1759,535,Fast Food
+1760,535,Italian
+1761,536,Cafe
+1762,536,Italian
+1763,536,Mexican
+1764,536,American
+1765,537,Chinese
+1766,537,Italian
+1767,537,American
+1768,537,Mexican
+1769,537,North Indian
+1770,537,Beverages
+1771,538,Cafe
+1772,538,American
+1773,538,Burger
+1774,538,Juices
+1775,538,Healthy Food
+1776,538,Salad
+1777,539,Italian
+1778,539,Mexican
+1779,539,Lebanese
+1780,539,Mediterranean
+1781,539,Spanish
+1782,539,Thai
+1783,539,Salad
+1784,540,North Indian
+1785,540,Asian
+1786,540,Continental
+1787,540,Lebanese
+1788,540,Salad
+1789,541,Gujarati
+1790,541,Street Food
+1791,542,Chinese
+1792,542,Japanese
+1793,542,Thai
+1794,542,Asian
+1795,542,Sushi
+1796,543,Continental
+1797,543,Italian
+1798,543,Cafe
+1799,544,Chinese
+1800,544,North Indian
+1801,544,Mughlai
+1802,545,Fast Food
+1803,545,Beverages
+1804,546,North Indian
+1805,546,Chinese
+1806,547,North Indian
+1807,547,Mughlai
+1808,547,Chinese
+1809,547,Seafood
+1810,548,Chinese
+1811,549,Seafood
+1812,550,North Indian
+1813,551,Cafe
+1814,551,Desserts
+1815,552,Biryani
+1816,552,North Indian
+1817,552,Mughlai
+1818,552,Grill
+1819,553,Japanese
+1820,553,Asian
+1821,553,Chinese
+1822,553,Sushi
+1823,554,European
+1824,554,Italian
+1825,554,Seafood
+1826,554,Salad
+1827,555,Desserts
+1828,555,Ice Cream
+1829,555,Beverages
+1830,556,Beverages
+1831,556,Fast Food
+1832,557,Chinese
+1833,557,Asian
+1834,558,Continental
+1835,558,Italian
+1836,558,Seafood
+1837,558,Salad
+1838,559,North Indian
+1839,560,North Indian
+1840,560,Italian
+1841,560,Parsi
+1842,560,European
+1843,561,Cafe
+1844,561,Italian
+1845,561,Salad
+1846,561,Finger Food
+1847,561,American
+1848,561,Coffee and Tea
+1849,561,Continental
+1850,562,Continental
+1851,562,Mexican
+1852,562,Italian
+1853,562,North Indian
+1854,562,Bakery
+1855,562,Lebanese
+1856,562,Middle Eastern
+1857,562,Thai
+1858,563,European
+1859,563,North Indian
+1860,563,Asian
+1861,563,Italian
+1862,564,North Indian
+1863,564,Chinese
+1864,564,Continental
+1865,565,North Indian
+1866,565,Mughlai
+1867,566,Parsi
+1868,566,North Indian
+1869,566,Fast Food
+1870,567,North Indian
+1871,567,Chinese
+1872,568,Cafe
+1873,569,Finger Food
+1874,570,Continental
+1875,570,Seafood
+1876,570,Italian
+1877,570,North Indian
+1878,571,North Indian
+1879,571,Italian
+1880,572,Chinese
+1881,572,North Indian
+1882,572,Thai
+1883,572,Mexican
+1884,572,Italian
+1885,573,Chinese
+1886,573,Thai
+1887,574,Continental
+1888,575,Seafood
+1889,575,American
+1890,575,Spanish
+1891,575,Italian
+1892,575,European
+1893,576,Continental
+1894,576,Finger Food
+1895,576,Seafood
+1896,577,North Indian
+1897,577,American
+1898,577,European
+1899,577,Asian
+1900,578,Malwani
+1901,578,Seafood
+1902,578,Maharashtrian
+1903,579,Fast Food
+1904,579,Continental
+1905,580,Italian
+1906,580,Pizza
+1907,580,Beverages
+1908,580,Desserts
+1909,580,Continental
+1910,580,European
+1911,581,Gujarati
+1912,582,Desserts
+1913,582,Ice Cream
+1914,583,Healthy Food
+1915,583,Burger
+1916,583,Beverages
+1917,583,Fast Food
+1918,583,Sandwich
+1919,583,Salad
+1920,583,Roast Chicken
+1921,584,Cafe
+1922,585,Fast Food
+1923,585,Beverages
+1924,585,American
+1925,586,Asian
+1926,586,Japanese
+1927,586,Thai
+1928,587,Mexican
+1929,587,Peruvian
+1930,587,Brazilian
+1931,587,Latin American
+1932,588,Modern Indian
+1933,589,Cafe
+1934,589,Mexican
+1935,589,Italian
+1936,589,American
+1937,590,Chinese
+1938,590,Mughlai
+1939,590,North Indian
+1940,591,Mughlai
+1941,591,North Indian
+1942,591,Chinese
+1943,591,Seafood
+1944,592,North Indian
+1945,593,Continental
+1946,593,Beverages
+1947,593,Italian
+1948,593,Pizza
+1949,593,North Indian
+1950,593,Chinese
+1951,594,Continental
+1952,594,Mexican
+1953,594,Mediterranean
+1954,594,South Indian
+1955,594,Fast Food
+1956,594,Italian
+1957,594,Chinese
+1958,594,Modern Indian
+1959,595,Gujarati
+1960,595,Street Food
+1961,596,Chinese
+1962,596,North Indian
+1963,596,Italian
+1964,596,Seafood
+1965,597,Chinese
+1966,597,North Indian
+1967,597,Italian
+1968,597,Seafood
+1969,598,North Indian
+1970,598,Mughlai
+1971,598,Biryani
+1972,598,Seafood
+1973,599,North Indian
+1974,599,Gujarati
+1975,599,Lucknowi
+1976,599,Maharashtrian
+1977,599,South Indian
+1978,599,Bengali
+1979,599,Street Food
+1980,600,Gujarati
+1981,600,Rajasthani
+1982,601,North Indian
+1983,601,Mughlai
+1984,602,Fast Food
+1985,602,Italian
+1986,603,American
+1987,603,Mexican
+1988,603,Burger
+1989,604,North Indian
+1990,605,Finger Food
+1991,605,Italian
+1992,605,Continental
+1993,606,Cafe
+1994,606,Tea
+1995,606,Fast Food
+1996,606,Desserts
+1997,607,Finger Food
+1998,607,North Indian
+1999,607,Pizza
+2000,607,Chinese
+2001,607,Fast Food
+2002,607,Italian
+2003,608,Finger Food
+2004,609,Continental
+2005,609,Seafood
+2006,609,Italian
+2007,609,North Indian
+2008,609,Chinese
+2009,610,Italian
+2010,610,Mexican
+2011,610,Chinese
+2012,610,North Indian
+2013,611,Mexican
+2014,611,Beverages
+2015,611,Cafe
+2016,611,Italian
+2017,611,Indian
+2018,612,Chinese
+2019,612,Continental
+2020,613,Asian
+2021,613,Chinese
+2022,614,Pizza
+2023,614,Italian
+2024,614,Fast Food
+2025,615,Finger Food
+2026,615,American
+2027,615,Italian
+2028,616,Continental
+2029,616,Mexican
+2030,616,Cafe
+2031,616,Desserts
+2032,616,Italian
+2033,616,Pizza
+2034,616,Salad
+2035,616,Lebanese
+2036,617,North Indian
+2037,617,Mexican
+2038,617,Chinese
+2039,618,Mughlai
+2040,618,North Indian
+2041,618,Biryani
+2042,618,Seafood
+2043,619,Bakery
+2044,619,Desserts
+2045,620,North Indian
+2046,620,South Indian
+2047,620,Street Food
+2048,620,Chinese
+2049,621,Continental
+2050,621,Seafood
+2051,621,North Indian
+2052,621,Chinese
+2053,621,Finger Food
+2054,622,Continental
+2055,622,Italian
+2056,622,North Indian
+2057,622,Asian
+2058,622,Japanese
+2059,623,Pizza
+2060,623,Fast Food
+2061,624,North Indian
+2062,624,Mughlai
+2063,624,Chinese
+2064,625,Finger Food
+2065,620,Bakery
+2066,620,Desserts
+2067,621,South Indian
+2068,621,Street Food
+2069,626,Desserts
+2070,627,Fast Food
+2071,628,Fast Food
+2072,629,Thai
+2073,629,Chinese
+2074,629,Italian
+2075,629,Malaysian
+2076,629,Continental
+2077,630,European
+2078,630,North Indian
+2079,631,North Indian
+2080,631,Mughlai
+2081,631,Chinese
+2082,631,Italian
+2083,632,Chinese
+2084,632,Oriental
+2085,632,Asian
+2086,632,Dumplings
+2087,632,Satay
+2088,632,Thai
+2089,632,Vegetarian
+2090,633,Chinese
+2091,633,Thai
+2092,634,Continental
+2093,634,North Indian
+2094,634,Chinese
+2095,635,Cafe
+2096,635,Continental
+2097,636,Italian
+2098,636,Pizza
+2099,637,Gujarati
+2100,638,Kerala
+2101,638,Maharashtrian
+2102,639,Cafe
+2103,639,Fast Food
+2104,639,Tea
+2105,640,Continental
+2106,640,Burger
+2107,640,Australian
+2108,640,Pizza
+2109,640,Chinese
+2110,640,Salad
+2111,640,Kebab
+2112,641,American
+2113,641,Mexican
+2114,641,Tex-Mex
+2115,641,European
+2116,641,Desserts
+2117,642,Burger
+2118,642,American
+2119,642,Italian
+2120,642,North Indian
+2121,642,European
+2122,642,Asian
+2123,643,Continental
+2124,643,North Indian
+2125,643,Mediterranean
+2126,644,Chinese
+2127,644,North Indian
+2128,644,Seafood
+2129,644,Italian
+2130,645,Goan
+2131,645,Seafood
+2132,646,North Indian
+2133,646,Street Food
+2134,646,South Indian
+2135,647,Fast Food
+2136,647,Chinese
+2137,647,Lebanese
+2138,648,Continental
+2139,648,Italian
+2140,648,Mexican
+2141,649,North Indian
+2142,650,Continental
+2143,650,Burger
+2144,650,Cafe
+2145,650,Desserts
+2146,650,Sandwich
+2147,650,Italian
+2148,650,Pizza
+2149,651,North Indian
+2150,651,Mughlai
+2151,652,North Indian
+2152,652,Seafood
+2153,652,Mughlai
+2154,653,Asian
+2155,653,Chinese
+2156,653,Thai
+2157,653,Vietnamese
+2158,654,Cafe
+2159,654,Italian
+2160,654,Lebanese
+2161,654,Middle Eastern
+2162,654,Mexican
+2163,654,Indian
+2164,654,Healthy Food
+2165,654,Continental
+2166,655,Finger Food
+2167,655,South Indian
+2168,655,North Indian
+2169,656,Chinese
+2170,656,Japanese
+2171,656,Indonesian
+2172,656,Thai
+2173,657,North Indian
+2174,657,Gujarati
+2175,657,Street Food
+2176,658,European
+2177,658,Italian
+2178,658,American
+2179,658,Salad
+2180,658,Desserts
+2181,659,Seafood
+2182,659,Mangalorean
+2183,660,Mughlai
+2184,660,North Indian
+2185,660,Chinese
+2186,661,North Indian
+2187,661,Mughlai
+2188,661,Awadhi
+2189,662,Thai
+2190,662,Malaysian
+2191,663,Fast Food
+2192,663,Desserts
+2193,663,Bakery
+2194,664,Fast Food
+2195,664,Beverages
+2196,665,Pizza
+2197,666,South Indian
+2198,666,Continental
+2199,666,Mexican
+2200,666,Chinese
+2201,666,Beverages
+2202,667,Cafe
+2203,667,French
+2204,667,Italian
+2205,668,North Indian
+2206,668,Mughlai
+2207,668,Indian
+2208,668,Street Food
+2209,668,Vegetarian
+2210,669,Gujarati
+2211,669,Rajasthani
+2212,669,Maharashtrian
+2213,669,North Indian
+2214,669,Street Food
+2215,669,South Indian
+2216,670,North Indian
+2217,670,Chinese
+2218,670,Kerala
+2219,671,Italian
+2220,671,Continental
+2221,671,Modern Indian
+2222,672,American
+2223,672,Continental
+2224,672,Chinese
+2225,672,Fast Food
+2226,673,North Indian
+2227,673,Rajasthani
+2228,674,Beverages
+2229,674,Desserts
+2230,675,North Indian
+2231,675,Italian
+2232,676,Mediterranean
+2233,676,Italian
+2234,676,European
+2235,677,Parsi
+2236,677,Persian
+2237,608,Chinese
+2238,608,Continental
+2239,609,Mexican
+2240,610,Finger Food
+2241,611,Continental
+2242,611,Seafood
+2243,611,North Indian
+2244,611,Chinese
+2245,612,Mexican
+2246,612,Beverages
+2247,612,Cafe
+2248,612,Italian
+2249,612,Indian
+2250,617,Continental
+2251,617,Seafood
+2252,617,Finger Food
+2253,619,North Indian
+2254,619,Mexican
+2255,619,Chinese
+2256,673,Mediterranean
+2257,673,Italian
+2258,673,European
+2259,674,North Indian
+2260,674,Rajasthani
+2261,675,Beverages
+2262,675,Desserts
+2263,676,North Indian
+2264,678,Bohri
+2265,678,Mughlai
+2266,678,North Indian
+2267,679,Chinese
+2268,679,Continental
+2269,679,Pizza
+2270,680,Pizza
+2271,680,Italian
+2272,680,Fast Food
+2273,681,Pizza
+2274,681,Italian
+2275,681,Fast Food
+2276,682,Italian
+2277,683,Bakery
+2278,683,Desserts
+2279,684,Finger Food
+2280,685,Pizza
+2281,685,Fast Food
+2282,686,Pizza
+2283,686,Fast Food
+2284,687,Pizza
+2285,687,Fast Food
+2286,688,Pizza
+2287,688,Fast Food
+2288,689,Pizza
+2289,689,Fast Food
+2290,690,North Indian
+2291,690,Kebab
+2292,690,Charcoal Chicken
+2293,690,Grill
+2294,690,Indian
+2295,690,Vegetarian
+2296,691,North Indian
+2297,691,Chinese
+2298,691,Continental
+2299,691,Thai
+2300,691,Italian
+2301,691,Pizza
+2302,692,Ice Cream
+2303,692,Desserts
+2304,692,Beverages
+2305,693,German
+2306,694,North Indian
+2307,695,Mughlai
+2308,695,North Indian
+2309,695,Biryani
+2310,695,Chinese
+2311,696,Beverages
+2312,696,Cafe
+2313,696,Desserts
+2314,696,Spanish
+2315,696,Ice Cream
+2316,697,North Indian
+2317,697,Chinese
+2318,697,Mexican
+2319,698,Burger
+2320,698,Fast Food
+2321,698,Cafe
+2322,698,Desserts
+2323,698,Italian
+2324,698,Salad
+2325,699,Mughlai
+2326,699,North Indian
+2327,700,Fast Food
+2328,701,Chinese
+2329,701,Mughlai
+2330,702,North Indian
+2331,702,Mughlai
+2332,702,Chinese
+2333,702,Continental
+2334,702,Malwani
+2335,702,South Indian
+2336,703,North Indian
+2337,703,Chinese
+2338,703,Seafood
+2339,703,Fast Food
+2340,704,North Indian
+2341,704,South Indian
+2342,704,Fast Food
+2343,704,Chinese
+2344,704,Mexican
+2345,705,North Indian
+2346,705,Mughlai
+2347,705,Grill
+2348,706,Biryani
+2349,706,North Indian
+2350,706,Mughlai
+2351,707,Italian
+2352,707,Chinese
+2353,707,Asian
+2354,707,Desserts
+2355,708,Biryani
+2356,709,Fast Food
+2357,709,Italian
+2358,710,Italian
+2359,710,Pizza
+2360,710,Salad
+2361,711,Fast Food
+2362,712,Finger Food
+2363,712,Continental
+2364,712,North Indian
+2365,712,Chinese
+2366,713,Chinese
+2367,713,North Indian
+2368,713,Mughlai
+2369,713,Seafood
+2370,713,Beverages
+2371,714,Cafe
+2372,714,European
+2373,714,Burger
+2374,714,Salad
+2375,715,American
+2376,715,Parsi
+2377,715,Asian
+2378,715,North Indian
+2379,716,Cafe
+2380,716,Continental
+2381,716,Asian
+2382,716,Street Food
+2383,717,Cafe
+2384,717,Italian
+2385,717,French
+2386,717,Salad
+2387,718,North Indian
+2388,718,Asian
+2389,719,North Indian
+2390,719,Biryani
+2391,719,Chinese
+2392,719,Mughlai
+2393,719,Desserts
+2394,720,Chinese
+2395,720,Mughlai
+2396,720,Continental
+2397,720,Seafood
+2398,721,North Indian
+2399,721,Mughlai
+2400,722,Finger Food
+2401,722,Pizza
+2402,723,Chinese
+2403,723,Fast Food
+2404,723,South Indian
+2405,724,Cafe
+2406,725,Bakery
+2407,725,Desserts
+2408,726,North Indian
+2409,726,Biryani
+2410,726,Mughlai
+2411,726,Chinese
+2412,727,Mexican
+2413,727,Burmese
+2414,727,Italian
+2415,727,Chinese
+2416,727,Indonesian
+2417,727,Thai
+2418,728,American
+2419,728,Italian
+2420,728,Fast Food
+2421,729,Burger
+2422,729,Fast Food
+2423,730,Desserts
+2424,731,Desserts
+2425,731,Ice Cream
+2426,732,Italian
+2427,732,Lebanese
+2428,732,Mexican
+2429,733,Desserts
+2430,734,Seafood
+2431,734,Fast Food
+2432,734,Italian
+2433,734,Pizza
+2434,734,Chinese
+2435,734,Modern Indian
+2436,735,Italian
+2437,735,Continental
+2438,736,North Indian
+2439,736,Italian
+2440,736,Mediterranean
+2441,736,European
+2442,737,Bakery
+2443,737,Desserts
+2444,738,Cafe
+2445,738,Healthy Food
+2446,738,Beverages
+2447,738,Bakery
+2448,738,Coffee and Tea
+2449,738,Salad
+2450,739,Ice Cream
+2451,740,Cafe
+2452,740,Italian
+2453,740,Mediterranean
+2454,740,Salad
+2455,741,Cafe
+2456,741,Desserts
+2457,741,Beverages
+2458,742,Cafe
+2459,742,Fast Food
+2460,742,Italian
+2461,742,Lebanese
+2462,743,North Indian
+2463,743,Chinese
+2464,743,South Indian
+2465,743,Fast Food
+2466,744,Biryani
+2467,744,North Indian
+2468,745,Italian
+2469,745,Mexican
+2470,745,Desserts
+2471,745,Beverages
+2472,745,Cafe
+2473,746,North Indian
+2474,746,South Indian
+2475,746,Chinese
+2476,747,North Indian
+2477,747,Chinese
+2478,747,Continental
+2479,748,Korean
+2480,748,Chinese
+2481,748,Vietnamese
+2482,748,Asian
+2483,748,Thai
+2484,749,North Indian
+2485,750,French
+2486,750,European
+2487,750,Asian
+2488,750,North Indian
+2489,750,Healthy Food
+2490,751,Cafe
+2491,752,North Indian
+2492,752,Continental
+2493,752,Chinese
+2494,753,North Indian
+2495,754,Continental
+2496,754,Burger
+2497,754,Italian
+2498,754,Pizza
+2499,754,North Indian
+2500,754,Chinese
+2501,754,Rolls
+2502,755,North Indian
+2503,755,Chinese
+2504,755,South Indian
+2505,756,North Indian
+2506,757,North Indian
+2507,757,Chinese
+2508,757,Seafood
+2509,757,Mughlai
+2510,758,Cafe
+2511,758,Continental
+2512,759,Lucknowi
+2513,759,Mughlai
+2514,760,American
+2515,760,Burger
+2516,760,Fast Food
+2517,761,Thai
+2518,761,Continental
+2519,761,North Indian
+2520,762,Lebanese
+2521,762,Biryani
+2522,763,Continental
+2523,764,Chinese
+2524,764,Thai
+2525,764,Asian
+2526,765,Cafe
+2527,765,Italian
+2528,765,Mexican
+2529,766,Continental
+2530,766,Chinese
+2531,766,North Indian
+2532,767,American
+2533,767,Fast Food
+2534,767,Italian
+2535,767,Burger
+2536,767,Salad
+2537,767,Healthy Food
+2538,768,Malwani
+2539,768,Seafood
+2540,768,Biryani
+2541,768,Maharashtrian
+2542,769,Bakery
+2543,769,Desserts
+2544,770,Chinese
+2545,771,Street Food
+2546,771,South Indian
+2547,771,Fast Food
+2548,772,North Indian
+2549,772,Asian
+2550,772,Continental
+2551,773,Continental
+2552,773,Street Food
+2553,774,Chinese
+2554,774,Continental
+2555,774,Fast Food
+2556,774,North Indian
+2557,774,Mexican
+2558,774,South Indian
+2559,775,Burger
+2560,775,Fast Food
+2561,775,Salad
+2562,776,Chinese
+2563,776,North Indian
+2564,776,Biryani
+2565,777,North Indian
+2566,777,Chinese
+2567,777,Continental
+2568,777,Mexican
+2569,778,Chinese
+2570,778,Seafood
+2571,779,North Indian
+2572,779,Burger
+2573,779,Salad
+2574,779,Italian
+2575,779,Oriental
+2576,779,Continental
+2577,779,Pan Asian
+2578,779,Seafood
+2579,780,Beverages
+2580,781,North Indian
+2581,781,Chinese
+2582,781,Continental
+2583,782,North Indian
+2584,782,Biryani
+2585,782,Afghani
+2586,782,Indian
+2587,782,Kebab
+2588,783,Mexican
+2589,783,Italian
+2590,783,Lebanese
+2591,783,Rajasthani
+2592,783,Gujarati
+2593,784,Sandwich
+2594,784,Italian
+2595,784,Mexican
+2596,785,Continental
+2597,785,North Indian
+2598,786,Desserts
+2599,787,Middle Eastern
+2600,787,Lebanese
+2601,787,Greek
+2602,787,Mediterranean
+2603,787,Fast Food
+2604,788,Chinese
+2605,788,North Indian
+2606,789,North Indian
+2607,789,Continental
+2608,790,Chinese
+2609,790,Thai
+2610,790,North Indian
+2611,790,Modern Indian
+2612,791,North Indian
+2613,792,Afghani
+2614,792,Biryani
+2615,792,Chinese
+2616,792,Rolls
+2617,792,Indian
+2618,792,Kebab
+2619,793,South Indian
+2620,793,Fast Food
+2621,794,Cafe
+2622,794,Tea
+2623,795,Chinese
+2624,796,North Indian
+2625,796,Chinese
+2626,797,Modern Indian
+2627,797,Seafood
+2628,798,North Indian
+2629,798,Cafe
+2630,798,Continental
+2631,798,Desserts
+2632,798,Biryani
+2633,798,Chinese
+2634,799,European
+2635,799,Continental
+2636,799,Salad
+2637,800,Mediterranean
+2638,800,Lebanese
+2639,801,Healthy Food
+2640,801,Continental
+2641,801,Cafe
+2642,801,Desserts
+2643,801,Chinese
+2644,802,Continental
+2645,802,Cafe
+2646,802,American
+2647,802,Mexican
+2648,802,Italian
+2649,802,Salad
+2650,802,Healthy Food
+2651,802,Juices
+2652,803,North Indian
+2653,803,Seafood
+2654,803,Chinese
+2655,803,Kebab
+2656,804,North Indian
+2657,805,Fast Food
+2658,806,Desserts
+2659,807,Asian
+2660,807,Chinese
+2661,807,Thai
+2662,808,Pizza
+2663,809,Asian
+2664,810,Pizza
+2665,811,Healthy Food
+2666,811,Salad
+2667,811,Fast Food
+2668,812,South Indian
+2669,812,Fast Food
+2670,812,Street Food
+2671,813,North Indian
+2672,813,Chinese
+2673,813,Continental
+2674,813,Italian
+2675,814,North Indian
+2676,814,Italian
+2677,814,Finger Food
+2678,815,Continental
+2679,815,Asian
+2680,815,Italian
+2681,816,Fast Food
+2682,817,North Indian
+2683,817,Chinese
+2684,817,Oriental
+2685,817,Desserts
+2686,818,Italian
+2687,818,Continental
+2688,819,Fast Food
+2689,819,Chinese
+2690,819,North Indian
+2691,819,South Indian
+2692,819,Street Food
+2693,819,Desserts
+2694,820,Finger Food
+2695,820,Chinese
+2696,820,Thai
+2697,820,North Indian
+2698,821,American
+2699,821,Desserts
+2700,821,Sandwich
+2701,822,Chinese
+2702,822,North Indian
+2703,822,Seafood
+2704,822,Italian
+2705,823,Fast Food
+2706,823,Juices
+2707,823,Street Food
+2708,824,Bakery
+2709,824,Desserts
+2710,825,South Indian
+2711,825,Chinese
+2712,825,North Indian
+2713,825,Fast Food
+2714,826,Bakery
+2715,826,Desserts
+2716,827,Chinese
+2717,827,Thai
+2718,827,Seafood
+2719,828,Chinese
+2720,828,Thai
+2721,828,Indonesian
+2722,828,Pan Asian
+2723,829,Seafood
+2724,829,Maharashtrian
+2725,829,Goan
+2726,829,North Indian
+2727,829,Mangalorean
+2728,829,Chinese
+2729,829,Malwani
+2730,830,South Indian
+2731,830,Fast Food
+2732,830,North Indian
+2733,830,Chinese
+2734,830,Beverages
+2735,831,Street Food
+2736,831,Juices
+2737,831,Beverages
+2738,831,South Indian
+2739,831,Fast Food
+2740,831,Pizza
+2741,831,North Indian
+2742,831,Chinese
+2743,832,Bakery
+2744,832,Desserts
+2745,833,Italian
+2746,833,Mexican
+2747,834,Continental
+2748,834,Mexican
+2749,834,Italian
+2750,834,North Indian
+2751,834,Chinese
+2752,834,European
+2753,835,Biryani
+2754,835,Mughlai
+2755,836,Bakery
+2756,836,Fast Food
+2757,764,American
+2758,764,Fast Food
+2759,764,Italian
+2760,764,Burger
+2761,764,Salad
+2762,764,Healthy Food
+2763,765,Chinese
+2764,765,Thai
+2765,765,Asian
+2766,764,Lucknowi
+2767,764,Mughlai
+2768,765,Lebanese
+2769,765,Biryani
+2770,766,American
+2771,766,Fast Food
+2772,766,Italian
+2773,766,Burger
+2774,766,Salad
+2775,766,Healthy Food
+2776,767,Chinese
+2777,767,Thai
+2778,767,Asian
+2779,768,Bakery
+2780,768,Desserts
+2781,769,Chinese
+2782,770,Street Food
+2783,770,South Indian
+2784,770,Fast Food
+2785,771,North Indian
+2786,771,Asian
+2787,771,Continental
+2788,772,Chinese
+2789,772,Fast Food
+2790,772,Mexican
+2791,772,South Indian
+2792,773,Burger
+2793,773,Fast Food
+2794,773,Salad
+2795,775,North Indian
+2796,775,Italian
+2797,775,Oriental
+2798,775,Continental
+2799,775,Pan Asian
+2800,775,Seafood
+2801,776,Beverages
+2802,778,Sandwich
+2803,778,Italian
+2804,778,Mexican
+2805,779,Desserts
+2806,780,Chinese
+2807,780,North Indian
+2808,780,Biryani
+2809,781,Street Food
+2810,782,Continental
+2811,783,Chinese
+2812,783,Seafood
+2813,784,Lebanese
+2814,784,Rajasthani
+2815,784,Gujarati
+2816,785,Biryani
+2817,785,Afghani
+2818,785,Indian
+2819,785,Kebab
+2820,786,North Indian
+2821,786,Continental
+2822,787,Chinese
+2823,787,Thai
+2824,787,North Indian
+2825,787,Modern Indian
+2826,789,Afghani
+2827,789,Biryani
+2828,789,Chinese
+2829,789,Rolls
+2830,789,Indian
+2831,789,Kebab
+2832,790,South Indian
+2833,790,Fast Food
+2834,791,Cafe
+2835,791,Tea
+2836,792,North Indian
+2837,793,Modern Indian
+2838,793,Seafood
+2839,794,North Indian
+2840,794,Continental
+2841,794,Desserts
+2842,794,Biryani
+2843,794,Chinese
+2844,795,European
+2845,795,Continental
+2846,795,Salad
+2847,796,Mediterranean
+2848,796,Lebanese
+2849,797,Continental
+2850,797,Cafe
+2851,797,American
+2852,797,Mexican
+2853,797,Italian
+2854,797,Salad
+2855,797,Healthy Food
+2856,797,Juices
+2857,798,Seafood
+2858,798,Kebab
+2859,799,North Indian
+2860,800,Fast Food
+2861,802,Asian
+2862,803,Pizza
+2863,804,South Indian
+2864,804,Fast Food
+2865,804,Street Food
+2866,805,North Indian
+2867,805,Chinese
+2868,805,Continental
+2869,805,Italian
+2870,806,Fast Food
+2871,807,Italian
+2872,807,Continental
+2873,808,Continental
+2874,808,Asian
+2875,808,Italian
+2876,809,North Indian
+2877,809,Italian
+2878,809,Finger Food
+2879,810,Chinese
+2880,811,Chinese
+2881,811,North Indian
+2882,812,Healthy Food
+2883,812,Salad
+2884,813,Asian
+2885,813,Thai
+2886,814,Pizza
+2887,815,Healthy Food
+2888,815,Cafe
+2889,815,Desserts
+2890,815,Chinese
+2891,816,Middle Eastern
+2892,816,Lebanese
+2893,816,Greek
+2894,816,Mediterranean
+2895,818,Fast Food
+2896,818,Chinese
+2897,818,North Indian
+2898,818,South Indian
+2899,818,Street Food
+2900,818,Desserts
+2901,819,Finger Food
+2902,819,Thai
+2903,820,American
+2904,820,Desserts
+2905,820,Sandwich
+2906,821,Chinese
+2907,821,North Indian
+2908,821,Seafood
+2909,821,Italian
+2910,822,Fast Food
+2911,822,Juices
+2912,822,Street Food
+2913,823,Bakery
+2914,823,Desserts
+2915,824,South Indian
+2916,824,Chinese
+2917,824,North Indian
+2918,824,Fast Food
+2919,825,Bakery
+2920,825,Desserts
+2921,826,Chinese
+2922,826,Thai
+2923,826,Seafood
+2924,827,South Indian
+2925,827,Fast Food
+2926,827,North Indian
+2927,827,Beverages
+2928,828,Street Food
+2929,828,Juices
+2930,828,Beverages
+2931,828,South Indian
+2932,828,Fast Food
+2933,828,Pizza
+2934,828,North Indian
+2935,829,Bakery
+2936,829,Desserts
+2937,831,Italian
+2938,831,Mexican
+2939,831,Continental
+2940,832,Fast Food
+2941,832,Chinese
+2942,832,Pizza
+2943,832,Burger
+2944,832,Italian
+2945,832,Beverages
+2946,832,Sandwich
+2947,832,Fusion
+2948,833,American
+2949,833,Burger
+2950,834,Cafe
+2951,834,Coffee and Tea
+2952,834,Desserts
+2953,834,Thai
+2954,834,Sandwich
+2955,835,Cafe
+2956,835,Burger
+2957,835,Mexican
+2958,835,Desserts
+2959,835,Italian
+2960,835,Pizza
+2961,835,Finger Food
+2962,835,Grill
+2963,836,American
+2964,836,Continental
+2965,836,Chinese
+2966,837,North Indian
+2967,837,Chinese
+2968,837,Malwani
+2969,837,Konkan
+2970,838,Chinese
+2971,838,Thai
+2972,838,Indonesian
+2973,838,Pan Asian
+2974,839,Lebanese
+2975,839,Biryani
+2976,840,North Indian
+2977,841,Mediterranean
+2978,841,Lebanese
+2979,842,Cafe
+2980,842,Italian
+2981,843,Japanese
+2982,843,Sushi
+2983,844,Cafe
+2984,844,Desserts
+2985,845,Desserts
+2986,845,Bakery
+2987,846,Chinese
+2988,846,Seafood
+2989,846,Beverages
+2990,847,Spanish
+2991,848,Cafe
+2992,848,Continental
+2993,848,Fast Food
+2994,848,North Indian
+2995,849,Street Food
+2996,850,Italian
+2997,850,Mexican
+2998,851,Bakery
+2999,851,Fast Food
+3000,852,Seafood
+3001,852,Maharashtrian
+3002,852,Goan
+3003,852,North Indian
+3004,852,Mangalorean
+3005,852,Chinese
+3006,852,Malwani
+3007,853,Biryani
+3008,853,Mughlai
+3009,854,Continental
+3010,854,Mexican
+3011,854,Italian
+3012,854,North Indian
+3013,854,Chinese
+3014,854,European
+3015,855,North Indian
+3016,855,Seafood
+3017,856,Fast Food
+3018,856,Pizza
+3019,856,Chinese
+3020,856,Rolls
+3021,857,Italian
+3022,857,Pizza
+3023,858,Continental
+3024,858,Italian
+3025,858,Mexican
+3026,859,Finger Food
+3027,859,Modern Indian
+3028,860,Italian
+3029,860,Continental
+3030,860,Salad
+3031,861,Lebanese
+3032,862,North Indian
+3033,862,Thai
+3034,862,Continental
+3035,863,North Indian
+3036,863,Chinese
+3037,864,North Indian
+3038,864,Chinese
+3039,865,Burger
+3040,865,Cafe
+3041,865,Sandwich
+3042,865,Italian
+3043,866,Japanese
+3044,866,Asian
+3045,867,North Indian
+3046,867,Chinese
+3047,867,Street Food
+3048,868,Cafe
+3049,868,Desserts
+3050,869,Cafe
+3051,869,Italian
+3052,870,Biryani
+3053,870,North Indian
+3054,870,Mughlai
+3055,870,Chinese
+3056,871,Chinese
+3057,871,Thai
+3058,872,Mughlai
+3059,872,North Indian
+3060,872,Chinese
+3061,872,Biryani
+3062,873,Continental
+3063,873,Italian
+3064,874,Chinese
+3065,874,Italian
+3066,874,European
+3067,875,Chinese
+3068,875,North Indian
+3069,875,Mughlai
+3070,876,Biryani
+3071,877,North Indian
+3072,877,Chinese
+3073,877,Mughlai
+3074,877,Italian
+3075,878,North Indian
+3076,878,Rolls
+3077,878,Biryani
+3078,879,North Indian
+3079,879,Mughlai
+3080,879,Seafood
+3081,879,Chinese
+3082,880,North Indian
+3083,880,Continental
+3084,880,Chinese
+3085,880,Fast Food
+3086,881,Fast Food
+3087,881,Pizza
+3088,849,Bakery
+3089,849,Fast Food
+3090,850,Seafood
+3091,850,Maharashtrian
+3092,850,Goan
+3093,850,North Indian
+3094,850,Mangalorean
+3095,850,Chinese
+3096,850,Malwani
+3097,851,Biryani
+3098,851,Mughlai
+3099,852,Continental
+3100,852,Mexican
+3101,852,Italian
+3102,852,European
+3103,853,American
+3104,853,Italian
+3105,853,Burger
+3106,853,Mexican
+3107,854,South Indian
+3108,854,Fast Food
+3109,854,Beverages
+3110,853,Desserts
+3111,853,Sandwich
+3112,854,American
+3113,854,Burger
+3114,855,South Indian
+3115,855,Fast Food
+3116,855,Chinese
+3117,855,Beverages
+3118,856,North Indian
+3119,856,Seafood
+3120,857,Fast Food
+3121,857,Chinese
+3122,857,Rolls
+3123,858,Pizza
+3124,859,Continental
+3125,859,Italian
+3126,859,Mexican
+3127,860,Finger Food
+3128,860,Modern Indian
+3129,861,Italian
+3130,861,Continental
+3131,861,Salad
+3132,862,Lebanese
+3133,863,Thai
+3134,863,Continental
+3135,865,North Indian
+3136,865,Chinese
+3137,866,Burger
+3138,866,Cafe
+3139,866,Sandwich
+3140,866,Italian
+3141,867,Japanese
+3142,867,Asian
+3143,868,North Indian
+3144,868,Chinese
+3145,868,Street Food
+3146,869,Desserts
+3147,870,Cafe
+3148,870,Italian
+3149,871,Biryani
+3150,871,North Indian
+3151,871,Mughlai
+3152,874,Thai
+3153,875,Italian
+3154,875,European
+3155,876,Chinese
+3156,876,North Indian
+3157,876,Mughlai
+3158,877,Biryani
+3159,855,American
+3160,855,Desserts
+3161,855,Sandwich
+3162,878,Chinese
+3163,878,Mughlai
+3164,878,Italian
+3165,879,Rolls
+3166,879,Biryani
+3167,880,Mughlai
+3168,880,Seafood
+3169,881,North Indian
+3170,881,Continental
+3171,881,Chinese
+3172,882,Fast Food
+3173,882,Pizza
+3174,884,North Indian
+3175,884,Chinese
+3176,884,South Indian
+3177,884,Fast Food
+3178,885,Bakery
+3179,885,Fast Food
+3180,885,Parsi
+3181,885,Desserts
+3182,886,Street Food
+3183,887,Cafe
+3184,887,Italian
+3185,887,Mexican
+3186,888,North Indian
+3187,888,Chinese
+3188,888,Thai
+3189,889,Chinese
+3190,889,Indonesian
+3191,889,Thai
+3192,890,North Indian
+3193,890,Chinese
+3194,890,Asian
+3195,890,Thai
+3196,890,Mexican
+3197,890,Continental
+3198,890,Italian
+3199,891,North Indian
+3200,891,Street Food
+3201,891,Modern Indian
+3202,892,North Indian
+3203,892,Continental
+3204,892,Chinese
+3205,892,Thai
+3206,893,North Indian
+3207,893,Mughlai
+3208,894,Chinese
+3209,894,Burmese
+3210,894,Thai
+3211,895,Italian
+3212,895,Continental
+3213,896,Chinese
+3214,896,Finger Food
+3215,896,Pizza
+3216,897,North Indian
+3217,897,Continental
+3218,897,Mediterranean
+3219,898,Bengali
+3220,898,Continental
+3221,898,Seafood
+3222,898,Mexican
+3223,898,Mediterranean
+3224,898,Italian
+3225,898,Indian
+3226,898,Thai
+3227,899,Chinese
+3228,899,Continental
+3229,899,Healthy Food
+3230,899,Indian
+3231,900,Pizza
+3232,900,Italian
+3233,901,North Indian
+3234,901,South Indian
+3235,901,Mexican
+3236,901,Italian
+3237,901,Chinese
+3238,902,Finger Food
+3239,902,European
+3240,902,American
+3241,903,Bakery
+3242,903,Fast Food
+3243,903,Mexican
+3244,903,Continental
+3245,903,Italian
+3246,904,North Indian
+3247,904,Mughlai
+3248,904,Chinese
+3249,904,Continental
+3250,905,North Indian
+3251,906,Biryani
+3252,906,North Indian
+3253,906,Mughlai
+3254,906,Grill
+3255,907,North Indian
+3256,907,Italian
+3257,908,North Indian
+3258,908,Continental
+3259,908,Chinese
+3260,908,Pizza
+3261,908,Mexican
+3262,909,Fast Food
+3263,909,Italian
+3264,910,North Indian
+3265,910,Asian
+3266,910,Continental
+3267,911,Continental
+3268,911,Cafe
+3269,911,Italian
+3270,911,Salad
+3271,911,Parsi
+3272,912,Seafood
+3273,912,North Indian
+3274,912,Goan
+3275,912,Italian
+3276,913,Pizza
+3277,913,Fast Food
+3278,914,North Indian
+3279,914,Chinese
+3280,915,South Indian
+3281,915,North Indian
+3282,915,Chinese
+3283,915,Street Food
+3284,915,Beverages
+3285,916,North Indian
+3286,916,Chinese
+3287,916,Asian
+3288,916,Thai
+3289,917,Chinese
+3290,918,Seafood
+3291,918,Malwani
+3292,918,Chinese
+3293,918,North Indian
+3294,919,North Indian
+3295,919,Chinese
+3296,919,Seafood
+3297,920,North Indian
+3298,920,Chinese
+3299,921,Gujarati
+3300,921,Rajasthani
+3301,922,Continental
+3302,922,Chinese
+3303,922,North Indian
+3304,923,European
+3305,923,Continental
+3306,923,Italian
+3307,924,North Indian
+3308,924,Chinese
+3309,924,Fast Food
+3310,924,Beverages
+3311,924,Desserts
+3312,925,Italian
+3313,925,Chinese
+3314,926,Seafood
+3315,926,Biryani
+3316,926,North Indian
+3317,926,Chinese
+3318,926,Mughlai
+3319,926,Rolls
+3320,926,Kebab
+3321,928,Chinese
+3322,928,Continental
+3323,928,Finger Food
+3324,928,Pizza
+3325,928,Fast Food
+3326,929,Bakery
+3327,929,Desserts
+3328,931,Chinese
+3329,931,Asian
+3330,932,Goan
+3331,932,Seafood
+3332,933,American
+3333,933,Healthy Food
+3334,933,Asian
+3335,933,Desserts
+3336,934,Italian
+3337,934,Mexican
+3338,934,Cafe
+3339,935,Italian
+3340,936,Continental
+3341,936,Burger
+3342,936,Cafe
+3343,936,Desserts
+3344,936,Italian
+3345,936,Pizza
+3346,936,Thai
+3347,937,South Indian
+3348,937,Chinese
+3349,937,North Indian
+3350,937,Fast Food
+3351,937,Street Food
+3352,938,Continental
+3353,938,Mexican
+3354,938,Italian
+3355,939,Cafe
+3356,939,Mexican
+3357,939,Italian
+3358,940,Street Food
+3359,942,Cafe
+3360,943,Ice Cream
+3361,943,Desserts
+3362,944,Mughlai
+3363,945,Chinese
+3364,945,North Indian
+3365,945,Biryani
+3366,945,Thai
+3367,946,Mughlai
+3368,946,Fast Food
+3369,946,North Indian
+3370,947,Desserts
+3371,947,Sandwich
+3372,948,North Indian
+3373,948,Italian
+3374,948,Continental
+3375,949,Biryani
+3376,949,North Indian
+3377,949,Mughlai
+3378,949,Charcoal Chicken
+3379,950,South Indian
+3380,950,North Indian
+3381,950,Chinese
+3382,950,Continental
+3383,950,Fusion
+3384,950,Indian
+3385,950,Italian
+3386,950,Pizza
+3387,951,North Indian
+3388,951,Mughlai
+3389,951,Chinese
+3390,951,Continental
+3391,952,North Indian
+3392,952,Chinese
+3393,952,South Indian
+3394,952,Fast Food
+3395,952,Beverages
+3396,953,Asian
+3397,953,Chinese
+3398,954,North Indian
+3399,954,Chinese
+3400,954,Italian
+3401,954,Continental
+3402,955,North Indian
+3403,955,Chinese
+3404,955,Beverages
+3405,956,Italian
+3406,956,Chinese
+3407,957,Chinese
+3408,957,North Indian
+3409,957,Fast Food
+3410,958,Continental
+3411,958,Biryani
+3412,958,Beverages
+3413,958,Fast Food
+3414,958,North Indian
+3415,958,Chinese
+3416,958,Indian
+3417,958,Gujarati
+3418,959,Desserts
+3419,959,Ice Cream
+3420,960,Cafe
+3421,960,Coffee and Tea
+3422,960,Pizza
+3423,960,Sandwich
+3424,961,Fast Food
+3425,961,Cafe
+3426,962,Chinese
+3427,962,Thai
+3428,962,Indonesian
+3429,963,Mexican
+3430,963,Fast Food
+3431,963,Desserts
+3432,963,Italian
+3433,963,North Indian
+3434,963,Chinese
+3435,963,Mughlai
+3436,964,Chinese
+3437,964,Burmese
+3438,964,Thai
+3439,965,Chinese
+3440,965,Burmese
+3441,965,Thai
+3442,966,Chinese
+3443,966,Burmese
+3444,966,Thai
+3445,967,Chinese
+3446,967,Burmese
+3447,967,Thai
+3448,968,Chinese
+3449,968,Burmese
+3450,968,Thai
+3451,968,Asian
+3452,969,Pizza
+3453,969,Italian
+3454,971,European
+3455,971,Italian
+3456,971,Continental
+3457,971,Mexican
+3458,972,North Indian
+3459,972,Chinese
+3460,972,South Indian
+3461,972,Fast Food
+3462,973,Chinese
+3463,973,Italian
+3464,973,North Indian
+3465,973,Continental
+3466,974,Continental
+3467,974,Italian
+3468,974,North Indian
+3469,975,Cafe
+3470,975,Sandwich
+3471,975,Desserts
+3472,976,Continental
+3473,977,South Indian
+3474,977,North Indian
+3475,977,Chinese
+3476,977,Fast Food
+3477,977,Desserts
+3478,977,Beverages
+3479,977,Mithai
+3480,978,Cafe
+3481,979,North Indian
+3482,979,Chinese
+3483,979,Beverages
+3484,980,Cafe
+3485,980,Burger
+3486,980,American
+3487,980,Continental
+3488,980,Italian
+3489,981,North Indian
+3490,981,Chinese
+3491,981,Seafood
+3492,981,Biryani
+3493,981,Desserts
+3494,982,North Indian
+3495,982,Chinese
+3496,982,Continental
+3497,982,Mughlai
+3498,983,Cafe
+3499,984,Biryani
+3500,984,South Indian
+3501,984,Kerala
+3502,985,North Indian
+3503,985,Mughlai
+3504,986,Fast Food
+3505,987,Continental
+3506,987,Italian
+3507,988,Continental
+3508,988,North Indian
+3509,988,Thai
+3510,988,Chinese
+3511,989,North Indian
+3512,989,Chinese
+3513,989,Konkan
+3514,989,Seafood
+3515,990,North Indian
+3516,990,Mughlai
+3517,990,Chinese
+3518,991,North Indian
+3519,991,Chinese
+3520,991,Continental
+3521,991,Italian
+3522,992,Continental
+3523,992,American
+3524,993,Chinese
+3525,993,Salad
+3526,993,Mughlai
+3527,993,Rolls
+3528,993,Lebanese
+3529,994,Chinese
+3530,994,Thai
+3531,995,North Indian
+3532,995,Chinese
+3533,995,Continental
+3534,996,North Indian
+3535,996,Continental
+3536,996,Mexican
+3537,996,Chinese
+3538,997,Fast Food
+3539,997,Chinese
+3540,998,North Indian
+3541,998,Chinese
+3542,998,Thai
+3543,999,North Indian
+3544,999,Mughlai
+3545,1001,Italian
+3546,1001,Continental
+3547,1001,North Indian
+3548,1001,Chinese
+3549,1002,Italian
+3550,1003,Afghani
+3551,1003,North Indian
+3552,1003,Biryani
+3553,1003,Chinese
+3554,1004,Salad
+3555,1004,Healthy Food
+3556,1004,Juices
+3557,1005,Healthy Food
+3558,1005,Juices
+3559,1006,Fast Food
+3560,1006,Italian
+3561,1006,Burger
+3562,1006,Rolls
+3563,1007,Fast Food
+3564,1008,North Indian
+3565,1008,Chinese
+3566,1008,Thai
+3567,1011,Bakery
+3568,1011,Desserts
+3569,1012,Continental
+3570,1012,Burger
+3571,1012,American
+3572,1012,Beverages
+3573,1013,Mediterranean
+3574,1013,Greek
+3575,1013,Lebanese
+3576,1013,Italian
+3577,1013,Salad
+3578,1014,Ice Cream
+3579,1015,Desserts
+3580,1015,Ice Cream
+3581,1016,Seafood
+3582,1016,Biryani
+3583,1016,Goan
+3584,1016,Chinese
+3585,1017,North Indian
+3586,1017,Mexican
+3587,1017,Italian
+3588,1017,Chinese
+3589,1018,North Indian
+3590,1018,Gujarati
+3591,1018,Italian
+3592,1018,Parsi
+3593,1018,Lebanese
+3594,1019,Italian
+3595,1020,North Indian
+3596,1020,Chinese
+3597,1020,Thai
+3598,1021,North Indian
+3599,1021,Mughlai
+3600,1021,Biryani
+3601,1022,Fast Food
+3602,1022,Continental
+3603,1022,Burger
+3604,1022,Desserts
+3605,1023,Fast Food
+3606,1024,North Indian
+3607,1024,Chinese
+3608,1024,Mughlai
+3609,1024,Kebab
+3610,1025,Italian
+3611,1025,French
+3612,1025,Mediterranean
+3613,1025,Mexican
+3614,1026,North Indian
+3615,1026,Asian
+3616,1026,Italian
+3617,1026,Continental
+3618,1027,North Indian
+3619,1027,Italian
+3620,1027,Mughlai
+3621,1027,Continental
+3622,1028,Cafe
+3623,1028,Healthy Food
+3624,1030,Italian
+3625,1030,Seafood
+3626,1030,Continental
+3627,1030,Salad
+3628,1031,Chinese
+3629,1033,Chinese
+3630,1033,North Indian
+3631,1033,Continental
+3632,1034,European
+3633,1034,American
+3634,1034,North Indian

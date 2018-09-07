@@ -1,0 +1,43 @@
+
+
+<!-- templates/home.html -->
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+{% if user.is_authenticated %}
+{% load bootstrap3 %}
+ <p><a href="{% url 'logout' %}">logout</a></p>
+
+<h1> shraddha</h1>
+</br>
+</br>z
+    {% for restaurant in restaurant_list %}
+        <h4>&nbsp;&nbsp;&nbsp; <a href="{% url 'restaurant_detail' restaurant.id %}">{{ restaurant.id }}</a>
+        {{ restaurant.rname}}
+        &nbsp;&nbsp;&nbsp; {{ restaurant.latitude }} &nbsp;&nbsp;&nbsp; {{ restaurant.longitude }} &nbsp;&nbsp;&nbsp; {{  restaurant.address }} &nbsp;&nbsp;&nbsp; {{ restaurant.price }} &nbsp;&nbsp;&nbsp; {{ restaurant.rating }}
+        </h4>
+    </br> </br>
+    </div>
+    {% endfor %}
+</div>
+
+
+
+{% else %}
+  <H6><p>HOME</p></H6>
+  <p>You are not logged in</p>
+  <p>This is before-Base.html</p>
+  <button type="submit"><a href="{% url 'login' %}">Login</a></button>
+  <button type="submit"><a href="{% url 'signup' %}">Signup</a></button>
+  <!-- <button type="submit"><a href="{% url 'signup' %}"Sign up</button> -->
+{% endif %}
+{% endblock %}
+
+
+
+
+
+
+

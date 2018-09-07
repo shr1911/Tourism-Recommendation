@@ -1,0 +1,35 @@
+
+<!-- templates/home.html -->
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+{% if user.is_authenticated %}
+{% load bootstrap3 %}
+ <p><a href="{% url 'logout' %}">logout</a></p>
+
+<form action="{% url 'recommendation_list' algo_type %}" method="post">
+    {% csrf_token %}
+    {{ form.cuisine.label_tag }}
+    {{ form.cuisine }}
+    {{ form.cuisine.errors }}
+    <button type="submit" class="btn btn-primary">
+      {% bootstrap_icon "star" %} find
+    </button>
+</form>
+
+
+
+
+{% else %}
+  <H6><p>HOME</p></H6>
+  <p>You are not logged in</p>
+  <p>This is before-Base.html</p>
+  <button type="submit"><a href="{% url 'login' %}">Login</a></button>
+  <button type="submit"><a href="{% url 'signup' %}">Signup</a></button>
+  <!-- <button type="submit"><a href="{% url 'signup' %}"Sign up</button> -->
+{% endif %}
+{% endblock %}
+
+

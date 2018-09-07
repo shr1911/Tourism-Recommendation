@@ -1,0 +1,3705 @@
+id,rid, reviews 
+0,0,Excellent 
+1,0,Very Good 
+2,0,Poor 
+3,1,Legendary 
+4,1,Excellent 
+5,2,Very Good 
+6,2,Average 
+7,2,Excellent 
+8,2,Good 
+9,3,Legendary 
+10,3,Very Good 
+11,3,Excellent 
+12,4,Very Good 
+13,4,Excellent 
+14,4,Legendary 
+15,4,Average 
+16,5,Legendary 
+17,5,Excellent 
+18,5,Very Good 
+19,5,Good 
+20,6,Very Good 
+21,6,Excellent 
+22,6,Legendary 
+23,7,Legendary 
+24,7,Good 
+25,7,Very Good 
+26,7,Poor 
+27,8,Legendary 
+28,8,Good 
+29,8,Average 
+30,8,Very Good 
+31,8,Excellent 
+32,9,Legendary 
+33,9,Excellent 
+34,9,Average 
+35,9,Very Good 
+36,10,Good 
+37,10,Average 
+38,10,Excellent 
+39,10,Very Good 
+40,10,Legendary 
+41,10,Poor 
+42,11,Legendary 
+43,11,Excellent 
+44,11,Poor 
+45,12,Excellent 
+46,12,Legendary 
+47,12,Very Good 
+48,13,Excellent 
+49,13,Very Good 
+50,13,Good 
+51,14,Excellent 
+52,14,Legendary 
+53,14,Very Good 
+54,14,Good 
+55,15,Legendary 
+56,15,Very Good 
+57,15,Average 
+58,15,Excellent 
+59,16,Very Good 
+60,16,Excellent 
+61,17,Excellent 
+62,17,Very Good 
+63,17,Good 
+64,17,Average 
+65,17,Legendary 
+66,17,Poor 
+67,18,Good 
+68,18,Poor 
+69,18,Very Good 
+70,18,Legendary 
+71,18,Excellent 
+72,18,Average 
+73,19,Excellent 
+74,19,Good 
+75,19,Legendary 
+76,19,Very Good 
+77,19,Average 
+78,20,Good 
+79,20,Poor 
+80,20,Excellent 
+81,20,Average 
+82,20,Very Good 
+83,21,Good 
+84,21,Excellent 
+85,21,Very Good 
+86,22,Very Good 
+87,22,Poor 
+88,22,Excellent 
+89,22,Legendary 
+90,23,Very Good 
+91,23,Average 
+92,23,Legendary 
+93,23,Excellent 
+94,24,Very Good 
+95,24,Good 
+96,24,Excellent 
+97,24,Average 
+98,24,Poor 
+99,24,Legendary 
+100,25,Very Good 
+101,25,Average 
+102,25,Legendary 
+103,26,Very Good 
+104,26,Legendary 
+105,26,Excellent 
+106,27,Poor 
+107,27,Excellent 
+108,27,Average 
+109,28,Very Good 
+110,28,Excellent 
+111,28,Average 
+112,28,Good 
+113,28,Legendary 
+114,29,Good 
+115,29,Average 
+116,29,Excellent 
+117,29,Poor 
+118,30,Legendary 
+119,30,Excellent 
+120,30,Very Good 
+121,31,Excellent 
+122,31,Good 
+123,31,Poor 
+124,31,Very Good 
+125,31,Legendary 
+126,32,Legendary 
+127,32,Excellent 
+128,32,Good 
+129,32,Very Good 
+130,33,Legendary 
+131,33,Very Good 
+132,34,Excellent 
+133,34,Good 
+134,34,Poor 
+135,34,Average 
+136,34,Very Good 
+137,34,Legendary 
+138,35,Very Good 
+139,35,Excellent 
+140,35,Good 
+141,36,Very Good 
+142,36,Average 
+143,36,Legendary 
+144,36,Good 
+145,36,Excellent 
+146,37,Very Good 
+147,37,Good 
+148,37,Legendary 
+149,37,Excellent 
+150,38,Average 
+151,38,Legendary 
+152,38,Very Good 
+153,38,Poor 
+154,38,Excellent 
+155,39,Legendary 
+156,39,Excellent 
+157,40,Good 
+158,40,Excellent 
+159,40,Legendary 
+160,40,Very Good 
+161,41,Very Good 
+162,41,Excellent 
+163,41,Legendary 
+164,42,Good 
+165,43,Very Good 
+166,43,Good 
+167,43,Legendary 
+168,43,Average 
+169,44,Excellent 
+170,44,Very Good 
+171,44,Good 
+172,44,Average 
+173,44,Legendary 
+174,45,Excellent 
+175,45,Good 
+176,45,Very Good 
+177,45,Legendary 
+178,46,Excellent 
+179,46,Legendary 
+180,46,Average 
+181,46,Very Good 
+182,47,Very Good 
+183,47,Average 
+184,47,Good 
+185,47,Excellent 
+186,48,Good 
+187,48,Excellent 
+188,48,Poor 
+189,48,Very Good 
+190,49,Excellent 
+191,49,Legendary 
+192,49,Good 
+193,49,Very Good 
+194,50,Average 
+195,50,Very Good 
+196,50,Good 
+197,51,Average 
+198,51,Excellent 
+199,51,Very Good 
+200,51,Poor 
+201,52,Very Good 
+202,52,Good 
+203,52,Average 
+204,52,Poor 
+205,52,Excellent 
+206,52,Legendary 
+207,53,Legendary 
+208,53,Very Good 
+209,54,Very Good 
+210,54,Excellent 
+211,54,Poor 
+212,55,Good 
+213,55,Very Good 
+214,55,Legendary 
+215,55,Excellent 
+216,56,Good 
+217,56,Very Good 
+218,56,Legendary 
+219,56,Average 
+220,57,Excellent 
+221,57,Poor 
+222,57,Average 
+223,57,Legendary 
+224,58,Very Good 
+225,58,Excellent 
+226,59,Poor 
+227,59,Excellent 
+228,59,Legendary 
+229,60,Excellent 
+230,60,Very Good 
+231,60,Good 
+232,60,Legendary 
+233,60,Poor 
+234,61,Legendary 
+235,61,Average 
+236,61,Good 
+237,61,Excellent 
+238,62,Legendary 
+239,62,Excellent 
+240,62,Average 
+241,62,Poor 
+242,62,Good 
+243,62,Very Good 
+244,63,Very Good 
+245,63,Good 
+246,63,Excellent 
+247,64,Average 
+248,64,Excellent 
+249,64,Very Good 
+250,65,Good 
+251,65,Legendary 
+252,65,Very Good 
+253,65,Excellent 
+254,66,Good 
+255,66,Excellent 
+256,66,Legendary 
+257,66,Very Good 
+258,66,Poor 
+259,67,Legendary 
+260,67,Excellent 
+261,67,Good 
+262,67,Very Good 
+263,67,Average 
+264,68,Very Good 
+265,68,Average 
+266,68,Poor 
+267,69,Excellent 
+268,69,Very Good 
+269,70,Excellent 
+270,70,Legendary 
+271,70,Poor 
+272,70,Very Good 
+273,71,Very Good 
+274,71,Legendary 
+275,71,Average 
+276,71,Excellent 
+277,72,Good 
+278,72,Excellent 
+279,72,Very Good 
+280,72,Legendary 
+281,72,Poor 
+282,73,Legendary 
+283,74,Excellent 
+284,74,Average 
+285,74,Legendary 
+286,74,Very Good 
+287,74,Poor 
+288,75,Legendary 
+289,75,Excellent 
+290,75,Very Good 
+291,76,Good 
+292,76,Very Good 
+293,76,Excellent 
+294,77,Very Good 
+295,77,Good 
+296,77,Legendary 
+297,77,Average 
+298,77,Excellent 
+299,78,Very Good 
+300,78,Legendary 
+301,78,Good 
+302,78,Excellent 
+303,79,Legendary 
+304,79,Excellent 
+305,79,Very Good 
+306,79,Good 
+307,80,Very Good 
+308,80,Average 
+309,80,Legendary 
+310,80,Excellent 
+311,81,Very Good 
+312,81,Excellent 
+313,81,Average 
+314,81,Good 
+315,81,Legendary 
+316,82,Very Good 
+317,82,Good 
+318,82,Legendary 
+319,82,Excellent 
+320,83,Good 
+321,83,Excellent 
+322,83,Legendary 
+323,83,Very Good 
+324,84,Excellent 
+325,84,Legendary 
+326,84,Good 
+327,84,Very Good 
+328,85,Good 
+329,85,Legendary 
+330,86,Good 
+331,86,Excellent 
+332,86,Average 
+333,87,Good 
+334,87,Excellent 
+335,87,Very Good 
+336,88,Very Good 
+337,88,Good 
+338,88,Poor 
+339,88,Legendary 
+340,88,Average 
+341,89,Very Good 
+342,89,Good 
+343,89,Average 
+344,89,Excellent 
+345,90,Good 
+346,90,Excellent 
+347,90,Very Good 
+348,90,Legendary 
+349,91,Very Good 
+350,91,Legendary 
+351,91,Excellent 
+352,91,Good 
+353,92,Very Good 
+354,92,Excellent 
+355,92,Legendary 
+356,92,Good 
+357,93,Poor 
+358,93,Good 
+359,93,Average 
+360,93,Excellent 
+361,93,Very Good 
+362,94,Very Good 
+363,94,Excellent 
+364,94,Poor 
+365,94,Average 
+366,95,Legendary 
+367,95,Excellent 
+368,95,Very Good 
+369,95,Good 
+370,96,Very Good 
+371,96,Excellent 
+372,96,Poor 
+373,96,Average 
+374,96,Legendary 
+375,97,Very Good 
+376,97,Good 
+377,97,Legendary 
+378,97,Average 
+379,97,Excellent 
+380,98,Very Good 
+381,98,Good 
+382,98,Average 
+383,99,Very Good 
+384,99,Excellent 
+385,99,Poor 
+386,100,Very Good 
+387,100,Good 
+388,100,Excellent 
+389,100,Legendary 
+390,101,Legendary 
+391,101,Good 
+392,101,Excellent 
+393,101,Very Good 
+394,102,Very Good 
+395,102,Excellent 
+396,102,Good 
+397,102,Average 
+398,103,Poor 
+399,103,Excellent 
+400,103,Very Good 
+401,103,Good 
+402,103,Legendary 
+403,104,Good 
+404,104,Very Good 
+405,104,Excellent 
+406,104,Legendary 
+407,104,Average 
+408,105,Excellent 
+409,105,Very Good 
+410,105,Legendary 
+411,106,Excellent 
+412,106,Legendary 
+413,106,Average 
+414,106,Very Good 
+415,107,Very Good 
+416,107,Legendary 
+417,107,Good 
+418,108,Very Good 
+419,108,Average 
+420,108,Legendary 
+421,108,Excellent 
+422,109,Average 
+423,109,Legendary 
+424,109,Very Good 
+425,109,Excellent 
+426,109,Good 
+427,110,Excellent 
+428,110,Legendary 
+429,110,Very Good 
+430,111,Excellent 
+431,111,Good 
+432,111,Very Good 
+433,112,Poor 
+434,112,Excellent 
+435,112,Legendary 
+436,112,Very Good 
+437,113,Very Good 
+438,113,Excellent 
+439,113,Good 
+440,113,Legendary 
+441,114,Excellent 
+442,114,Average 
+443,114,Very Good 
+444,115,Excellent 
+445,115,Very Good 
+446,115,Good 
+447,115,Legendary 
+448,116,Very Good 
+449,116,Excellent 
+450,117,Legendary 
+451,117,Average 
+452,117,Good 
+453,117,Very Good 
+454,117,Excellent 
+455,118,Excellent 
+456,118,Legendary 
+457,118,Very Good 
+458,119,Excellent 
+459,120,Excellent 
+460,120,Very Good 
+461,120,Good 
+462,120,Average 
+463,121,Excellent 
+464,122,Very Good 
+465,122,Excellent 
+466,122,Good 
+467,122,Average 
+468,123,Very Good 
+469,123,Good 
+470,123,Legendary 
+471,123,Average 
+472,123,Excellent 
+473,124,Good 
+474,124,Excellent 
+475,124,Legendary 
+476,124,Very Good 
+477,125,Legendary 
+478,125,Very Good 
+479,126,Very Good 
+480,126,Excellent 
+481,126,Legendary 
+482,126,Good 
+483,127,Good 
+484,127,Legendary 
+485,127,Poor 
+486,127,Excellent 
+487,127,Average 
+488,127,Very Good 
+489,128,Average 
+490,128,Excellent 
+491,128,Good 
+492,128,Legendary 
+493,129,Excellent 
+494,129,Good 
+495,129,Legendary 
+496,130,Good 
+497,130,Excellent 
+498,130,Average 
+499,130,Legendary 
+500,130,Poor 
+501,131,Excellent 
+502,131,Good 
+503,131,Legendary 
+504,131,Very Good 
+505,132,Excellent 
+506,132,Very Good 
+507,132,Legendary 
+508,132,Average 
+509,133,Excellent 
+510,134,Excellent 
+511,134,Very Good 
+512,134,Legendary 
+513,134,Good 
+514,135,Very Good 
+515,135,Excellent 
+516,135,Good 
+517,135,Average 
+518,136,Excellent 
+519,136,Very Good 
+520,136,Legendary 
+521,136,Good 
+522,137,Good 
+523,137,Very Good 
+524,137,Legendary 
+525,138,Good 
+526,138,Excellent 
+527,138,Very Good 
+528,138,Average 
+529,139,Good 
+530,139,Excellent 
+531,139,Poor 
+532,139,Average 
+533,140,Legendary 
+534,140,Very Good 
+535,140,Excellent 
+536,141,Excellent 
+537,141,Legendary 
+538,141,Average 
+539,142,Legendary 
+540,142,Very Good 
+541,142,Poor 
+542,142,Excellent 
+543,143,Poor 
+544,143,Good 
+545,143,Excellent 
+546,143,Legendary 
+547,143,Average 
+548,143,Very Good 
+549,144,Very Good 
+550,144,Excellent 
+551,145,Excellent 
+552,146,Very Good 
+553,146,Excellent 
+554,146,Average 
+555,147,Average 
+556,147,Very Good 
+557,147,Excellent 
+558,147,Poor 
+559,148,Excellent 
+560,148,Average 
+561,148,Very Good 
+562,149,Legendary 
+563,149,Excellent 
+564,149,Very Good 
+565,149,Good 
+566,150,Excellent 
+567,150,Legendary 
+568,151,Very Good 
+569,151,Average 
+570,151,Legendary 
+571,152,Poor 
+572,152,Good 
+573,152,Very Good 
+574,153,Very Good 
+575,153,Good 
+576,153,Excellent 
+577,154,Very Good 
+578,154,Average 
+579,154,Good 
+580,154,Excellent 
+581,155,Very Good 
+582,155,Excellent 
+583,156,Average 
+584,156,Excellent 
+585,156,Good 
+586,156,Very Good 
+587,157,Excellent 
+588,157,Good 
+589,157,Average 
+590,157,Very Good 
+591,158,Good 
+592,158,Excellent 
+593,158,Legendary 
+594,158,Very Good 
+595,159,Very Good 
+596,159,Good 
+597,160,Legendary 
+598,160,Excellent 
+599,160,Very Good 
+600,160,Average 
+601,160,Good 
+602,161,Average 
+603,161,Legendary 
+604,161,Good 
+605,161,Excellent 
+606,162,Legendary 
+607,162,Excellent 
+608,162,Poor 
+609,163,Very Good 
+610,163,Good 
+611,163,Legendary 
+612,163,Average 
+613,163,Excellent 
+614,164,Good 
+615,164,Excellent 
+616,164,Legendary 
+617,164,Very Good 
+618,165,Legendary 
+619,165,Excellent 
+620,165,Very Good 
+621,165,Good 
+622,166,Very Good 
+623,166,Average 
+624,166,Legendary 
+625,166,Excellent 
+626,167,Very Good 
+627,167,Excellent 
+628,167,Average 
+629,167,Good 
+630,167,Legendary 
+631,168,Very Good 
+632,168,Good 
+633,168,Legendary 
+634,168,Excellent 
+635,169,Excellent 
+636,169,Legendary 
+637,169,Good 
+638,169,Very Good 
+639,170,Excellent 
+640,170,Very Good 
+641,171,Legendary 
+642,171,Excellent 
+643,171,Good 
+644,171,Very Good 
+645,172,Excellent 
+646,172,Very Good 
+647,172,Legendary 
+648,172,Average 
+649,172,Good 
+650,173,Excellent 
+651,173,Good 
+652,173,Legendary 
+653,173,Very Good 
+654,174,Legendary 
+655,174,Good 
+656,174,Excellent 
+657,175,Excellent 
+658,175,Very Good 
+659,175,Legendary 
+660,176,Legendary 
+661,176,Very Good 
+662,176,Excellent 
+663,177,Very Good 
+664,177,Average 
+665,177,Legendary 
+666,178,Very Good 
+667,178,Legendary 
+668,178,Good 
+669,178,Excellent 
+670,179,Very Good 
+671,179,Excellent 
+672,179,Good 
+673,180,Very Good 
+674,180,Excellent 
+675,180,Legendary 
+676,181,Excellent 
+677,181,Very Good 
+678,181,Average 
+679,181,Good 
+680,181,Legendary 
+681,182,Good 
+682,182,Average 
+683,182,Excellent 
+684,182,Very Good 
+685,182,Poor 
+686,183,Very Good 
+687,183,Average 
+688,183,Excellent 
+689,183,Good 
+690,183,Legendary 
+691,184,Legendary 
+692,184,Very Good 
+693,184,Excellent 
+694,185,Average 
+695,185,Excellent 
+696,185,Very Good 
+697,185,Good 
+698,186,Excellent 
+699,186,Very Good 
+700,186,Good 
+701,186,Average 
+702,187,Legendary 
+703,187,Average 
+704,187,Excellent 
+705,187,Good 
+706,187,Very Good 
+707,188,Good 
+708,188,Excellent 
+709,188,Very Good 
+710,189,Very Good 
+711,189,Excellent 
+712,189,Average 
+713,190,Very Good 
+714,190,Excellent 
+715,190,Good 
+716,190,Poor 
+717,191,Good 
+718,191,Very Good 
+719,191,Excellent 
+720,191,Legendary 
+721,192,Excellent 
+722,192,Legendary 
+723,192,Very Good 
+724,192,Good 
+725,193,Excellent 
+726,193,Very Good 
+727,194,Excellent 
+728,194,Average 
+729,194,Very Good 
+730,194,Good 
+731,195,Average 
+732,195,Excellent 
+733,195,Legendary 
+734,195,Good 
+735,195,Very Good 
+736,196,Very Good 
+737,196,Excellent 
+738,196,Average 
+739,197,Good 
+740,197,Very Good 
+741,197,Legendary 
+742,197,Excellent 
+743,198,Very Good 
+744,198,Poor 
+745,198,Excellent 
+746,198,Legendary 
+747,199,Good 
+748,199,Excellent 
+749,199,Very Good 
+750,199,Average 
+751,200,Very Good 
+752,200,Good 
+753,200,Average 
+754,200,Excellent 
+755,200,Legendary 
+756,201,Very Good 
+757,201,Excellent 
+758,201,Legendary 
+759,202,Excellent 
+760,202,Legendary 
+761,202,Very Good 
+762,202,Average 
+763,202,Good 
+764,203,Good 
+765,203,Excellent 
+766,203,Legendary 
+767,203,Very Good 
+768,204,Poor 
+769,204,Legendary 
+770,204,Very Good 
+771,204,Good 
+772,204,Excellent 
+773,205,Average 
+774,205,Good 
+775,205,Excellent 
+776,205,Very Good 
+777,206,Very Good 
+778,206,Good 
+779,206,Excellent 
+780,207,Very Good 
+781,207,Excellent 
+782,208,Very Good 
+783,208,Excellent 
+784,209,Very Good 
+785,209,Good 
+786,209,Poor 
+787,209,Average 
+788,210,Very Good 
+789,210,Good 
+790,210,Excellent 
+791,211,Very Good 
+792,211,Good 
+793,211,Poor 
+794,211,Excellent 
+795,211,Legendary 
+796,212,Legendary 
+797,212,Average 
+798,212,Good 
+799,212,Excellent 
+800,212,Poor 
+801,213,Very Good 
+802,213,Legendary 
+803,213,Excellent 
+804,213,Good 
+805,214,Poor 
+806,214,Average 
+807,214,Good 
+808,214,Excellent 
+809,214,Very Good 
+810,215,Excellent 
+811,215,Very Good 
+812,215,Good 
+813,215,Legendary 
+814,216,Excellent 
+815,216,Very Good 
+816,216,Legendary 
+817,216,Average 
+818,217,Very Good 
+819,217,Average 
+820,217,Excellent 
+821,217,Good 
+822,217,Poor 
+823,218,Very Good 
+824,218,Excellent 
+825,218,Legendary 
+826,219,Good 
+827,219,Average 
+828,219,Very Good 
+829,220,Good 
+830,220,Poor 
+831,220,Legendary 
+832,220,Excellent 
+833,220,Very Good 
+834,220,Average 
+835,221,Average 
+836,221,Good 
+837,221,Poor 
+838,221,Very Good 
+839,222,Very Good 
+840,222,Good 
+841,222,Excellent 
+842,223,Good 
+843,223,Very Good 
+844,223,Excellent 
+845,223,Legendary 
+846,224,Good 
+847,224,Average 
+848,224,Legendary 
+849,224,Very Good 
+850,224,Excellent 
+851,225,Excellent 
+852,225,Very Good 
+853,225,Good 
+854,226,Excellent 
+855,226,Legendary 
+856,226,Very Good 
+857,226,Poor 
+858,227,Poor 
+859,227,Legendary 
+860,227,Average 
+861,227,Excellent 
+862,227,Very Good 
+863,228,Average 
+864,228,Good 
+865,228,Poor 
+866,228,Very Good 
+867,229,Very Good 
+868,229,Excellent 
+869,229,Good 
+870,230,Legendary 
+871,230,Excellent 
+872,230,Good 
+873,230,Very Good 
+874,230,Poor 
+875,231,Legendary 
+876,231,Excellent 
+877,231,Good 
+878,231,Very Good 
+879,231,Average 
+880,232,Excellent 
+881,232,Average 
+882,232,Very Good 
+883,232,Legendary 
+884,233,Legendary 
+885,233,Good 
+886,233,Excellent 
+887,233,Average 
+888,234,Very Good 
+889,234,Excellent 
+890,234,Average 
+891,234,Good 
+892,234,Poor 
+893,235,Average 
+894,235,Very Good 
+895,235,Excellent 
+896,235,Legendary 
+897,236,Very Good 
+898,236,Good 
+899,236,Poor 
+900,236,Average 
+901,237,Legendary 
+902,237,Average 
+903,237,Excellent 
+904,237,Good 
+905,238,Excellent 
+906,238,Average 
+907,238,Very Good 
+908,238,Legendary 
+909,239,Legendary 
+910,239,Very Good 
+911,240,Legendary 
+912,240,Excellent 
+913,240,Very Good 
+914,240,Average 
+915,240,Poor 
+916,241,Average 
+917,241,Very Good 
+918,241,Good 
+919,241,Legendary 
+920,242,Very Good 
+921,242,Average 
+922,242,Good 
+923,242,Excellent 
+924,243,Very Good 
+925,243,Good 
+926,243,Excellent 
+927,243,Legendary 
+928,244,Excellent 
+929,244,Legendary 
+930,244,Very Good 
+931,245,Legendary 
+932,245,Average 
+933,245,Excellent 
+934,245,Very Good 
+935,246,Average 
+936,246,Excellent 
+937,246,Good 
+938,247,Average 
+939,247,Very Good 
+940,247,Excellent 
+941,248,Excellent 
+942,248,Very Good 
+943,248,Good 
+944,249,Legendary 
+945,249,Average 
+946,250,Average 
+947,250,Excellent 
+948,251,Excellent 
+949,251,Very Good 
+950,251,Average 
+951,251,Legendary 
+952,252,Average 
+953,252,Good 
+954,252,Excellent 
+955,252,Very Good 
+956,253,Very Good 
+957,253,Excellent 
+958,253,Good 
+959,254,Good 
+960,254,Legendary 
+961,254,Very Good 
+962,254,Excellent 
+963,255,Very Good 
+964,255,Average 
+965,255,Good 
+966,255,Excellent 
+967,256,Legendary 
+968,256,Average 
+969,256,Excellent 
+970,256,Good 
+971,256,Very Good 
+972,257,Average 
+973,257,Legendary 
+974,257,Poor 
+975,257,Excellent 
+976,258,Very Good 
+977,258,Legendary 
+978,258,Good 
+979,258,Average 
+980,258,Excellent 
+981,258,Poor 
+982,259,Legendary 
+983,260,Poor 
+984,260,Very Good 
+985,260,Average 
+986,260,Excellent 
+987,260,Legendary 
+988,261,Excellent 
+989,262,Very Good 
+990,262,Average 
+991,262,Legendary 
+992,262,Good 
+993,262,Excellent 
+994,263,Very Good 
+995,263,Legendary 
+996,263,Excellent 
+997,263,Poor 
+998,264,Excellent 
+999,264,Very Good 
+1000,264,Legendary 
+1001,264,Good 
+1002,265,Excellent 
+1003,265,Average 
+1004,265,Very Good 
+1005,265,Legendary 
+1006,265,Good 
+1007,266,Very Good 
+1008,266,Good 
+1009,266,Excellent 
+1010,266,Average 
+1011,267,Good 
+1012,267,Poor 
+1013,267,Very Good 
+1014,267,Average 
+1015,267,Excellent 
+1016,268,Legendary 
+1017,268,Good 
+1018,268,Excellent 
+1019,268,Very Good 
+1020,269,Good 
+1021,269,Legendary 
+1022,269,Average 
+1023,270,Average 
+1024,270,Excellent 
+1025,270,Very Good 
+1026,271,Very Good 
+1027,271,Legendary 
+1028,271,Average 
+1029,271,Good 
+1030,271,Excellent 
+1031,272,Good 
+1032,272,Average 
+1033,272,Poor 
+1034,273,Average 
+1035,273,Very Good 
+1036,273,Good 
+1037,273,Legendary 
+1038,273,Excellent 
+1039,274,Very Good 
+1040,274,Excellent 
+1041,274,Legendary 
+1042,274,Poor 
+1043,275,Very Good 
+1044,275,Good 
+1045,275,Average 
+1046,275,Excellent 
+1047,276,Very Good 
+1048,276,Poor 
+1049,276,Legendary 
+1050,276,Excellent 
+1051,276,Average 
+1052,277,Very Good 
+1053,277,Average 
+1054,277,Poor 
+1055,277,Excellent 
+1056,277,Good 
+1057,278,Poor 
+1058,278,Very Good 
+1059,278,Good 
+1060,278,Excellent 
+1061,278,Average 
+1062,279,Very Good 
+1063,279,Poor 
+1064,279,Average 
+1065,280,Very Good 
+1066,280,Excellent 
+1067,280,Legendary 
+1068,280,Good 
+1069,281,Very Good 
+1070,281,Good 
+1071,282,Very Good 
+1072,282,Excellent 
+1073,283,Excellent 
+1074,283,Legendary 
+1075,283,Very Good 
+1076,283,Poor 
+1077,283,Good 
+1078,284,Poor 
+1079,284,Good 
+1080,284,Legendary 
+1081,285,Poor 
+1082,285,Very Good 
+1083,285,Legendary 
+1084,286,Excellent 
+1085,286,Very Good 
+1086,286,Legendary 
+1087,287,Very Good 
+1088,287,Good 
+1089,287,Legendary 
+1090,287,Average 
+1091,288,Excellent 
+1092,288,Very Good 
+1093,288,Legendary 
+1094,288,Average 
+1095,288,Good 
+1096,289,Very Good 
+1097,289,Average 
+1098,289,Good 
+1099,290,Legendary 
+1100,290,Excellent 
+1101,290,Very Good 
+1102,291,Very Good 
+1103,291,Excellent 
+1104,291,Average 
+1105,292,Very Good 
+1106,292,Excellent 
+1107,292,Good 
+1108,293,Very Good 
+1109,293,Legendary 
+1110,293,Average 
+1111,293,Excellent 
+1112,294,Good 
+1113,294,Very Good 
+1114,294,Legendary 
+1115,294,Excellent 
+1116,294,Poor 
+1117,295,Very Good 
+1118,295,Average 
+1119,295,Good 
+1120,295,Excellent 
+1121,296,Average 
+1122,296,Legendary 
+1123,296,Very Good 
+1124,296,Good 
+1125,297,Good 
+1126,297,Very Good 
+1127,297,Excellent 
+1128,298,Excellent 
+1129,298,Average 
+1130,298,Very Good 
+1131,298,Legendary 
+1132,299,Average 
+1133,299,Excellent 
+1134,299,Legendary 
+1135,300,Very Good 
+1136,300,Legendary 
+1137,300,Excellent 
+1138,300,Good 
+1139,300,Average 
+1140,301,Very Good 
+1141,301,Legendary 
+1142,301,Excellent 
+1143,301,Good 
+1144,302,Excellent 
+1145,302,Very Good 
+1146,303,Good 
+1147,303,Legendary 
+1148,303,Excellent 
+1149,303,Very Good 
+1150,304,Very Good 
+1151,305,Excellent 
+1152,305,Average 
+1153,306,Legendary 
+1154,306,Average 
+1155,306,Poor 
+1156,306,Very Good 
+1157,306,Good 
+1158,307,Excellent 
+1159,307,Average 
+1160,307,Legendary 
+1161,307,Good 
+1162,307,Very Good 
+1163,308,Poor 
+1164,309,Legendary 
+1165,309,Excellent 
+1166,309,Good 
+1167,310,Very Good 
+1168,310,Legendary 
+1169,310,Good 
+1170,311,Average 
+1171,311,Excellent 
+1172,311,Very Good 
+1173,312,Very Good 
+1174,312,Legendary 
+1175,312,Excellent 
+1176,313,Very Good 
+1177,313,Legendary 
+1178,313,Good 
+1179,313,Average 
+1180,314,Average 
+1181,314,Good 
+1182,314,Excellent 
+1183,314,Poor 
+1184,314,Very Good 
+1185,314,Legendary 
+1186,315,Good 
+1187,315,Very Good 
+1188,315,Legendary 
+1189,316,Excellent 
+1190,316,Good 
+1191,316,Legendary 
+1192,316,Average 
+1193,316,Very Good 
+1194,317,Good 
+1195,317,Average 
+1196,317,Very Good 
+1197,318,Very Good 
+1198,318,Poor 
+1199,318,Legendary 
+1200,318,Good 
+1201,319,Excellent 
+1202,319,Good 
+1203,319,Legendary 
+1204,319,Average 
+1205,320,Excellent 
+1206,320,Legendary 
+1207,320,Very Good 
+1208,320,Good 
+1209,321,Good 
+1210,321,Very Good 
+1211,321,Poor 
+1212,321,Excellent 
+1213,322,Legendary 
+1214,322,Poor 
+1215,322,Excellent 
+1216,322,Good 
+1217,322,Very Good 
+1218,322,Average 
+1219,323,Legendary 
+1220,323,Very Good 
+1221,323,Excellent 
+1222,323,Average 
+1223,323,Good 
+1224,324,Excellent 
+1225,324,Very Good 
+1226,325,Very Good 
+1227,325,Legendary 
+1228,325,Good 
+1229,325,Excellent 
+1230,326,Average 
+1231,326,Very Good 
+1232,326,Excellent 
+1233,326,Good 
+1234,327,Excellent 
+1235,327,Very Good 
+1236,327,Good 
+1237,328,Excellent 
+1238,328,Average 
+1239,328,Good 
+1240,328,Very Good 
+1241,328,Legendary 
+1242,329,Good 
+1243,329,Very Good 
+1244,329,Excellent 
+1245,329,Legendary 
+1246,329,Poor 
+1247,329,Average 
+1248,330,Excellent 
+1249,330,Good 
+1250,330,Legendary 
+1251,330,Very Good 
+1252,331,Excellent 
+1253,331,Legendary 
+1254,331,Very Good 
+1255,331,Poor 
+1256,332,Average 
+1257,332,Excellent 
+1258,332,Legendary 
+1259,332,Good 
+1260,333,Excellent 
+1261,333,Very Good 
+1262,333,Good 
+1263,333,Average 
+1264,334,Very Good 
+1265,334,Good 
+1266,334,Average 
+1267,335,Excellent 
+1268,335,Average 
+1269,335,Very Good 
+1270,335,Good 
+1271,335,Legendary 
+1272,336,Legendary 
+1273,336,Excellent 
+1274,336,Very Good 
+1275,337,Good 
+1276,337,Poor 
+1277,337,Average 
+1278,337,Excellent 
+1279,337,Very Good 
+1280,338,Legendary 
+1281,338,Very Good 
+1282,338,Excellent 
+1283,338,Good 
+1284,339,Very Good 
+1285,339,Good 
+1286,339,Legendary 
+1287,339,Average 
+1288,340,Excellent 
+1289,340,Legendary 
+1290,340,Very Good 
+1291,341,Excellent 
+1292,341,Very Good 
+1293,341,Good 
+1294,341,Average 
+1295,341,Legendary 
+1296,342,Legendary 
+1297,342,Excellent 
+1298,342,Good 
+1299,342,Very Good 
+1300,343,Very Good 
+1301,343,Good 
+1302,343,Excellent 
+1303,343,Average 
+1304,344,Excellent 
+1305,344,Legendary 
+1306,344,Very Good 
+1307,345,Very Good 
+1308,345,Excellent 
+1309,345,Average 
+1310,346,Very Good 
+1311,346,Excellent 
+1312,346,Good 
+1313,346,Legendary 
+1314,347,Good 
+1315,347,Legendary 
+1316,347,Average 
+1317,348,Very Good 
+1318,348,Excellent 
+1319,348,Good 
+1320,348,Legendary 
+1321,349,Good 
+1322,349,Excellent 
+1323,349,Legendary 
+1324,349,Very Good 
+1325,350,Excellent 
+1326,350,Very Good 
+1327,351,Good 
+1328,351,Poor 
+1329,351,Excellent 
+1330,351,Very Good 
+1331,352,Good 
+1332,352,Legendary 
+1333,352,Average 
+1334,352,Excellent 
+1335,353,Legendary 
+1336,353,Excellent 
+1337,353,Very Good 
+1338,354,Very Good 
+1339,354,Excellent 
+1340,355,Poor 
+1341,355,Very Good 
+1342,355,Good 
+1343,355,Average 
+1344,355,Legendary 
+1345,356,Very Good 
+1346,356,Excellent 
+1347,356,Average 
+1348,356,Legendary 
+1349,357,Excellent 
+1350,357,Poor 
+1351,357,Legendary 
+1352,357,Average 
+1353,357,Very Good 
+1354,358,Excellent 
+1355,358,Legendary 
+1356,359,Good 
+1357,359,Very Good 
+1358,359,Excellent 
+1359,359,Average 
+1360,360,Very Good 
+1361,360,Good 
+1362,360,Poor 
+1363,360,Excellent 
+1364,361,Excellent 
+1365,361,Very Good 
+1366,362,Excellent 
+1367,362,Poor 
+1368,363,Average 
+1369,363,Very Good 
+1370,363,Good 
+1371,364,Excellent 
+1372,364,Legendary 
+1373,364,Very Good 
+1374,364,Good 
+1375,365,Excellent 
+1376,365,Very Good 
+1377,365,Legendary 
+1378,365,Poor 
+1379,365,Average 
+1380,366,Excellent 
+1381,366,Very Good 
+1382,366,Legendary 
+1383,366,Average 
+1384,366,Poor 
+1385,366,Good 
+1386,367,Good 
+1387,367,Legendary 
+1388,367,Very Good 
+1389,367,Excellent 
+1390,368,Very Good 
+1391,368,Average 
+1392,368,Excellent 
+1393,368,Legendary 
+1394,369,Excellent 
+1395,369,Very Good 
+1396,369,Legendary 
+1397,369,Poor 
+1398,370,Excellent 
+1399,370,Poor 
+1400,370,Average 
+1401,370,Good 
+1402,370,Very Good 
+1403,371,Excellent 
+1404,371,Legendary 
+1405,371,Very Good 
+1406,371,Average 
+1407,372,Legendary 
+1408,372,Excellent 
+1409,372,Very Good 
+1410,372,Poor 
+1411,373,Excellent 
+1412,373,Very Good 
+1413,373,Good 
+1414,373,Legendary 
+1415,374,Very Good 
+1416,374,Excellent 
+1417,374,Good 
+1418,374,Average 
+1419,375,Average 
+1420,375,Excellent 
+1421,375,Good 
+1422,375,Very Good 
+1423,376,Excellent 
+1424,376,Average 
+1425,376,Legendary 
+1426,376,Very Good 
+1427,377,Very Good 
+1428,377,Good 
+1429,377,Legendary 
+1430,377,Excellent 
+1431,378,Very Good 
+1432,378,Average 
+1433,378,Good 
+1434,378,Legendary 
+1435,378,Excellent 
+1436,379,Average 
+1437,379,Good 
+1438,379,Legendary 
+1439,379,Very Good 
+1440,379,Excellent 
+1441,380,Excellent 
+1442,380,Legendary 
+1443,380,Average 
+1444,381,Legendary 
+1445,381,Excellent 
+1446,381,Good 
+1447,381,Average 
+1448,382,Very Good 
+1449,382,Good 
+1450,382,Excellent 
+1451,383,Legendary 
+1452,383,Excellent 
+1453,383,Very Good 
+1454,384,Average 
+1455,384,Poor 
+1456,384,Very Good 
+1457,384,Good 
+1458,385,Legendary 
+1459,385,Very Good 
+1460,385,Poor 
+1461,385,Excellent 
+1462,385,Good 
+1463,386,Average 
+1464,386,Very Good 
+1465,386,Poor 
+1466,386,Good 
+1467,387,Excellent 
+1468,387,Very Good 
+1469,387,Average 
+1470,387,Good 
+1471,388,Legendary 
+1472,388,Excellent 
+1473,388,Very Good 
+1474,389,Very Good 
+1475,389,Excellent 
+1476,389,Average 
+1477,389,Legendary 
+1478,390,Good 
+1479,390,Legendary 
+1480,390,Average 
+1481,390,Excellent 
+1482,390,Very Good 
+1483,391,Good 
+1484,391,Very Good 
+1485,391,Poor 
+1486,391,Excellent 
+1487,392,Very Good 
+1488,392,Good 
+1489,392,Average 
+1490,392,Legendary 
+1491,393,Very Good 
+1492,393,Legendary 
+1493,393,Average 
+1494,393,Excellent 
+1495,394,Very Good 
+1496,394,Average 
+1497,394,Excellent 
+1498,394,Good 
+1499,395,Excellent 
+1500,395,Legendary 
+1501,395,Very Good 
+1502,396,Very Good 
+1503,396,Legendary 
+1504,396,Average 
+1505,396,Excellent 
+1506,396,Good 
+1507,397,Legendary 
+1508,397,Excellent 
+1509,397,Very Good 
+1510,397,Good 
+1511,398,Legendary 
+1512,398,Good 
+1513,398,Very Good 
+1514,398,Excellent 
+1515,399,Very Good 
+1516,399,Legendary 
+1517,399,Excellent 
+1518,399,Good 
+1519,400,Legendary 
+1520,400,Excellent 
+1521,400,Very Good 
+1522,401,Very Good 
+1523,401,Legendary 
+1524,401,Excellent 
+1525,401,Good 
+1526,402,Poor 
+1527,402,Good 
+1528,402,Average 
+1529,402,Very Good 
+1530,403,Average 
+1531,403,Legendary 
+1532,403,Good 
+1533,403,Very Good 
+1534,403,Excellent 
+1535,404,Very Good 
+1536,404,Good 
+1537,404,Average 
+1538,404,Poor 
+1539,405,Excellent 
+1540,405,Good 
+1541,405,Very Good 
+1542,405,Average 
+1543,406,Good 
+1544,406,Legendary 
+1545,406,Very Good 
+1546,406,Average 
+1547,407,Legendary 
+1548,407,Very Good 
+1549,407,Excellent 
+1550,408,Legendary 
+1551,408,Average 
+1552,408,Very Good 
+1553,408,Excellent 
+1554,409,Average 
+1555,409,Legendary 
+1556,409,Poor 
+1557,409,Excellent 
+1558,410,Excellent 
+1559,410,Legendary 
+1560,410,Good 
+1561,410,Very Good 
+1562,411,Excellent 
+1563,411,Good 
+1564,411,Very Good 
+1565,411,Legendary 
+1566,412,Average 
+1567,412,Excellent 
+1568,412,Very Good 
+1569,412,Good 
+1570,412,Legendary 
+1571,413,Good 
+1572,413,Excellent 
+1573,413,Very Good 
+1574,414,Good 
+1575,414,Legendary 
+1576,414,Average 
+1577,414,Excellent 
+1578,415,Excellent 
+1579,415,Average 
+1580,415,Very Good 
+1581,415,Good 
+1582,416,Excellent 
+1583,416,Good 
+1584,416,Legendary 
+1585,416,Very Good 
+1586,417,Very Good 
+1587,417,Excellent 
+1588,417,Legendary 
+1589,417,Good 
+1590,418,Legendary 
+1591,418,Excellent 
+1592,418,Average 
+1593,418,Very Good 
+1594,419,Very Good 
+1595,419,Excellent 
+1596,419,Good 
+1597,420,Legendary 
+1598,420,Poor 
+1599,420,Very Good 
+1600,420,Good 
+1601,421,Legendary 
+1602,421,Excellent 
+1603,421,Good 
+1604,421,Very Good 
+1605,421,Average 
+1606,422,Excellent 
+1607,422,Good 
+1608,422,Very Good 
+1609,423,Very Good 
+1610,423,Excellent 
+1611,424,Legendary 
+1612,424,Very Good 
+1613,425,Very Good 
+1614,425,Legendary 
+1615,425,Good 
+1616,426,Very Good 
+1617,427,Very Good 
+1618,427,Poor 
+1619,427,Average 
+1620,427,Excellent 
+1621,428,Average 
+1622,428,Very Good 
+1623,428,Excellent 
+1624,428,Good 
+1625,429,Excellent 
+1626,429,Very Good 
+1627,429,Legendary 
+1628,430,Legendary 
+1629,430,Poor 
+1630,430,Excellent 
+1631,430,Very Good 
+1632,431,Poor 
+1633,432,Average 
+1634,432,Poor 
+1635,433,Very Good 
+1636,433,Excellent 
+1637,433,Average 
+1638,433,Legendary 
+1639,434,Average 
+1640,434,Legendary 
+1641,434,Good 
+1642,434,Very Good 
+1643,434,Excellent 
+1644,435,Very Good 
+1645,435,Good 
+1646,435,Excellent 
+1647,435,Average 
+1648,435,Legendary 
+1649,436,Legendary 
+1650,436,Very Good 
+1651,436,Average 
+1652,436,Good 
+1653,437,Excellent 
+1654,437,Very Good 
+1655,437,Average 
+1656,438,Very Good 
+1657,438,Good 
+1658,438,Excellent 
+1659,438,Legendary 
+1660,439,Good 
+1661,439,Very Good 
+1662,439,Excellent 
+1663,439,Average 
+1664,440,Average 
+1665,440,Very Good 
+1666,440,Legendary 
+1667,440,Excellent 
+1668,441,Good 
+1669,441,Very Good 
+1670,441,Average 
+1671,441,Excellent 
+1672,442,Legendary 
+1673,442,Excellent 
+1674,442,Average 
+1675,443,Very Good 
+1676,443,Excellent 
+1677,443,Legendary 
+1678,443,Average 
+1679,443,Good 
+1680,444,Very Good 
+1681,444,Good 
+1682,444,Excellent 
+1683,445,Excellent 
+1684,445,Very Good 
+1685,445,Poor 
+1686,445,Average 
+1687,445,Good 
+1688,446,Good 
+1689,446,Excellent 
+1690,446,Very Good 
+1691,446,Legendary 
+1692,447,Excellent 
+1693,447,Good 
+1694,447,Very Good 
+1695,447,Legendary 
+1696,447,Poor 
+1697,448,Excellent 
+1698,448,Very Good 
+1699,448,Good 
+1700,448,Average 
+1701,449,Very Good 
+1702,449,Excellent 
+1703,449,Good 
+1704,450,Average 
+1705,450,Very Good 
+1706,450,Good 
+1707,450,Excellent 
+1708,451,Legendary 
+1709,451,Very Good 
+1710,451,Good 
+1711,451,Excellent 
+1712,452,Excellent 
+1713,452,Poor 
+1714,452,Good 
+1715,452,Very Good 
+1716,452,Average 
+1717,452,Legendary 
+1718,453,Average 
+1719,453,Very Good 
+1720,453,Excellent 
+1721,454,Excellent 
+1722,454,Good 
+1723,454,Average 
+1724,455,Excellent 
+1725,455,Legendary 
+1726,455,Average 
+1727,455,Very Good 
+1728,456,Average 
+1729,457,Good 
+1730,457,Average 
+1731,457,Excellent 
+1732,457,Poor 
+1733,457,Very Good 
+1734,457,Legendary 
+1735,458,Very Good 
+1736,458,Legendary 
+1737,458,Excellent 
+1738,458,Good 
+1739,459,Good 
+1740,459,Poor 
+1741,459,Average 
+1742,459,Legendary 
+1743,459,Excellent 
+1744,460,Good 
+1745,460,Legendary 
+1746,460,Very Good 
+1747,460,Average 
+1748,461,Excellent 
+1749,461,Average 
+1750,461,Good 
+1751,461,Very Good 
+1752,462,Very Good 
+1753,462,Excellent 
+1754,462,Good 
+1755,463,Legendary 
+1756,463,Excellent 
+1757,463,Very Good 
+1758,464,Excellent 
+1759,464,Very Good 
+1760,464,Poor 
+1761,464,Average 
+1762,464,Legendary 
+1763,464,Good 
+1764,465,Very Good 
+1765,465,Excellent 
+1766,466,Very Good 
+1767,466,Good 
+1768,466,Legendary 
+1769,467,Legendary 
+1770,467,Very Good 
+1771,467,Excellent 
+1772,467,Good 
+1773,468,Legendary 
+1774,468,Excellent 
+1775,468,Very Good 
+1776,468,Average 
+1777,469,Good 
+1778,469,Very Good 
+1779,469,Excellent 
+1780,470,Good 
+1781,470,Legendary 
+1782,470,Average 
+1783,470,Very Good 
+1784,470,Excellent 
+1785,471,Average 
+1786,471,Excellent 
+1787,472,Very Good 
+1788,472,Good 
+1789,472,Average 
+1790,472,Legendary 
+1791,473,Good 
+1792,473,Average 
+1793,473,Very Good 
+1794,474,Average 
+1795,474,Very Good 
+1796,474,Good 
+1797,475,Legendary 
+1798,475,Very Good 
+1799,475,Excellent 
+1800,475,Average 
+1801,475,Good 
+1802,476,Average 
+1803,476,Excellent 
+1804,476,Very Good 
+1805,476,Good 
+1806,476,Legendary 
+1807,477,Excellent 
+1808,477,Good 
+1809,477,Very Good 
+1810,478,Excellent 
+1811,478,Very Good 
+1812,479,Good 
+1813,479,Very Good 
+1814,479,Excellent 
+1815,479,Legendary 
+1816,480,Good 
+1817,480,Very Good 
+1818,480,Average 
+1819,480,Legendary 
+1820,480,Excellent 
+1821,481,Poor 
+1822,481,Good 
+1823,481,Average 
+1824,481,Very Good 
+1825,481,Excellent 
+1826,482,Very Good 
+1827,482,Legendary 
+1828,482,Poor 
+1829,482,Good 
+1830,482,Excellent 
+1831,483,Excellent 
+1832,483,Good 
+1833,483,Very Good 
+1834,483,Average 
+1835,483,Poor 
+1836,484,Excellent 
+1837,484,Good 
+1838,484,Very Good 
+1839,484,Poor 
+1840,485,Very Good 
+1841,485,Excellent 
+1842,485,Good 
+1843,485,Average 
+1844,486,Legendary 
+1845,486,Excellent 
+1846,486,Poor 
+1847,486,Average 
+1848,486,Good 
+1849,486,Very Good 
+1850,487,Good 
+1851,487,Average 
+1852,487,Very Good 
+1853,488,Very Good 
+1854,488,Average 
+1855,488,Excellent 
+1856,488,Legendary 
+1857,489,Excellent 
+1858,489,Poor 
+1859,489,Average 
+1860,489,Very Good 
+1861,489,Good 
+1862,490,Excellent 
+1863,490,Legendary 
+1864,490,Very Good 
+1865,490,Average 
+1866,491,Very Good 
+1867,491,Average 
+1868,491,Excellent 
+1869,491,Good 
+1870,491,Legendary 
+1871,492,Good 
+1872,492,Excellent 
+1873,492,Very Good 
+1874,492,Legendary 
+1875,493,Very Good 
+1876,493,Legendary 
+1877,493,Excellent 
+1878,493,Good 
+1879,494,Excellent 
+1880,494,Legendary 
+1881,494,Very Good 
+1882,494,Good 
+1883,495,Legendary 
+1884,495,Very Good 
+1885,495,Excellent 
+1886,495,Good 
+1887,496,Good 
+1888,496,Poor 
+1889,496,Very Good 
+1890,496,Average 
+1891,496,Excellent 
+1892,497,Good 
+1893,497,Excellent 
+1894,497,Very Good 
+1895,498,Very Good 
+1896,498,Good 
+1897,498,Excellent 
+1898,498,Average 
+1899,499,Very Good 
+1900,499,Average 
+1901,499,Excellent 
+1902,499,Legendary 
+1903,500,Excellent 
+1904,500,Very Good 
+1905,500,Legendary 
+1906,501,Very Good 
+1907,501,Excellent 
+1908,501,Good 
+1909,501,Legendary 
+1910,502,Legendary 
+1911,502,Excellent 
+1912,503,Excellent 
+1913,503,Poor 
+1914,503,Very Good 
+1915,503,Legendary 
+1916,503,Average 
+1917,503,Good 
+1918,504,Legendary 
+1919,504,Very Good 
+1920,505,Good 
+1921,505,Excellent 
+1922,505,Very Good 
+1923,506,Very Good 
+1924,506,Good 
+1925,507,Legendary 
+1926,507,Very Good 
+1927,507,Excellent 
+1928,507,Good 
+1929,507,Average 
+1930,508,Average 
+1931,508,Good 
+1932,508,Legendary 
+1933,508,Very Good 
+1934,509,Good 
+1935,509,Legendary 
+1936,509,Very Good 
+1937,509,Excellent 
+1938,509,Average 
+1939,510,Legendary 
+1940,510,Average 
+1941,510,Good 
+1942,510,Very Good 
+1943,510,Excellent 
+1944,511,Very Good 
+1945,511,Legendary 
+1946,511,Good 
+1947,511,Excellent 
+1948,512,Excellent 
+1949,513,Legendary 
+1950,513,Very Good 
+1951,513,Good 
+1952,513,Excellent 
+1953,514,Excellent 
+1954,514,Average 
+1955,515,Excellent 
+1956,515,Average 
+1957,516,Good 
+1958,516,Very Good 
+1959,516,Excellent 
+1960,516,Average 
+1961,517,Poor 
+1962,517,Very Good 
+1963,517,Average 
+1964,517,Good 
+1965,518,Very Good 
+1966,518,Excellent 
+1967,518,Legendary 
+1968,519,Excellent 
+1969,519,Average 
+1970,519,Legendary 
+1971,519,Very Good 
+1972,520,Good 
+1973,520,Average 
+1974,520,Legendary 
+1975,520,Very Good 
+1976,521,Very Good 
+1977,521,Average 
+1978,522,Very Good 
+1979,522,Good 
+1980,522,Average 
+1981,522,Excellent 
+1982,522,Legendary 
+1983,523,Good 
+1984,524,Good 
+1985,524,Very Good 
+1986,524,Average 
+1987,524,Legendary 
+1988,525,Legendary 
+1989,525,Excellent 
+1990,525,Very Good 
+1991,525,Good 
+1992,526,Average 
+1993,526,Good 
+1994,526,Excellent 
+1995,527,Excellent 
+1996,527,Very Good 
+1997,528,Good 
+1998,528,Excellent 
+1999,528,Very Good 
+2000,528,Average 
+2001,529,Good 
+2002,529,Very Good 
+2003,529,Legendary 
+2004,529,Excellent 
+2005,529,Poor 
+2006,530,Good 
+2007,530,Very Good 
+2008,530,Average 
+2009,531,Average 
+2010,531,Good 
+2011,531,Very Good 
+2012,532,Excellent 
+2013,532,Legendary 
+2014,532,Very Good 
+2015,533,Excellent 
+2016,533,Very Good 
+2017,533,Legendary 
+2018,533,Good 
+2019,534,Very Good 
+2020,534,Excellent 
+2021,534,Good 
+2022,534,Average 
+2023,535,Excellent 
+2024,535,Good 
+2025,535,Very Good 
+2026,535,Poor 
+2027,536,Good 
+2028,536,Very Good 
+2029,536,Legendary 
+2030,536,Excellent 
+2031,537,Average 
+2032,537,Excellent 
+2033,537,Legendary 
+2034,537,Very Good 
+2035,538,Good 
+2036,538,Very Good 
+2037,538,Legendary 
+2038,539,Good 
+2039,539,Excellent 
+2040,539,Poor 
+2041,539,Very Good 
+2042,539,Average 
+2043,540,Legendary 
+2044,541,Good 
+2045,541,Legendary 
+2046,541,Very Good 
+2047,541,Average 
+2048,541,Excellent 
+2049,542,Excellent 
+2050,542,Good 
+2051,543,Excellent 
+2052,543,Very Good 
+2053,544,Very Good 
+2054,544,Good 
+2055,544,Average 
+2056,544,Legendary 
+2057,545,Legendary 
+2058,545,Very Good 
+2059,545,Good 
+2060,545,Excellent 
+2061,545,Average 
+2062,545,Poor 
+2063,546,Very Good 
+2064,546,Legendary 
+2065,546,Average 
+2066,546,Good 
+2067,547,Poor 
+2068,547,Legendary 
+2069,547,Good 
+2070,547,Very Good 
+2071,547,Excellent 
+2072,548,Very Good 
+2073,548,Good 
+2074,549,Very Good 
+2075,550,Very Good 
+2076,550,Poor 
+2077,550,Good 
+2078,551,Very Good 
+2079,551,Excellent 
+2080,551,Legendary 
+2081,552,Legendary 
+2082,552,Very Good 
+2083,552,Excellent 
+2084,552,Good 
+2085,553,Very Good 
+2086,553,Excellent 
+2087,553,Good 
+2088,554,Excellent 
+2089,554,Very Good 
+2090,554,Average 
+2091,554,Poor 
+2092,555,Good 
+2093,555,Excellent 
+2094,555,Average 
+2095,555,Legendary 
+2096,555,Very Good 
+2097,556,Good 
+2098,556,Legendary 
+2099,557,Good 
+2100,557,Legendary 
+2101,557,Excellent 
+2102,557,Very Good 
+2103,557,Average 
+2104,558,Legendary 
+2105,558,Excellent 
+2106,558,Good 
+2107,558,Very Good 
+2108,559,Very Good 
+2109,559,Good 
+2110,559,Excellent 
+2111,560,Very Good 
+2112,560,Average 
+2113,561,Very Good 
+2114,561,Excellent 
+2115,561,Good 
+2116,562,Very Good 
+2117,562,Legendary 
+2118,562,Excellent 
+2119,562,Good 
+2120,562,Average 
+2121,563,Good 
+2122,563,Excellent 
+2123,563,Very Good 
+2124,564,Excellent 
+2125,564,Legendary 
+2126,565,Good 
+2127,565,Legendary 
+2128,565,Very Good 
+2129,565,Excellent 
+2130,566,Average 
+2131,566,Good 
+2132,566,Very Good 
+2133,566,Excellent 
+2134,567,Good 
+2135,567,Poor 
+2136,567,Very Good 
+2137,567,Average 
+2138,567,Excellent 
+2139,568,Average 
+2140,568,Good 
+2141,570,Very Good 
+2142,570,Good 
+2143,570,Excellent 
+2144,570,Poor 
+2145,571,Very Good 
+2146,571,Average 
+2147,572,Average 
+2148,572,Good 
+2149,572,Very Good 
+2150,572,Legendary 
+2151,573,Legendary 
+2152,573,Excellent 
+2153,574,Legendary 
+2154,574,Excellent 
+2155,575,Excellent 
+2156,575,Average 
+2157,575,Very Good 
+2158,575,Good 
+2159,576,Very Good 
+2160,576,Average 
+2161,576,Good 
+2162,577,Good 
+2163,577,Legendary 
+2164,577,Excellent 
+2165,577,Very Good 
+2166,578,Very Good 
+2167,578,Legendary 
+2168,578,Excellent 
+2169,579,Very Good 
+2170,580,Good 
+2171,580,Excellent 
+2172,581,Legendary 
+2173,581,Excellent 
+2174,581,Very Good 
+2175,582,Very Good 
+2176,582,Good 
+2177,582,Poor 
+2178,583,Poor 
+2179,583,Very Good 
+2180,584,Excellent 
+2181,584,Legendary 
+2182,584,Average 
+2183,584,Good 
+2184,584,Very Good 
+2185,584,Poor 
+2186,585,Excellent 
+2187,585,Legendary 
+2188,586,Very Good 
+2189,586,Poor 
+2190,586,Good 
+2191,587,Excellent 
+2192,588,Legendary 
+2193,588,Excellent 
+2194,588,Average 
+2195,588,Very Good 
+2196,589,Very Good 
+2197,589,Excellent 
+2198,589,Average 
+2199,590,Good 
+2200,590,Very Good 
+2201,591,Excellent 
+2202,591,Very Good 
+2203,591,Average 
+2204,591,Good 
+2205,592,Very Good 
+2206,592,Legendary 
+2207,593,Excellent 
+2208,594,Excellent 
+2209,594,Very Good 
+2210,595,Excellent 
+2211,595,Legendary 
+2212,595,Good 
+2213,595,Very Good 
+2214,596,Very Good 
+2215,596,Good 
+2216,596,Excellent 
+2217,596,Average 
+2218,597,Very Good 
+2219,597,Excellent 
+2220,598,Very Good 
+2221,598,Excellent 
+2222,598,Average 
+2223,598,Good 
+2224,598,Poor 
+2225,599,Good 
+2226,599,Legendary 
+2227,599,Average 
+2228,599,Excellent 
+2229,600,Good 
+2230,600,Very Good 
+2231,600,Average 
+2232,600,Legendary 
+2233,601,Average 
+2234,601,Good 
+2235,601,Legendary 
+2236,601,Very Good 
+2237,601,Excellent 
+2238,602,Excellent 
+2239,602,Good 
+2240,602,Very Good 
+2241,602,Poor 
+2242,603,Good 
+2243,603,Very Good 
+2244,603,Average 
+2245,603,Excellent 
+2246,604,Good 
+2247,604,Excellent 
+2248,604,Very Good 
+2249,605,Legendary 
+2250,606,Excellent 
+2251,606,Good 
+2252,606,Legendary 
+2253,606,Average 
+2254,607,Good 
+2255,607,Average 
+2256,607,Poor 
+2257,608,Legendary 
+2258,608,Poor 
+2259,609,Average 
+2260,609,Legendary 
+2261,609,Very Good 
+2262,609,Excellent 
+2263,609,Good 
+2264,609,Poor 
+2265,611,Excellent 
+2266,611,Very Good 
+2267,611,Legendary 
+2268,611,Good 
+2269,612,Good 
+2270,612,Very Good 
+2271,613,Very Good 
+2272,613,Good 
+2273,613,Average 
+2274,614,Excellent 
+2275,614,Average 
+2276,614,Legendary 
+2277,614,Very Good 
+2278,614,Good 
+2279,615,Good 
+2280,615,Average 
+2281,615,Very Good 
+2282,615,Excellent 
+2283,616,Excellent 
+2284,616,Very Good 
+2285,617,Excellent 
+2286,617,Good 
+2287,617,Legendary 
+2288,617,Very Good 
+2289,617,Average 
+2290,618,Very Good 
+2291,618,Excellent 
+2292,618,Legendary 
+2293,619,Very Good 
+2294,619,Legendary 
+2295,619,Good 
+2296,619,Excellent 
+2297,620,Excellent 
+2298,620,Average 
+2299,620,Very Good 
+2300,620,Legendary 
+2301,620,Poor 
+2302,620,Good 
+2303,621,Very Good 
+2304,621,Good 
+2305,621,Excellent 
+2306,621,Poor 
+2307,621,Legendary 
+2308,622,Average 
+2309,622,Very Good 
+2310,622,Legendary 
+2311,623,Very Good 
+2312,623,Legendary 
+2313,623,Excellent 
+2314,623,Poor 
+2315,623,Good 
+2316,624,Good 
+2317,624,Very Good 
+2318,624,Legendary 
+2319,624,Average 
+2320,625,Average 
+2321,625,Very Good 
+2322,621,Average 
+2323,626,Excellent 
+2324,626,Average 
+2325,627,Legendary 
+2326,627,Excellent 
+2327,628,Very Good 
+2328,628,Legendary 
+2329,628,Excellent 
+2330,628,Average 
+2331,628,Good 
+2332,629,Legendary 
+2333,629,Good 
+2334,629,Very Good 
+2335,630,Very Good 
+2336,630,Excellent 
+2337,631,Good 
+2338,631,Excellent 
+2339,631,Very Good 
+2340,632,Legendary 
+2341,632,Excellent 
+2342,632,Very Good 
+2343,633,Poor 
+2344,633,Very Good 
+2345,633,Good 
+2346,633,Legendary 
+2347,633,Average 
+2348,634,Very Good 
+2349,634,Good 
+2350,634,Average 
+2351,635,Good 
+2352,635,Excellent 
+2353,635,Average 
+2354,635,Legendary 
+2355,635,Very Good 
+2356,636,Good 
+2357,636,Very Good 
+2358,636,Legendary 
+2359,636,Average 
+2360,637,Very Good 
+2361,637,Good 
+2362,637,Average 
+2363,637,Legendary 
+2364,638,Good 
+2365,638,Excellent 
+2366,638,Very Good 
+2367,639,Very Good 
+2368,639,Good 
+2369,639,Excellent 
+2370,640,Good 
+2371,640,Legendary 
+2372,640,Poor 
+2373,641,Excellent 
+2374,641,Very Good 
+2375,641,Good 
+2376,642,Good 
+2377,642,Very Good 
+2378,643,Very Good 
+2379,643,Excellent 
+2380,643,Average 
+2381,644,Very Good 
+2382,644,Excellent 
+2383,645,Very Good 
+2384,645,Good 
+2385,645,Excellent 
+2386,645,Average 
+2387,646,Excellent 
+2388,646,Very Good 
+2389,646,Legendary 
+2390,647,Average 
+2391,647,Excellent 
+2392,647,Legendary 
+2393,648,Legendary 
+2394,648,Good 
+2395,648,Very Good 
+2396,648,Excellent 
+2397,649,Good 
+2398,649,Average 
+2399,649,Very Good 
+2400,649,Legendary 
+2401,649,Excellent 
+2402,650,Legendary 
+2403,650,Excellent 
+2404,650,Very Good 
+2405,651,Excellent 
+2406,651,Good 
+2407,651,Average 
+2408,651,Poor 
+2409,651,Very Good 
+2410,652,Very Good 
+2411,652,Excellent 
+2412,653,Excellent 
+2413,653,Very Good 
+2414,653,Good 
+2415,654,Very Good 
+2416,654,Excellent 
+2417,654,Legendary 
+2418,654,Good 
+2419,655,Poor 
+2420,655,Good 
+2421,655,Very Good 
+2422,655,Excellent 
+2423,655,Average 
+2424,656,Excellent 
+2425,656,Good 
+2426,656,Legendary 
+2427,657,Very Good 
+2428,657,Legendary 
+2429,657,Good 
+2430,657,Excellent 
+2431,657,Average 
+2432,658,Very Good 
+2433,658,Good 
+2434,658,Excellent 
+2435,658,Average 
+2436,659,Excellent 
+2437,659,Very Good 
+2438,659,Good 
+2439,660,Very Good 
+2440,660,Excellent 
+2441,660,Poor 
+2442,661,Excellent 
+2443,661,Good 
+2444,661,Average 
+2445,661,Poor 
+2446,661,Legendary 
+2447,662,Poor 
+2448,663,Legendary 
+2449,663,Excellent 
+2450,663,Very Good 
+2451,664,Legendary 
+2452,664,Very Good 
+2453,665,Excellent 
+2454,665,Legendary 
+2455,666,Good 
+2456,666,Very Good 
+2457,666,Legendary 
+2458,666,Excellent 
+2459,667,Very Good 
+2460,667,Legendary 
+2461,668,Legendary 
+2462,669,Very Good 
+2463,669,Average 
+2464,669,Good 
+2465,669,Poor 
+2466,670,Good 
+2467,670,Poor 
+2468,670,Very Good 
+2469,670,Legendary 
+2470,670,Excellent 
+2471,671,Very Good 
+2472,671,Average 
+2473,671,Good 
+2474,672,Very Good 
+2475,672,Poor 
+2476,672,Good 
+2477,672,Average 
+2478,673,Excellent 
+2479,673,Legendary 
+2480,673,Very Good 
+2481,673,Good 
+2482,674,Excellent 
+2483,674,Average 
+2484,674,Legendary 
+2485,675,Very Good 
+2486,675,Good 
+2487,675,Poor 
+2488,675,Average 
+2489,676,Poor 
+2490,676,Legendary 
+2491,676,Very Good 
+2492,676,Excellent 
+2493,677,Very Good 
+2494,677,Average 
+2495,677,Legendary 
+2496,678,Excellent 
+2497,679,Very Good 
+2498,679,Excellent 
+2499,682,Very Good 
+2500,682,Legendary 
+2501,683,Legendary 
+2502,683,Good 
+2503,683,Poor 
+2504,683,Excellent 
+2505,683,Very Good 
+2506,684,Good 
+2507,685,Average 
+2508,686,Poor 
+2509,686,Average 
+2510,686,Good 
+2511,687,Very Good 
+2512,687,Average 
+2513,688,Very Good 
+2514,688,Average 
+2515,688,Poor 
+2516,688,Excellent 
+2517,689,Good 
+2518,689,Average 
+2519,689,Poor 
+2520,689,Excellent 
+2521,690,Very Good 
+2522,690,Legendary 
+2523,690,Excellent 
+2524,691,Legendary 
+2525,691,Excellent 
+2526,691,Average 
+2527,691,Very Good 
+2528,692,Excellent 
+2529,692,Legendary 
+2530,692,Very Good 
+2531,693,Excellent 
+2532,693,Legendary 
+2533,693,Very Good 
+2534,693,Good 
+2535,693,Average 
+2536,694,Excellent 
+2537,694,Average 
+2538,695,Very Good 
+2539,695,Excellent 
+2540,695,Poor 
+2541,695,Average 
+2542,695,Good 
+2543,696,Good 
+2544,696,Excellent 
+2545,696,Legendary 
+2546,697,Excellent 
+2547,697,Very Good 
+2548,697,Poor 
+2549,697,Good 
+2550,697,Legendary 
+2551,697,Average 
+2552,698,Good 
+2553,698,Very Good 
+2554,698,Excellent 
+2555,699,Poor 
+2556,699,Excellent 
+2557,699,Average 
+2558,699,Very Good 
+2559,700,Average 
+2560,700,Poor 
+2561,700,Good 
+2562,700,Excellent 
+2563,700,Very Good 
+2564,701,Very Good 
+2565,701,Legendary 
+2566,701,Average 
+2567,701,Good 
+2568,701,Excellent 
+2569,702,Good 
+2570,702,Excellent 
+2571,702,Average 
+2572,702,Legendary 
+2573,703,Very Good 
+2574,704,Average 
+2575,704,Legendary 
+2576,704,Very Good 
+2577,704,Good 
+2578,704,Poor 
+2579,705,Legendary 
+2580,705,Excellent 
+2581,705,Very Good 
+2582,705,Good 
+2583,706,Average 
+2584,706,Poor 
+2585,706,Very Good 
+2586,706,Excellent 
+2587,706,Good 
+2588,707,Excellent 
+2589,707,Legendary 
+2590,707,Very Good 
+2591,708,Excellent 
+2592,708,Legendary 
+2593,709,Excellent 
+2594,709,Very Good 
+2595,709,Legendary 
+2596,710,Excellent 
+2597,710,Legendary 
+2598,711,Very Good 
+2599,711,Excellent 
+2600,712,Very Good 
+2601,712,Average 
+2602,712,Poor 
+2603,712,Excellent 
+2604,712,Good 
+2605,713,Very Good 
+2606,713,Good 
+2607,713,Excellent 
+2608,714,Average 
+2609,714,Excellent 
+2610,714,Good 
+2611,714,Legendary 
+2612,714,Very Good 
+2613,715,Very Good 
+2614,715,Legendary 
+2615,715,Excellent 
+2616,716,Poor 
+2617,716,Average 
+2618,716,Excellent 
+2619,716,Good 
+2620,717,Legendary 
+2621,717,Good 
+2622,717,Poor 
+2623,717,Very Good 
+2624,717,Average 
+2625,717,Excellent 
+2626,718,Very Good 
+2627,718,Excellent 
+2628,719,Very Good 
+2629,719,Average 
+2630,719,Good 
+2631,719,Poor 
+2632,720,Poor 
+2633,720,Excellent 
+2634,720,Legendary 
+2635,720,Good 
+2636,720,Average 
+2637,721,Excellent 
+2638,721,Very Good 
+2639,721,Legendary 
+2640,721,Good 
+2641,721,Poor 
+2642,722,Excellent 
+2643,722,Good 
+2644,722,Average 
+2645,723,Very Good 
+2646,723,Good 
+2647,723,Excellent 
+2648,723,Average 
+2649,724,Legendary 
+2650,724,Very Good 
+2651,724,Good 
+2652,724,Average 
+2653,725,Very Good 
+2654,725,Excellent 
+2655,725,Good 
+2656,726,Excellent 
+2657,726,Very Good 
+2658,726,Average 
+2659,726,Good 
+2660,726,Poor 
+2661,727,Good 
+2662,727,Very Good 
+2663,727,Legendary 
+2664,728,Very Good 
+2665,728,Legendary 
+2666,728,Good 
+2667,728,Excellent 
+2668,729,Very Good 
+2669,729,Legendary 
+2670,729,Average 
+2671,730,Very Good 
+2672,730,Legendary 
+2673,731,Very Good 
+2674,731,Legendary 
+2675,731,Excellent 
+2676,732,Good 
+2677,732,Very Good 
+2678,732,Excellent 
+2679,732,Poor 
+2680,733,Legendary 
+2681,733,Excellent 
+2682,733,Very Good 
+2683,733,Good 
+2684,733,Average 
+2685,734,Very Good 
+2686,734,Good 
+2687,735,Very Good 
+2688,735,Good 
+2689,735,Excellent 
+2690,735,Average 
+2691,735,Legendary 
+2692,736,Average 
+2693,736,Legendary 
+2694,736,Poor 
+2695,736,Good 
+2696,737,Very Good 
+2697,737,Legendary 
+2698,737,Excellent 
+2699,737,Good 
+2700,738,Good 
+2701,738,Very Good 
+2702,738,Legendary 
+2703,739,Legendary 
+2704,739,Excellent 
+2705,739,Very Good 
+2706,740,Very Good 
+2707,740,Legendary 
+2708,740,Excellent 
+2709,740,Good 
+2710,741,Legendary 
+2711,742,Very Good 
+2712,742,Legendary 
+2713,742,Good 
+2714,742,Average 
+2715,743,Very Good 
+2716,743,Good 
+2717,743,Excellent 
+2718,743,Legendary 
+2719,744,Excellent 
+2720,745,Very Good 
+2721,745,Legendary 
+2722,745,Excellent 
+2723,745,Good 
+2724,746,Excellent 
+2725,746,Very Good 
+2726,746,Good 
+2727,746,Poor 
+2728,747,Very Good 
+2729,748,Average 
+2730,748,Good 
+2731,748,Very Good 
+2732,748,Excellent 
+2733,749,Very Good 
+2734,749,Average 
+2735,749,Legendary 
+2736,749,Good 
+2737,749,Excellent 
+2738,750,Very Good 
+2739,750,Good 
+2740,750,Excellent 
+2741,751,Very Good 
+2742,751,Legendary 
+2743,752,Poor 
+2744,752,Excellent 
+2745,752,Legendary 
+2746,753,Excellent 
+2747,753,Good 
+2748,753,Very Good 
+2749,754,Excellent 
+2750,754,Very Good 
+2751,754,Good 
+2752,754,Legendary 
+2753,755,Very Good 
+2754,755,Good 
+2755,755,Legendary 
+2756,756,Legendary 
+2757,756,Very Good 
+2758,756,Excellent 
+2759,756,Average 
+2760,757,Average 
+2761,757,Poor 
+2762,757,Legendary 
+2763,757,Good 
+2764,757,Very Good 
+2765,758,Good 
+2766,758,Poor 
+2767,758,Average 
+2768,758,Excellent 
+2769,758,Very Good 
+2770,759,Legendary 
+2771,759,Very Good 
+2772,759,Average 
+2773,759,Good 
+2774,760,Very Good 
+2775,760,Excellent 
+2776,760,Good 
+2777,761,Very Good 
+2778,761,Average 
+2779,761,Legendary 
+2780,762,Very Good 
+2781,762,Good 
+2782,762,Average 
+2783,762,Legendary 
+2784,763,Very Good 
+2785,763,Average 
+2786,763,Poor 
+2787,763,Good 
+2788,763,Excellent 
+2789,764,Poor 
+2790,764,Very Good 
+2791,765,Legendary 
+2792,765,Average 
+2793,765,Very Good 
+2794,765,Excellent 
+2795,766,Good 
+2796,766,Excellent 
+2797,766,Legendary 
+2798,767,Good 
+2799,767,Legendary 
+2800,767,Very Good 
+2801,767,Excellent 
+2802,767,Average 
+2803,768,Very Good 
+2804,768,Excellent 
+2805,768,Good 
+2806,768,Poor 
+2807,769,Legendary 
+2808,769,Very Good 
+2809,769,Excellent 
+2810,770,Good 
+2811,770,Very Good 
+2812,770,Average 
+2813,770,Poor 
+2814,770,Excellent 
+2815,771,Very Good 
+2816,771,Excellent 
+2817,771,Legendary 
+2818,772,Legendary 
+2819,772,Excellent 
+2820,772,Good 
+2821,772,Very Good 
+2822,773,Excellent 
+2823,773,Very Good 
+2824,773,Good 
+2825,774,Legendary 
+2826,774,Very Good 
+2827,774,Excellent 
+2828,774,Good 
+2829,775,Very Good 
+2830,775,Excellent 
+2831,775,Legendary 
+2832,776,Very Good 
+2833,776,Legendary 
+2834,776,Average 
+2835,777,Average 
+2836,777,Good 
+2837,777,Excellent 
+2838,777,Very Good 
+2839,778,Average 
+2840,778,Very Good 
+2841,778,Good 
+2842,778,Excellent 
+2843,779,Very Good 
+2844,779,Excellent 
+2845,779,Poor 
+2846,779,Good 
+2847,780,Average 
+2848,780,Good 
+2849,780,Very Good 
+2850,780,Excellent 
+2851,780,Legendary 
+2852,781,Excellent 
+2853,781,Average 
+2854,781,Good 
+2855,781,Very Good 
+2856,782,Very Good 
+2857,782,Excellent 
+2858,782,Legendary 
+2859,782,Good 
+2860,782,Poor 
+2861,783,Very Good 
+2862,783,Excellent 
+2863,784,Legendary 
+2864,785,Legendary 
+2865,785,Excellent 
+2866,785,Poor 
+2867,785,Good 
+2868,785,Average 
+2869,785,Very Good 
+2870,786,Legendary 
+2871,786,Excellent 
+2872,786,Good 
+2873,786,Very Good 
+2874,787,Legendary 
+2875,788,Excellent 
+2876,788,Average 
+2877,788,Very Good 
+2878,788,Good 
+2879,788,Legendary 
+2880,789,Average 
+2881,789,Very Good 
+2882,789,Excellent 
+2883,789,Legendary 
+2884,790,Excellent 
+2885,790,Very Good 
+2886,790,Average 
+2887,790,Poor 
+2888,790,Good 
+2889,791,Good 
+2890,791,Very Good 
+2891,791,Excellent 
+2892,791,Legendary 
+2893,792,Legendary 
+2894,792,Excellent 
+2895,793,Legendary 
+2896,793,Very Good 
+2897,793,Excellent 
+2898,793,Good 
+2899,794,Very Good 
+2900,794,Good 
+2901,795,Good 
+2902,795,Very Good 
+2903,795,Poor 
+2904,795,Average 
+2905,795,Legendary 
+2906,796,Excellent 
+2907,796,Good 
+2908,796,Very Good 
+2909,798,Good 
+2910,798,Very Good 
+2911,798,Average 
+2912,798,Excellent 
+2913,799,Legendary 
+2914,799,Excellent 
+2915,799,Very Good 
+2916,800,Very Good 
+2917,800,Legendary 
+2918,800,Excellent 
+2919,800,Poor 
+2920,801,Excellent 
+2921,801,Legendary 
+2922,801,Good 
+2923,801,Very Good 
+2924,802,Very Good 
+2925,802,Average 
+2926,802,Good 
+2927,802,Legendary 
+2928,803,Very Good 
+2929,803,Legendary 
+2930,803,Excellent 
+2931,803,Average 
+2932,804,Good 
+2933,804,Average 
+2934,804,Very Good 
+2935,805,Excellent 
+2936,805,Very Good 
+2937,805,Legendary 
+2938,805,Good 
+2939,806,Very Good 
+2940,806,Good 
+2941,806,Poor 
+2942,806,Excellent 
+2943,806,Average 
+2944,807,Good 
+2945,807,Excellent 
+2946,807,Very Good 
+2947,807,Average 
+2948,808,Very Good 
+2949,808,Excellent 
+2950,808,Legendary 
+2951,808,Poor 
+2952,808,Good 
+2953,809,Legendary 
+2954,809,Very Good 
+2955,809,Excellent 
+2956,809,Poor 
+2957,810,Average 
+2958,810,Good 
+2959,810,Very Good 
+2960,810,Poor 
+2961,811,Good 
+2962,811,Very Good 
+2963,811,Poor 
+2964,811,Legendary 
+2965,812,Very Good 
+2966,812,Legendary 
+2967,812,Excellent 
+2968,813,Good 
+2969,813,Legendary 
+2970,813,Excellent 
+2971,813,Average 
+2972,814,Good 
+2973,814,Very Good 
+2974,814,Average 
+2975,815,Legendary 
+2976,815,Excellent 
+2977,815,Very Good 
+2978,816,Legendary 
+2979,817,Very Good 
+2980,817,Excellent 
+2981,817,Good 
+2982,817,Poor 
+2983,818,Very Good 
+2984,818,Good 
+2985,818,Excellent 
+2986,818,Legendary 
+2987,819,Good 
+2988,819,Excellent 
+2989,819,Poor 
+2990,819,Average 
+2991,819,Very Good 
+2992,820,Excellent 
+2993,820,Legendary 
+2994,820,Poor 
+2995,820,Very Good 
+2996,820,Average 
+2997,821,Legendary 
+2998,821,Excellent 
+2999,822,Excellent 
+3000,822,Legendary 
+3001,822,Good 
+3002,822,Very Good 
+3003,823,Excellent 
+3004,823,Very Good 
+3005,823,Good 
+3006,824,Good 
+3007,824,Legendary 
+3008,824,Excellent 
+3009,824,Very Good 
+3010,825,Excellent 
+3011,825,Average 
+3012,825,Good 
+3013,825,Very Good 
+3014,825,Legendary 
+3015,826,Good 
+3016,826,Excellent 
+3017,826,Legendary 
+3018,826,Poor 
+3019,827,Good 
+3020,827,Very Good 
+3021,827,Average 
+3022,827,Excellent 
+3023,827,Legendary 
+3024,828,Very Good 
+3025,828,Legendary 
+3026,828,Excellent 
+3027,828,Average 
+3028,829,Very Good 
+3029,829,Excellent 
+3030,829,Good 
+3031,829,Legendary 
+3032,830,Poor 
+3033,830,Very Good 
+3034,830,Excellent 
+3035,831,Excellent 
+3036,831,Legendary 
+3037,831,Average 
+3038,831,Good 
+3039,832,Legendary 
+3040,833,Good 
+3041,833,Legendary 
+3042,834,Average 
+3043,834,Good 
+3044,834,Excellent 
+3045,834,Legendary 
+3046,834,Poor 
+3047,834,Very Good 
+3048,835,Very Good 
+3049,836,Good 
+3050,836,Excellent 
+3051,836,Legendary 
+3052,836,Very Good 
+3053,837,Poor 
+3054,837,Very Good 
+3055,837,Legendary 
+3056,837,Excellent 
+3057,837,Average 
+3058,837,Good 
+3059,838,Very Good 
+3060,838,Legendary 
+3061,838,Excellent 
+3062,838,Average 
+3063,839,Poor 
+3064,839,Legendary 
+3065,839,Good 
+3066,839,Average 
+3067,839,Very Good 
+3068,840,Very Good 
+3069,840,Average 
+3070,840,Legendary 
+3071,840,Good 
+3072,840,Excellent 
+3073,841,Very Good 
+3074,841,Legendary 
+3075,841,Excellent 
+3076,841,Poor 
+3077,842,Excellent 
+3078,842,Very Good 
+3079,842,Legendary 
+3080,842,Good 
+3081,843,Legendary 
+3082,843,Excellent 
+3083,844,Excellent 
+3084,844,Legendary 
+3085,844,Very Good 
+3086,844,Good 
+3087,845,Excellent 
+3088,845,Very Good 
+3089,845,Good 
+3090,846,Legendary 
+3091,846,Good 
+3092,847,Excellent 
+3093,847,Very Good 
+3094,848,Good 
+3095,850,Good 
+3096,850,Legendary 
+3097,852,Very Good 
+3098,852,Excellent 
+3099,852,Good 
+3100,852,Legendary 
+3101,856,Good 
+3102,856,Very Good 
+3103,856,Excellent 
+3104,857,Legendary 
+3105,858,Very Good 
+3106,858,Poor 
+3107,858,Good 
+3108,858,Excellent 
+3109,859,Legendary 
+3110,859,Excellent 
+3111,860,Average 
+3112,860,Legendary 
+3113,860,Very Good 
+3114,860,Good 
+3115,860,Excellent 
+3116,861,Very Good 
+3117,861,Average 
+3118,861,Good 
+3119,862,Poor 
+3120,862,Legendary 
+3121,862,Excellent 
+3122,863,Legendary 
+3123,864,Very Good 
+3124,864,Legendary 
+3125,864,Excellent 
+3126,865,Very Good 
+3127,865,Excellent 
+3128,865,Average 
+3129,865,Legendary 
+3130,866,Excellent 
+3131,866,Very Good 
+3132,866,Average 
+3133,867,Very Good 
+3134,867,Legendary 
+3135,867,Good 
+3136,867,Excellent 
+3137,867,Poor 
+3138,867,Average 
+3139,868,Excellent 
+3140,868,Legendary 
+3141,868,Very Good 
+3142,868,Average 
+3143,869,Excellent 
+3144,869,Very Good 
+3145,869,Legendary 
+3146,869,Good 
+3147,870,Average 
+3148,870,Very Good 
+3149,870,Excellent 
+3150,870,Legendary 
+3151,870,Good 
+3152,871,Legendary 
+3153,871,Very Good 
+3154,871,Excellent 
+3155,871,Good 
+3156,871,Poor 
+3157,871,Average 
+3158,872,Legendary 
+3159,872,Good 
+3160,872,Very Good 
+3161,873,Good 
+3162,873,Legendary 
+3163,873,Average 
+3164,873,Poor 
+3165,873,Excellent 
+3166,874,Very Good 
+3167,874,Good 
+3168,874,Average 
+3169,875,Good 
+3170,875,Very Good 
+3171,875,Poor 
+3172,876,Very Good 
+3173,876,Excellent 
+3174,877,Good 
+3175,877,Excellent 
+3176,877,Very Good 
+3177,877,Legendary 
+3178,878,Very Good 
+3179,878,Average 
+3180,879,Very Good 
+3181,879,Excellent 
+3182,880,Average 
+3183,880,Good 
+3184,880,Very Good 
+3185,881,Excellent 
+3186,881,Very Good 
+3187,881,Legendary 
+3188,884,Very Good 
+3189,884,Average 
+3190,884,Good 
+3191,884,Excellent 
+3192,885,Very Good 
+3193,885,Poor 
+3194,885,Legendary 
+3195,886,Average 
+3196,886,Very Good 
+3197,886,Good 
+3198,886,Excellent 
+3199,886,Poor 
+3200,886,Legendary 
+3201,887,Excellent 
+3202,887,Good 
+3203,887,Average 
+3204,887,Very Good 
+3205,888,Good 
+3206,888,Very Good 
+3207,888,Average 
+3208,888,Poor 
+3209,889,Good 
+3210,889,Average 
+3211,889,Legendary 
+3212,889,Excellent 
+3213,890,Legendary 
+3214,890,Excellent 
+3215,890,Good 
+3216,891,Excellent 
+3217,891,Very Good 
+3218,892,Very Good 
+3219,892,Legendary 
+3220,892,Excellent 
+3221,893,Very Good 
+3222,893,Good 
+3223,893,Legendary 
+3224,893,Excellent 
+3225,893,Average 
+3226,894,Very Good 
+3227,895,Very Good 
+3228,895,Average 
+3229,895,Legendary 
+3230,895,Poor 
+3231,895,Good 
+3232,895,Excellent 
+3233,896,Very Good 
+3234,896,Average 
+3235,897,Good 
+3236,897,Average 
+3237,897,Poor 
+3238,898,Very Good 
+3239,898,Excellent 
+3240,898,Poor 
+3241,898,Average 
+3242,898,Good 
+3243,900,Excellent 
+3244,900,Legendary 
+3245,900,Good 
+3246,901,Good 
+3247,901,Very Good 
+3248,901,Excellent 
+3249,901,Legendary 
+3250,902,Very Good 
+3251,902,Legendary 
+3252,902,Good 
+3253,902,Excellent 
+3254,903,Very Good 
+3255,903,Legendary 
+3256,903,Average 
+3257,903,Excellent 
+3258,903,Poor 
+3259,903,Good 
+3260,904,Good 
+3261,904,Excellent 
+3262,904,Very Good 
+3263,904,Legendary 
+3264,905,Excellent 
+3265,905,Very Good 
+3266,905,Legendary 
+3267,905,Good 
+3268,906,Good 
+3269,906,Legendary 
+3270,906,Average 
+3271,906,Excellent 
+3272,906,Very Good 
+3273,907,Good 
+3274,907,Very Good 
+3275,907,Excellent 
+3276,908,Average 
+3277,908,Very Good 
+3278,908,Good 
+3279,908,Excellent 
+3280,909,Excellent 
+3281,909,Very Good 
+3282,909,Good 
+3283,909,Legendary 
+3284,910,Excellent 
+3285,910,Very Good 
+3286,910,Legendary 
+3287,910,Poor 
+3288,910,Good 
+3289,911,Very Good 
+3290,911,Excellent 
+3291,911,Average 
+3292,912,Very Good 
+3293,912,Excellent 
+3294,912,Good 
+3295,912,Average 
+3296,913,Very Good 
+3297,913,Average 
+3298,913,Excellent 
+3299,913,Poor 
+3300,914,Very Good 
+3301,914,Average 
+3302,915,Average 
+3303,915,Very Good 
+3304,915,Good 
+3305,915,Excellent 
+3306,916,Good 
+3307,916,Very Good 
+3308,916,Excellent 
+3309,916,Average 
+3310,917,Excellent 
+3311,917,Very Good 
+3312,917,Average 
+3313,917,Legendary 
+3314,917,Poor 
+3315,918,Excellent 
+3316,919,Legendary 
+3317,919,Poor 
+3318,919,Average 
+3319,920,Excellent 
+3320,920,Very Good 
+3321,920,Good 
+3322,921,Very Good 
+3323,921,Legendary 
+3324,921,Good 
+3325,921,Excellent 
+3326,922,Good 
+3327,922,Poor 
+3328,922,Very Good 
+3329,922,Excellent 
+3330,922,Legendary 
+3331,922,Average 
+3332,923,Very Good 
+3333,923,Average 
+3334,923,Good 
+3335,924,Very Good 
+3336,924,Excellent 
+3337,924,Good 
+3338,925,Very Good 
+3339,925,Poor 
+3340,925,Good 
+3341,925,Legendary 
+3342,925,Excellent 
+3343,925,Average 
+3344,926,Very Good 
+3345,926,Excellent 
+3346,926,Good 
+3347,928,Legendary 
+3348,928,Very Good 
+3349,928,Excellent 
+3350,928,Good 
+3351,928,Average 
+3352,929,Legendary 
+3353,929,Excellent 
+3354,931,Good 
+3355,931,Excellent 
+3356,931,Poor 
+3357,932,Very Good 
+3358,932,Poor 
+3359,932,Good 
+3360,932,Legendary 
+3361,933,Good 
+3362,933,Average 
+3363,933,Very Good 
+3364,933,Excellent 
+3365,933,Legendary 
+3366,934,Good 
+3367,934,Average 
+3368,934,Legendary 
+3369,934,Very Good 
+3370,934,Poor 
+3371,935,Legendary 
+3372,935,Very Good 
+3373,935,Excellent 
+3374,935,Good 
+3375,936,Very Good 
+3376,936,Average 
+3377,936,Legendary 
+3378,936,Good 
+3379,936,Excellent 
+3380,937,Excellent 
+3381,937,Very Good 
+3382,937,Good 
+3383,937,Legendary 
+3384,938,Legendary 
+3385,938,Average 
+3386,938,Excellent 
+3387,938,Good 
+3388,938,Very Good 
+3389,939,Very Good 
+3390,939,Good 
+3391,939,Average 
+3392,939,Poor 
+3393,940,Legendary 
+3394,940,Excellent 
+3395,940,Good 
+3396,940,Average 
+3397,942,Average 
+3398,942,Very Good 
+3399,942,Excellent 
+3400,942,Good 
+3401,943,Very Good 
+3402,943,Excellent 
+3403,943,Average 
+3404,944,Good 
+3405,944,Average 
+3406,944,Poor 
+3407,945,Excellent 
+3408,945,Good 
+3409,945,Very Good 
+3410,945,Average 
+3411,946,Legendary 
+3412,946,Excellent 
+3413,946,Very Good 
+3414,946,Good 
+3415,947,Very Good 
+3416,947,Poor 
+3417,947,Legendary 
+3418,947,Excellent 
+3419,948,Good 
+3420,948,Very Good 
+3421,948,Average 
+3422,948,Excellent 
+3423,949,Very Good 
+3424,949,Excellent 
+3425,949,Average 
+3426,949,Good 
+3427,950,Excellent 
+3428,950,Poor 
+3429,950,Good 
+3430,950,Very Good 
+3431,951,Good 
+3432,951,Excellent 
+3433,951,Average 
+3434,951,Very Good 
+3435,952,Good 
+3436,952,Average 
+3437,952,Excellent 
+3438,952,Very Good 
+3439,952,Legendary 
+3440,953,Very Good 
+3441,953,Good 
+3442,953,Average 
+3443,953,Excellent 
+3444,954,Average 
+3445,954,Very Good 
+3446,954,Excellent 
+3447,955,Poor 
+3448,955,Very Good 
+3449,955,Excellent 
+3450,955,Legendary 
+3451,955,Good 
+3452,956,Legendary 
+3453,956,Excellent 
+3454,956,Average 
+3455,956,Good 
+3456,956,Very Good 
+3457,957,Good 
+3458,957,Excellent 
+3459,957,Poor 
+3460,957,Very Good 
+3461,957,Legendary 
+3462,958,Very Good 
+3463,958,Legendary 
+3464,959,Poor 
+3465,959,Excellent 
+3466,959,Legendary 
+3467,959,Very Good 
+3468,960,Very Good 
+3469,960,Excellent 
+3470,961,Very Good 
+3471,961,Poor 
+3472,961,Good 
+3473,961,Average 
+3474,961,Excellent 
+3475,962,Excellent 
+3476,962,Average 
+3477,962,Good 
+3478,962,Very Good 
+3479,962,Legendary 
+3480,963,Good 
+3481,963,Very Good 
+3482,963,Poor 
+3483,963,Average 
+3484,963,Excellent 
+3485,964,Legendary 
+3486,964,Excellent 
+3487,964,Very Good 
+3488,964,Good 
+3489,965,Good 
+3490,965,Very Good 
+3491,966,Average 
+3492,966,Very Good 
+3493,966,Excellent 
+3494,966,Good 
+3495,967,Excellent 
+3496,967,Very Good 
+3497,967,Legendary 
+3498,967,Poor 
+3499,967,Good 
+3500,968,Good 
+3501,968,Very Good 
+3502,968,Average 
+3503,969,Very Good 
+3504,969,Excellent 
+3505,971,Very Good 
+3506,971,Excellent 
+3507,971,Good 
+3508,972,Good 
+3509,972,Excellent 
+3510,973,Legendary 
+3511,974,Average 
+3512,974,Excellent 
+3513,974,Legendary 
+3514,974,Good 
+3515,975,Very Good 
+3516,976,Excellent 
+3517,976,Legendary 
+3518,976,Very Good 
+3519,977,Very Good 
+3520,977,Excellent 
+3521,977,Average 
+3522,977,Good 
+3523,978,Excellent 
+3524,978,Average 
+3525,978,Very Good 
+3526,979,Excellent 
+3527,979,Average 
+3528,979,Very Good 
+3529,980,Good 
+3530,980,Very Good 
+3531,980,Excellent 
+3532,980,Legendary 
+3533,980,Poor 
+3534,981,Very Good 
+3535,981,Legendary 
+3536,981,Excellent 
+3537,981,Good 
+3538,982,Very Good 
+3539,982,Legendary 
+3540,982,Good 
+3541,983,Good 
+3542,983,Average 
+3543,983,Excellent 
+3544,983,Very Good 
+3545,984,Very Good 
+3546,984,Good 
+3547,984,Excellent 
+3548,984,Average 
+3549,985,Excellent 
+3550,985,Legendary 
+3551,985,Very Good 
+3552,986,Good 
+3553,986,Legendary 
+3554,986,Average 
+3555,986,Excellent 
+3556,987,Very Good 
+3557,988,Legendary 
+3558,988,Excellent 
+3559,988,Average 
+3560,988,Good 
+3561,988,Very Good 
+3562,989,Legendary 
+3563,989,Good 
+3564,989,Very Good 
+3565,989,Excellent 
+3566,989,Average 
+3567,990,Poor 
+3568,990,Excellent 
+3569,990,Very Good 
+3570,990,Legendary 
+3571,991,Excellent 
+3572,991,Good 
+3573,991,Legendary 
+3574,991,Average 
+3575,992,Average 
+3576,992,Excellent 
+3577,992,Very Good 
+3578,992,Poor 
+3579,993,Very Good 
+3580,993,Excellent 
+3581,993,Good 
+3582,994,Excellent 
+3583,994,Very Good 
+3584,995,Very Good 
+3585,995,Good 
+3586,996,Average 
+3587,996,Very Good 
+3588,996,Good 
+3589,996,Poor 
+3590,997,Excellent 
+3591,997,Average 
+3592,997,Legendary 
+3593,998,Very Good 
+3594,998,Average 
+3595,998,Poor 
+3596,998,Excellent 
+3597,998,Good 
+3598,999,Legendary 
+3599,999,Average 
+3600,1001,Very Good 
+3601,1001,Excellent 
+3602,1001,Average 
+3603,1002,Good 
+3604,1002,Very Good 
+3605,1002,Average 
+3606,1003,Legendary 
+3607,1003,Good 
+3608,1003,Excellent 
+3609,1003,Very Good 
+3610,1003,Average 
+3611,1004,Very Good 
+3612,1004,Excellent 
+3613,1004,Legendary 
+3614,1005,Good 
+3615,1005,Very Good 
+3616,1005,Excellent 
+3617,1005,Average 
+3618,1006,Legendary 
+3619,1006,Good 
+3620,1006,Very Good 
+3621,1006,Excellent 
+3622,1006,Average 
+3623,1007,Poor 
+3624,1007,Average 
+3625,1007,Good 
+3626,1007,Very Good 
+3627,1008,Good 
+3628,1008,Very Good 
+3629,1011,Excellent 
+3630,1011,Good 
+3631,1011,Average 
+3632,1011,Very Good 
+3633,1012,Very Good 
+3634,1012,Legendary 
+3635,1012,Good 
+3636,1012,Average 
+3637,1013,Good 
+3638,1013,Very Good 
+3639,1013,Excellent 
+3640,1013,Legendary 
+3641,1014,Very Good 
+3642,1014,Legendary 
+3643,1014,Good 
+3644,1014,Excellent 
+3645,1015,Legendary 
+3646,1015,Average 
+3647,1015,Excellent 
+3648,1015,Very Good 
+3649,1016,Very Good 
+3650,1016,Excellent 
+3651,1016,Average 
+3652,1016,Good 
+3653,1016,Legendary 
+3654,1017,Good 
+3655,1017,Very Good 
+3656,1017,Poor 
+3657,1017,Excellent 
+3658,1018,Average 
+3659,1018,Poor 
+3660,1018,Excellent 
+3661,1018,Very Good 
+3662,1019,Good 
+3663,1019,Very Good 
+3664,1020,Very Good 
+3665,1020,Good 
+3666,1020,Excellent 
+3667,1021,Very Good 
+3668,1021,Excellent 
+3669,1022,Legendary 
+3670,1022,Very Good 
+3671,1023,Legendary 
+3672,1023,Excellent 
+3673,1023,Good 
+3674,1023,Very Good 
+3675,1024,Good 
+3676,1024,Excellent 
+3677,1025,Very Good 
+3678,1025,Excellent 
+3679,1025,Average 
+3680,1025,Poor 
+3681,1026,Average 
+3682,1026,Very Good 
+3683,1026,Good 
+3684,1026,Excellent 
+3685,1027,Excellent 
+3686,1027,Very Good 
+3687,1027,Average 
+3688,1027,Poor 
+3689,1027,Legendary 
+3690,1028,Very Good 
+3691,1028,Legendary 
+3692,1028,Good 
+3693,1028,Excellent 
+3694,1030,Legendary 
+3695,1030,Excellent 
+3696,1030,Good 
+3697,1030,Average 
+3698,1031,Poor 
+3699,1033,Excellent 
+3700,1034,Excellent 
+3701,1034,Very Good 
+3702,1034,Good 
+3703,1034,Legendary 

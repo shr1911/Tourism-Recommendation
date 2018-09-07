@@ -1,0 +1,140 @@
+{% load bootstrap3 %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Home</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  
+  * Remove the jumbotron's default bottom margin */ 
+     .jumbotron {
+      margin-bottom: 0px;
+    }
+  
+#top-jumbo {
+    margin-bottom: 0px;
+}
+   
+    /* Add a gray background color and some padding to the footer */
+
+  
+  
+.navbar {
+    overflow: block;
+    background-color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+  text-color:black;
+  margin-top: 0
+}
+
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 0px;
+    margin-right: 200px;
+    font-size: 17px;
+  text-color:black;
+}
+
+
+footer {
+   position: fixed; 
+   left: 0;
+   bottom: 0;
+   margin-top: 35px;
+   width: 100%;
+   height: 40px;
+   background-color:#666666; ;
+   color: white;
+   text-align: center;
+}
+
+.col-container {
+    display: table;
+    width: 100%;
+}
+.col {
+    display: table-cell;
+    padding: 16px;
+}
+
+a:link {
+    color: black;
+}
+
+
+  </style>
+</head>
+<body>
+
+<div id="top-jumbo" style="background:#e6e6e6 !important" class="jumbotron">
+  <div class="container text-center">
+    <h1><strong> Tourism Recommendation System</strong></h1>      
+    <p>Mission, Vision & Values</p>
+  </div>
+</div>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse">
+    <ul class="nav navbar-nav">
+      <li><a href="#" style="color:#e6e6e6;">HOME</a></li>
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" style="color:#333333;"><strong>FOOD</strong><span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul>
+      </li>
+      
+  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" style="color:#333333;"><strong>HOTEL</strong><span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul>
+      </li>
+
+  <li><a href="#" style="color:#333333;"><strong>TIME BASED</strong></a></li>
+  <li><a href="#" style="color:#333333;"><strong>CONTACT US</strong></a></li>
+
+  <li><div class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" style="color:#333333;"><strong>SETTINGS</strong><span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul></div>
+      </li>
+   </ul>
+
+<ul class="nav navbar-nav navbar-right">
+<li><a href="#" style="color:#333333;"><span class="glyphicon glyphicon-user" ></span> <strong>Sign Up</strong></a></li>
+      <li style="align:right;"><a href="#" style="color:#333333;"><span class="glyphicon glyphicon-log-in"></span><strong> Login</strong></a></li>
+    </ul>
+  
+</div>
+<!-- <input type="text" placeholder="Search.."> -->
+ </div>
+</nav>
+
+<footer> </footer>
+
+
+</body>
+</html>

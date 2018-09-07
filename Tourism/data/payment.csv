@@ -1,0 +1,2101 @@
+id,rid, payment
+0,0,Cash
+1,0,Cards accepted
+2,1,Cash
+3,1,Cards accepted
+4,2,Cash
+5,2,Cards accepted
+6,3,Cash
+7,3,Cards
+8,3,Meal Coupons accepted
+9,3,Wallet accepted
+10,4,Cash
+11,4,Cards accepted
+12,5,Cash
+13,5,Cards accepted
+14,6,Cash
+15,6,Cards accepted
+16,7,Cash
+17,7,Cards accepted
+18,8,Cash
+19,8,Cards accepted
+20,9,Cash
+21,9,Cards accepted
+22,10,Cash
+23,10,Cards accepted
+24,11,Cash
+25,11,Cards accepted
+26,12,Cash
+27,12,Cards accepted
+28,13,Cash
+29,13,Cards accepted
+30,13,Wallet accepted
+31,14,Cash
+32,14,Cards accepted
+33,15,Cash
+34,15,Cards accepted
+35,16,Cash
+36,16,Cards accepted
+37,17,Cash
+38,17,Cards accepted
+39,18,Cash
+40,18,Cards accepted
+41,19,Cash
+42,19,Cards accepted
+43,20,Cash
+44,20,Cards accepted
+45,20,Wallet accepted
+46,21,Cash
+47,21,Cards accepted
+48,22,Cash
+49,22,Cards accepted
+50,23,Cash
+51,23,Cards accepted
+52,24,Cash
+53,24,Cards accepted
+54,25,Cash
+55,25,Cards accepted
+56,26,Cash
+57,26,Cards accepted
+58,27,Cash
+59,27,Cards accepted
+60,28,Cash
+61,28,Cards accepted
+62,28,Wallet accepted
+63,29,Cash
+64,29,Cards accepted
+65,30,Cash
+66,30,Cards accepted
+67,31,Cash
+68,31,Cards accepted
+69,32,Cash
+70,32,Cards accepted
+71,33,Cash
+72,33,Cards accepted
+73,34,Cards only
+74,35,Cash
+75,35,Cards accepted
+76,36,Cash
+77,36,Cards accepted
+78,37,Cash
+79,37,Cards accepted
+80,38,Cash
+81,38,Cards accepted
+82,38,Wallet accepted
+83,39,Cash
+84,39,Cards accepted
+85,40,Cash
+86,40,Cards accepted
+87,41,Cash
+88,41,Cards accepted
+89,41,Wallet accepted
+90,42,Cash
+91,42,Cards accepted
+92,43,Cash
+93,43,Cards accepted
+94,44,Cash
+95,44,Cards accepted
+96,45,Cash
+97,45,Cards accepted
+98,46,Cash
+99,46,Cards accepted
+100,47,Cash only
+101,48,Cash
+102,48,Cards accepted
+103,49,Cash
+104,49,Cards accepted
+105,50,Cash
+106,50,Cards accepted
+107,51,Cash
+108,51,Cards accepted
+109,52,Cash
+110,52,Cards accepted
+111,53,Cash
+112,53,Cards accepted
+113,54,Cash
+114,54,Cards accepted
+115,55,Cash
+116,55,Cards accepted
+117,56,Cash
+118,56,Cards accepted
+119,57,Cash
+120,57,Cards accepted
+121,57,Wallet accepted
+122,58,Cash
+123,58,Cards accepted
+124,59,Cash
+125,59,Cards accepted
+126,60,Cash
+127,60,Cards accepted
+128,61,Cash
+129,61,Cards accepted
+130,62,Cash
+131,62,Cards accepted
+132,63,Cash
+133,63,Cards accepted
+134,64,Cash
+135,64,Cards accepted
+136,65,Cash
+137,65,Cards accepted
+138,66,Cash
+139,66,Cards accepted
+140,67,Cash
+141,67,Cards accepted
+142,68,Cash
+143,68,Cards accepted
+144,69,Cash only
+145,70,Cash
+146,70,Cards accepted
+147,71,Cash
+148,71,Cards accepted
+149,72,Cash
+150,72,Cards accepted
+151,72,Wallet accepted
+152,73,Cash
+153,73,Cards accepted
+154,74,Cash
+155,74,Cards accepted
+156,75,Cash
+157,75,Cards accepted
+158,76,Cash
+159,76,Cards accepted
+160,77,Cash
+161,77,Cards accepted
+162,78,Cash
+163,78,Cards accepted
+164,79,Cash
+165,79,Cards accepted
+166,80,Cash
+167,80,Cards accepted
+168,81,Cash
+169,81,Cards accepted
+170,81,Wallet accepted
+171,82,Cash
+172,82,Cards accepted
+173,83,Cash
+174,83,Cards accepted
+175,84,Cash
+176,84,Cards accepted
+177,85,Cash only
+178,86,Cash
+179,86,Cards accepted
+180,87,Cash
+181,87,Cards accepted
+182,87,Wallet accepted
+183,88,Cash
+184,88,Cards accepted
+185,89,Cash
+186,89,Cards accepted
+187,90,Cash
+188,90,Cards accepted
+189,90,Wallet accepted
+190,91,Cash
+191,91,Cards accepted
+192,92,Cash
+193,92,Cards accepted
+194,93,Cash
+195,93,Cards accepted
+196,94,Cash
+197,94,Cards accepted
+198,94,Wallet accepted
+199,95,Cash
+200,95,Cards accepted
+201,96,Cash
+202,96,Cards accepted
+203,96,Wallet accepted
+204,97,Cash
+205,97,Cards accepted
+206,97,Wallet accepted
+207,98,Cash
+208,98,Cards accepted
+209,99,Cash only
+210,100,Cash
+211,100,Cards accepted
+212,101,Cash
+213,101,Cards accepted
+214,102,Cash
+215,102,Cards accepted
+216,103,Cash
+217,103,Cards accepted
+218,104,Cash
+219,104,Cards
+220,104,Meal Coupons accepted
+221,104,Wallet accepted
+222,105,Cash
+223,105,Cards accepted
+224,106,Cash
+225,106,Cards accepted
+226,107,Cash
+227,107,Cards accepted
+228,108,Cards only
+229,109,Cash
+230,109,Cards accepted
+231,110,Cash
+232,110,Cards accepted
+233,111,Cash
+234,111,Cards accepted
+235,112,Cash
+236,112,Cards accepted
+237,112,Wallet accepted
+238,113,Cash
+239,113,Cards accepted
+240,114,Cash
+241,114,Cards accepted
+242,116,Cash
+243,116,Cards accepted
+244,117,Cash
+245,117,Cards accepted
+246,118,Cash
+247,118,Cards accepted
+248,119,Cash
+249,119,Cards accepted
+250,120,Cash
+251,120,Cards accepted
+252,121,Cash
+253,121,Cards accepted
+254,122,Cash
+255,122,Cards accepted
+256,123,Cash
+257,123,Cards accepted
+258,124,Cash
+259,124,Cards accepted
+260,125,Cash
+261,125,Cards accepted
+262,126,Cash
+263,126,Cards accepted
+264,127,Cash
+265,127,Cards accepted
+266,127,Wallet accepted
+267,128,Cash
+268,128,Cards accepted
+269,129,Cash
+270,129,Cards accepted
+271,130,Cash
+272,130,Cards accepted
+273,131,Cash
+274,131,Cards accepted
+275,132,Cash
+276,132,Cards accepted
+277,133,Cash
+278,133,Cards accepted
+279,134,Cash
+280,134,Cards
+281,134,Meal Coupons accepted
+282,135,Cash
+283,135,Cards accepted
+284,136,Cash only
+285,137,Cash
+286,137,Cards accepted
+287,137,Wallet accepted
+288,138,Cash
+289,138,Cards accepted
+290,139,Cash
+291,139,Cards accepted
+292,140,Cash
+293,140,Cards accepted
+294,141,Cash
+295,141,Cards accepted
+296,142,Cash
+297,142,Cards accepted
+298,143,Cash
+299,143,Cards accepted
+300,144,Cash
+301,144,Cards accepted
+302,145,Cash
+303,145,Cards accepted
+304,146,Cash
+305,146,Cards accepted
+306,147,Cash
+307,147,Cards accepted
+308,148,Cash
+309,148,Cards accepted
+310,149,Cash
+311,149,Cards accepted
+312,150,Cash
+313,150,Cards accepted
+314,151,Cash
+315,151,Cards accepted
+316,152,Cash
+317,152,Meal Coupons accepted
+318,152,Wallet accepted
+319,153,Cash
+320,153,Cards accepted
+321,154,Cash
+322,154,Cards accepted
+323,155,Cash
+324,155,Cards accepted
+325,156,Cash
+326,156,Cards accepted
+327,157,Cash
+328,157,Cards accepted
+329,158,Cash
+330,158,Cards accepted
+331,159,Cash
+332,159,Cards accepted
+333,159,Wallet accepted
+334,160,Cash
+335,160,Cards accepted
+336,161,Cash
+337,161,Cards accepted
+338,162,Cash
+339,162,Cards accepted
+340,163,Cash
+341,163,Cards accepted
+342,164,Cash
+343,164,Cards accepted
+344,165,Cash
+345,165,Cards accepted
+346,166,Cash
+347,166,Cards accepted
+348,167,Cash
+349,167,Cards accepted
+350,167,Wallet accepted
+351,168,Cash
+352,168,Cards accepted
+353,169,Cash
+354,169,Cards accepted
+355,170,Cash
+356,170,Cards accepted
+357,170,Wallet accepted
+358,171,Cash
+359,171,Cards accepted
+360,172,Cash
+361,172,Cards accepted
+362,173,Cash
+363,173,Cards accepted
+364,174,Cash
+365,174,Cards accepted
+366,175,Cash
+367,175,Cards accepted
+368,176,Cards only
+369,177,Cash
+370,177,Cards accepted
+371,178,Cash
+372,178,Cards accepted
+373,178,Wallet accepted
+374,179,Cash
+375,179,Cards accepted
+376,180,Cash only
+377,181,Cash
+378,181,Cards accepted
+379,182,Cash
+380,182,Cards accepted
+381,183,Cash
+382,183,Cards accepted
+383,183,Wallet accepted
+384,184,Cash only
+385,185,Cash
+386,185,Cards accepted
+387,185,Wallet accepted
+388,186,Cash
+389,186,Cards accepted
+390,186,Wallet accepted
+391,187,Cash only
+392,188,Cash
+393,188,Cards accepted
+394,189,Cash only
+395,190,Cards only
+396,191,Cash
+397,191,Cards accepted
+398,192,Cash
+399,192,Cards accepted
+400,193,Cash
+401,193,Cards accepted
+402,194,Cash
+403,194,Cards accepted
+404,195,Cash
+405,195,Cards accepted
+406,195,Wallet accepted
+407,196,Cash
+408,196,Cards accepted
+409,197,Cash
+410,197,Cards accepted
+411,197,Wallet accepted
+412,198,Cash
+413,198,Cards accepted
+414,199,Cash
+415,199,Cards accepted
+416,200,Cash
+417,200,Debit Cards accepted
+418,200,Wallet accepted
+419,201,Cash
+420,201,Cards accepted
+421,202,Cash
+422,202,Cards accepted
+423,203,Cash
+424,203,Cards accepted
+425,204,Cash
+426,204,Cards accepted
+427,205,Cash
+428,205,Cards accepted
+429,206,Cash
+430,206,Cards accepted
+431,207,Cash
+432,207,Cards accepted
+433,208,Cash only
+434,208,Wallet accepted
+435,209,Cash
+436,209,Cards accepted
+437,210,Cash
+438,210,Cards accepted
+439,211,Cards only
+440,212,Cards only
+441,213,Cash
+442,213,Cards accepted
+443,214,Cash
+444,214,Cards accepted
+445,215,Cash
+446,215,Cards accepted
+447,216,Cash
+448,216,Cards accepted
+449,217,Cash
+450,217,Cards accepted
+451,218,Cash
+452,218,Cards accepted
+453,218,Wallet accepted
+454,219,Cash
+455,219,Cards accepted
+456,220,Cash
+457,220,Cards accepted
+458,221,Cash
+459,221,Cards accepted
+460,221,Wallet accepted
+461,222,Cash only
+462,223,Cash
+463,223,Cards accepted
+464,224,Cash
+465,224,Cards accepted
+466,225,Cash
+467,225,Cards accepted
+468,226,Cash
+469,226,Cards accepted
+470,226,Wallet accepted
+471,227,Cash
+472,227,Cards accepted
+473,228,Cash
+474,228,Cards accepted
+475,229,Cash
+476,229,Cards accepted
+477,229,Wallet accepted
+478,230,Cash
+479,230,Cards accepted
+480,231,Cash
+481,231,Cards accepted
+482,232,Cash
+483,232,Cards accepted
+484,233,Cash
+485,233,Cards accepted
+486,234,Cash
+487,234,Cards accepted
+488,235,Cash
+489,235,Cards accepted
+490,235,Wallet accepted
+491,236,Cash
+492,236,Cards accepted
+493,237,Cash
+494,237,Cards accepted
+495,238,Cash
+496,238,Cards accepted
+497,239,Cash
+498,239,Cards accepted
+499,240,Cash
+500,240,Cards accepted
+501,240,Wallet accepted
+502,241,Cash
+503,241,Cards accepted
+504,242,Cash
+505,242,Cards accepted
+506,243,Cash
+507,243,Cards accepted
+508,244,Cash
+509,244,Cards accepted
+510,245,Cash
+511,245,Cards accepted
+512,246,Cash
+513,246,Cards accepted
+514,247,Cash
+515,247,Cards accepted
+516,248,Cash
+517,248,Cards accepted
+518,249,Cash
+519,249,Cards accepted
+520,250,Cash
+521,250,Cards accepted
+522,251,Cash
+523,251,Cards accepted
+524,251,Wallet accepted
+525,252,Cash
+526,252,Cards accepted
+527,253,Cash
+528,253,Cards accepted
+529,254,Cash
+530,254,Cards accepted
+531,255,Cash
+532,255,Cards accepted
+533,256,Cash
+534,256,Cards accepted
+535,257,Cash
+536,257,Cards accepted
+537,258,Cash
+538,258,Cards accepted
+539,259,Cash
+540,259,Cards accepted
+541,260,Cash
+542,260,Cards accepted
+543,261,Cash
+544,261,Cards accepted
+545,262,Cash
+546,262,Cards accepted
+547,263,Cash
+548,263,Cards accepted
+549,264,Cash
+550,264,Cards accepted
+551,265,Cash
+552,265,Cards accepted
+553,266,Debit Cards accepted
+554,267,Cash
+555,267,Cards accepted
+556,268,Cash
+557,268,Cards accepted
+558,269,Cash
+559,269,Cards accepted
+560,270,Cash
+561,270,Cards accepted
+562,271,Cash only
+563,272,Cash
+564,272,Cards accepted
+565,273,Cash
+566,273,Meal Coupons accepted
+567,274,Cash
+568,274,Cards accepted
+569,275,Cash only
+570,276,Cash
+571,276,Cards accepted
+572,277,Cash
+573,277,Cards accepted
+574,278,Cash
+575,278,Cards accepted
+576,279,Cash
+577,279,Cards accepted
+578,280,Cash
+579,280,Cards accepted
+580,281,Cash
+581,281,Cards accepted
+582,282,Cash
+583,282,Cards accepted
+584,283,Cash
+585,283,Cards accepted
+586,284,Cash
+587,284,Cards accepted
+588,285,Cash
+589,285,Cards accepted
+590,286,Cash
+591,286,Cards accepted
+592,287,Cash
+593,287,Cards accepted
+594,288,Cash
+595,288,Cards accepted
+596,289,Cash
+597,289,Cards accepted
+598,290,Cash
+599,290,Cards accepted
+600,290,Wallet accepted
+601,291,Cash
+602,291,Cards accepted
+603,292,Cash
+604,292,Cards accepted
+605,293,Cash
+606,293,Cards accepted
+607,294,Cash
+608,294,Cards accepted
+609,295,Cash
+610,295,Cards accepted
+611,296,Cash
+612,296,Cards accepted
+613,297,Cash
+614,297,Cards
+615,297,Meal Coupons accepted
+616,298,Cash
+617,298,Cards accepted
+618,299,Cash
+619,299,Cards accepted
+620,299,Wallet accepted
+621,300,Cash
+622,300,Cards accepted
+623,301,Cash
+624,301,Cards accepted
+625,302,Cash
+626,302,Cards accepted
+627,303,Cash
+628,303,Cards accepted
+629,304,Cash
+630,304,Cards accepted
+631,304,Wallet accepted
+632,305,Cash
+633,305,Cards accepted
+634,305,Wallet accepted
+635,306,Cash
+636,306,Cards accepted
+637,307,Cash
+638,307,Cards accepted
+639,308,Cash
+640,308,Cards accepted
+641,309,Cash
+642,309,Cards accepted
+643,309,Wallet accepted
+644,310,Cash
+645,310,Cards accepted
+646,311,Cash
+647,311,Cards accepted
+648,312,Cash
+649,312,Cards accepted
+650,313,Cash
+651,313,Cards accepted
+652,313,Wallet accepted
+653,314,Cash
+654,314,Cards accepted
+655,315,Cash
+656,315,Cards accepted
+657,316,Cash
+658,316,Cards accepted
+659,317,Cash
+660,317,Cards accepted
+661,317,Wallet accepted
+662,318,Cards only
+663,319,Cash
+664,319,Cards accepted
+665,320,Cash only
+666,321,Cash
+667,321,Cards accepted
+668,321,Wallet accepted
+669,322,Cash
+670,322,Cards accepted
+671,323,Cash
+672,323,Cards accepted
+673,324,Cash
+674,324,Cards accepted
+675,325,Cash
+676,325,Cards accepted
+677,326,Cash
+678,326,Cards accepted
+679,326,Wallet accepted
+680,327,Cash
+681,327,Cards accepted
+682,328,Cash
+683,328,Cards accepted
+684,329,Cash
+685,329,Cards accepted
+686,330,Cash
+687,330,Cards accepted
+688,331,Cash
+689,331,Cards accepted
+690,332,Cash
+691,332,Cards accepted
+692,333,Cash
+693,333,Cards accepted
+694,334,Cash
+695,334,Cards accepted
+696,335,Cash
+697,335,Cards accepted
+698,336,Cash
+699,336,Cards accepted
+700,337,Cash
+701,337,Cards accepted
+702,338,Cash
+703,338,Cards accepted
+704,339,Cash
+705,339,Cards accepted
+706,340,Cash
+707,340,Cards accepted
+708,341,Cash
+709,341,Cards accepted
+710,342,Cash
+711,342,Cards accepted
+712,343,Cash
+713,343,Cards accepted
+714,344,Cash
+715,344,Cards accepted
+716,345,Cash
+717,345,Cards accepted
+718,346,Cash
+719,346,Cards accepted
+720,347,Cash
+721,347,Cards accepted
+722,348,Cash
+723,348,Cards accepted
+724,349,Cash
+725,349,Cards accepted
+726,350,Cash
+727,350,Cards accepted
+728,351,Cash
+729,351,Cards accepted
+730,351,Wallet accepted
+731,352,Cash
+732,352,Cards accepted
+733,353,Cash
+734,353,Cards accepted
+735,354,Cash
+736,354,Cards accepted
+737,355,Cash
+738,355,Cards accepted
+739,356,Cash
+740,356,Cards accepted
+741,357,Cash
+742,357,Cards accepted
+743,358,Cash
+744,358,Cards accepted
+745,359,Cash
+746,359,Cards accepted
+747,360,Cash
+748,360,Cards accepted
+749,361,Cash only
+750,362,Cards only
+751,363,Cash
+752,363,Cards accepted
+753,364,Cash only
+754,365,Cash
+755,365,Cards accepted
+756,366,Cash
+757,366,Cards accepted
+758,367,Cash
+759,367,Cards
+760,367,Meal Coupons accepted
+761,367,Wallet accepted
+762,368,Cash
+763,368,Cards accepted
+764,368,Wallet accepted
+765,369,Cash
+766,369,Cards accepted
+767,369,Wallet accepted
+768,370,Cash
+769,370,Cards accepted
+770,371,Cash
+771,371,Cards accepted
+772,372,Cash
+773,372,Cards accepted
+774,372,Wallet accepted
+775,373,Cash only
+776,374,Cash
+777,374,Cards accepted
+778,375,Cash
+779,375,Cards accepted
+780,376,Cash
+781,376,Cards accepted
+782,377,Cash
+783,377,Cards accepted
+784,377,Wallet accepted
+785,378,Cash
+786,378,Cards accepted
+787,379,Cash
+788,379,Cards accepted
+789,380,Cash
+790,380,Cards accepted
+791,381,Cash
+792,381,Cards accepted
+793,382,Cash only
+794,383,Cash
+795,383,Cards accepted
+796,384,Cash
+797,384,Cards accepted
+798,385,Cash
+799,385,Cards accepted
+800,386,Cash
+801,386,Cards accepted
+802,387,Cash
+803,387,Cards accepted
+804,388,Cash
+805,388,Cards accepted
+806,389,Cash
+807,389,Cards accepted
+808,390,Cash only
+809,391,Cash only
+810,392,Cash
+811,392,Cards accepted
+812,392,Wallet accepted
+813,393,Cash
+814,393,Cards accepted
+815,394,Cash
+816,394,Cards accepted
+817,395,Cash
+818,395,Cards accepted
+819,395,Wallet accepted
+820,396,Cash
+821,396,Cards accepted
+822,396,Wallet accepted
+823,397,Cash
+824,397,Cards accepted
+825,398,Cash
+826,398,Cards accepted
+827,398,Wallet accepted
+828,399,Cash
+829,399,Cards accepted
+830,400,Cash
+831,400,Cards accepted
+832,401,Cash
+833,401,Cards accepted
+834,402,Cash
+835,402,Cards accepted
+836,403,Cash
+837,403,Cards accepted
+838,404,Cash
+839,404,Cards accepted
+840,405,Cash
+841,405,Cards accepted
+842,405,Wallet accepted
+843,406,Cash
+844,406,Cards accepted
+845,407,Cash
+846,407,Cards accepted
+847,408,Cash
+848,408,Cards accepted
+849,409,Cash
+850,409,Cards accepted
+851,410,Cash
+852,410,Cards accepted
+853,411,Cash
+854,411,Cards accepted
+855,412,Cash
+856,412,Cards accepted
+857,413,Cash
+858,413,Cards accepted
+859,413,Wallet accepted
+860,414,Cash
+861,414,Cards accepted
+862,415,Cash
+863,415,Cards accepted
+864,416,Cash
+865,416,Cards accepted
+866,417,Cash
+867,417,Cards accepted
+868,417,Wallet accepted
+869,418,Cash only
+870,419,Cash only
+871,420,Cash
+872,420,Cards accepted
+873,420,Wallet accepted
+874,421,Cash
+875,421,Cards accepted
+876,421,Wallet accepted
+877,422,Cash
+878,422,Cards accepted
+879,423,Cash
+880,423,Cards accepted
+881,424,Cash
+882,424,Cards accepted
+883,425,Cash
+884,425,Cards accepted
+885,426,Cash
+886,426,Cards accepted
+887,427,Cash
+888,427,Cards accepted
+889,428,Cash
+890,428,Cards accepted
+891,429,Cash
+892,429,Cards accepted
+893,429,Wallet accepted
+894,430,Cash
+895,430,Cards accepted
+896,430,Wallet accepted
+897,431,Cash
+898,431,Cards accepted
+899,432,Cash
+900,432,Cards accepted
+901,433,Cash
+902,433,Cards accepted
+903,434,Cash
+904,434,Cards accepted
+905,435,Cash
+906,435,Cards accepted
+907,435,Wallet accepted
+908,436,Cash
+909,436,Cards accepted
+910,436,Wallet accepted
+911,437,Cash
+912,437,Cards accepted
+913,438,Cash
+914,438,Cards accepted
+915,439,Cards only
+916,440,Cash
+917,440,Cards accepted
+918,441,Cash only
+919,442,Cash
+920,442,Cards accepted
+921,443,Cash
+922,443,Cards accepted
+923,444,Cash
+924,444,Cards accepted
+925,445,Cash
+926,445,Cards accepted
+927,446,Cash
+928,446,Cards accepted
+929,447,Cash only
+930,448,Cash
+931,448,Cards accepted
+932,449,Cash
+933,449,Cards accepted
+934,450,Cash
+935,450,Cards accepted
+936,451,Cash only
+937,452,Cash
+938,452,Cards accepted
+939,453,Cash
+940,453,Cards accepted
+941,453,Wallet accepted
+942,454,Cash
+943,454,Cards accepted
+944,455,Cash
+945,455,Cards accepted
+946,456,Cash
+947,456,Cards accepted
+948,457,Cash only
+949,458,Cash
+950,458,Cards accepted
+951,459,Cash
+952,459,Cards accepted
+953,460,Cash
+954,460,Cards accepted
+955,461,Cash
+956,461,Cards accepted
+957,462,Cash
+958,462,Cards accepted
+959,462,Wallet accepted
+960,463,Cash
+961,463,Cards accepted
+962,463,Wallet accepted
+963,464,Cash
+964,464,Cards accepted
+965,465,Cash
+966,465,Cards accepted
+967,466,Cash
+968,466,Cards accepted
+969,467,Cash only
+970,468,Cash only
+971,468,Wallet accepted
+972,469,Cash
+973,469,Cards accepted
+974,470,Cash
+975,470,Cards accepted
+976,471,Cash
+977,471,Cards accepted
+978,472,Cash
+979,472,Cards accepted
+980,472,Wallet accepted
+981,473,Cash
+982,473,Cards accepted
+983,473,Wallet accepted
+984,474,Cash
+985,474,Cards accepted
+986,475,Cash
+987,475,Cards accepted
+988,476,Cash only
+989,477,Cash
+990,477,Cards accepted
+991,477,Wallet accepted
+992,478,Cash only
+993,479,Cash
+994,479,Cards accepted
+995,480,Cash only
+996,481,Cash only
+997,482,Cash
+998,482,Cards accepted
+999,482,Wallet accepted
+1000,483,Cash
+1001,483,Cards accepted
+1002,484,Cash only
+1003,485,Cash
+1004,485,Cards accepted
+1005,486,Cash
+1006,486,Cards accepted
+1007,487,Cash only
+1008,488,Cash
+1009,488,Cards accepted
+1010,489,Cash
+1011,489,Cards accepted
+1012,490,Cash
+1013,490,Cards accepted
+1014,491,Cash
+1015,491,Cards accepted
+1016,492,Cash
+1017,492,Cards accepted
+1018,493,Cash only
+1019,494,Cash
+1020,494,Cards accepted
+1021,495,Cash
+1022,495,Cards accepted
+1023,496,Cash
+1024,496,Cards
+1025,496,Meal Coupons accepted
+1026,496,Wallet accepted
+1027,497,Cash
+1028,497,Cards accepted
+1029,498,Cash
+1030,498,Cards accepted
+1031,499,Cash
+1032,499,Cards accepted
+1033,500,Cash
+1034,500,Cards accepted
+1035,501,Cash
+1036,501,Cards accepted
+1037,502,Cash
+1038,502,Cards accepted
+1039,503,Cash
+1040,503,Cards accepted
+1041,504,Cash
+1042,504,Cards accepted
+1043,505,Cash
+1044,505,Cards accepted
+1045,506,Cash
+1046,506,Cards accepted
+1047,507,Cash
+1048,507,Cards accepted
+1049,508,Cash
+1050,508,Cards accepted
+1051,508,Wallet accepted
+1052,509,Cash
+1053,509,Cards accepted
+1054,510,Cash
+1055,510,Cards accepted
+1056,511,Cash
+1057,511,Cards accepted
+1058,512,Cash
+1059,512,Cards accepted
+1060,513,Cash
+1061,513,Cards accepted
+1062,514,Cash only
+1063,515,Cash
+1064,515,Cards accepted
+1065,516,Cash
+1066,516,Cards accepted
+1067,517,Cash
+1068,517,Cards
+1069,517,Meal Coupons accepted
+1070,517,Wallet accepted
+1071,518,Cash
+1072,518,Cards accepted
+1073,519,Cash only
+1074,520,Cash
+1075,520,Cards
+1076,520,Meal Coupons accepted
+1077,521,Cash only
+1078,522,Cash
+1079,522,Cards accepted
+1080,522,Wallet accepted
+1081,523,Cash
+1082,523,Cards accepted
+1083,523,Wallet accepted
+1084,524,Cash
+1085,524,Cards accepted
+1086,525,Cash
+1087,525,Cards accepted
+1088,526,Cash
+1089,526,Cards accepted
+1090,526,Wallet accepted
+1091,527,Cash
+1092,527,Cards accepted
+1093,528,Cash
+1094,528,Cards accepted
+1095,529,Cash
+1096,529,Cards accepted
+1097,530,Cash
+1098,530,Cards accepted
+1099,530,Wallet accepted
+1100,531,Cash
+1101,531,Debit Cards accepted
+1102,531,Wallet accepted
+1103,532,Cash only
+1104,533,Cash
+1105,533,Cards accepted
+1106,534,Cash
+1107,534,Cards accepted
+1108,535,Cash
+1109,535,Cards accepted
+1110,536,Cash
+1111,536,Cards accepted
+1112,536,Wallet accepted
+1113,537,Cash only
+1114,538,Cash
+1115,538,Cards accepted
+1116,539,Cards only
+1117,540,Cash
+1118,540,Cards accepted
+1119,541,Cash
+1120,541,Cards accepted
+1121,542,Cash
+1122,542,Cards accepted
+1123,543,Cash
+1124,543,Cards accepted
+1125,543,Wallet accepted
+1126,544,Cash
+1127,544,Cards accepted
+1128,545,Cash only
+1129,547,Cash
+1130,547,Cards accepted
+1131,548,Cash
+1132,548,Cards accepted
+1133,549,Cash
+1134,549,Cards accepted
+1135,550,Cash
+1136,550,Cards accepted
+1137,551,Cash
+1138,551,Cards accepted
+1139,552,Cash
+1140,552,Debit Cards accepted
+1141,552,Wallet accepted
+1142,553,Cash
+1143,553,Cards accepted
+1144,554,Cash
+1145,554,Cards accepted
+1146,555,Cash only
+1147,556,Cash
+1148,556,Cards accepted
+1149,556,Wallet accepted
+1150,557,Cash
+1151,557,Cards accepted
+1152,558,Cash only
+1153,559,Cash
+1154,559,Cards accepted
+1155,560,Cash
+1156,560,Cards accepted
+1157,561,Cash
+1158,561,Cards accepted
+1159,561,Wallet accepted
+1160,562,Cash
+1161,562,Cards
+1162,562,Meal Coupons accepted
+1163,563,Cash
+1164,563,Cards accepted
+1165,564,Cash
+1166,564,Cards accepted
+1167,565,Cash
+1168,565,Cards accepted
+1169,566,Cash
+1170,566,Cards accepted
+1171,567,Cash only
+1172,568,Cash
+1173,568,Cards accepted
+1174,569,Cash
+1175,569,Cards accepted
+1176,570,Cash
+1177,570,Cards accepted
+1178,571,Cash
+1179,571,Cards accepted
+1180,572,Cash
+1181,572,Cards accepted
+1182,573,Cash
+1183,573,Cards accepted
+1184,574,Cash
+1185,574,Cards accepted
+1186,575,Cash
+1187,575,Cards accepted
+1188,575,Wallet accepted
+1189,576,Cash
+1190,576,Cards accepted
+1191,576,Wallet accepted
+1192,577,Cash
+1193,577,Cards
+1194,577,Meal Coupons accepted
+1195,578,Cash
+1196,578,Cards accepted
+1197,579,Cash
+1198,579,Cards accepted
+1199,580,Cash
+1200,580,Cards accepted
+1201,581,Cash
+1202,581,Cards accepted
+1203,582,Cash only
+1204,583,Cash
+1205,583,Cards accepted
+1206,584,Cash
+1207,584,Cards accepted
+1208,585,Cash
+1209,585,Debit Cards accepted
+1210,585,Wallet accepted
+1211,586,Cash
+1212,586,Cards accepted
+1213,587,Cash
+1214,587,Cards accepted
+1215,588,Cash
+1216,588,Cards accepted
+1217,589,Cash
+1218,589,Cards accepted
+1219,589,Wallet accepted
+1220,590,Cash only
+1221,591,Cash
+1222,591,Cards accepted
+1223,592,Cash
+1224,592,Cards accepted
+1225,593,Cash
+1226,593,Cards accepted
+1227,593,Wallet accepted
+1228,594,Cash only
+1229,595,Cash
+1230,595,Cards accepted
+1231,596,Cash
+1232,596,Cards accepted
+1233,597,Cash
+1234,597,Cards accepted
+1235,598,Cash
+1236,598,Cards accepted
+1237,599,Cash
+1238,599,Cards accepted
+1239,600,Cash
+1240,600,Cards accepted
+1241,601,Cash
+1242,601,Cards accepted
+1243,602,Cash
+1244,602,Cards accepted
+1245,603,Cash
+1246,603,Cards accepted
+1247,604,Cash
+1248,604,Cards accepted
+1249,605,Cash
+1250,605,Cards accepted
+1251,606,Cash
+1252,606,Cards accepted
+1253,607,Cards only
+1254,608,Cash
+1255,608,Cards accepted
+1256,609,Cash
+1257,609,Cards
+1258,609,Meal Coupons accepted
+1259,609,Wallet accepted
+1260,610,Cash
+1261,610,Cards accepted
+1262,611,Cash
+1263,611,Cards accepted
+1264,612,Cash
+1265,612,Cards accepted
+1266,613,Cash
+1267,613,Cards accepted
+1268,614,Cash
+1269,614,Cards accepted
+1270,614,Wallet accepted
+1271,615,Cash
+1272,615,Cards accepted
+1273,616,Cash
+1274,616,Cards
+1275,616,Meal Coupons accepted
+1276,617,Cash
+1277,617,Cards accepted
+1278,617,Wallet accepted
+1279,618,Cash
+1280,618,Cards accepted
+1281,619,Cash only
+1282,619,Wallet accepted
+1283,620,Cash
+1284,620,Cards accepted
+1285,621,Cash
+1286,621,Cards accepted
+1287,622,Cash
+1288,622,Cards accepted
+1289,623,Cash
+1290,623,Cards accepted
+1291,624,Cash only
+1292,625,Cash
+1293,625,Cards accepted
+1294,620,Cash only
+1295,620,Wallet accepted
+1296,627,Cash
+1297,627,Cards accepted
+1298,628,Cash only
+1299,628,Wallet accepted
+1300,629,Cash
+1301,629,Cards accepted
+1302,630,Cash
+1303,630,Cards accepted
+1304,630,Wallet accepted
+1305,631,Cash
+1306,631,Cards
+1307,631,Meal Coupons accepted
+1308,631,Wallet accepted
+1309,632,Cash
+1310,632,Cards accepted
+1311,632,Wallet accepted
+1312,633,Cash
+1313,633,Cards accepted
+1314,634,Cash
+1315,634,Cards accepted
+1316,635,Cash
+1317,635,Cards accepted
+1318,635,Wallet accepted
+1319,636,Cash
+1320,636,Cards accepted
+1321,637,Cash
+1322,637,Cards accepted
+1323,638,Cash
+1324,638,Cards accepted
+1325,639,Cash only
+1326,640,Cash
+1327,640,Cards accepted
+1328,641,Cash
+1329,641,Cards accepted
+1330,642,Cash
+1331,642,Debit Cards accepted
+1332,643,Cash
+1333,643,Cards accepted
+1334,644,Cash
+1335,644,Cards accepted
+1336,645,Cash
+1337,645,Cards accepted
+1338,646,Cards only
+1339,647,Cash
+1340,647,Cards
+1341,647,Meal Coupons accepted
+1342,647,Wallet accepted
+1343,648,Cash
+1344,648,Cards accepted
+1345,649,Cash only
+1346,651,Cards only
+1347,652,Cash
+1348,652,Cards accepted
+1349,653,Cash
+1350,653,Cards accepted
+1351,654,Cash
+1352,654,Cards accepted
+1353,654,Wallet accepted
+1354,655,Cash
+1355,655,Cards accepted
+1356,655,Wallet accepted
+1357,656,Cash
+1358,656,Cards accepted
+1359,656,Wallet accepted
+1360,657,Cash
+1361,657,Cards accepted
+1362,658,Cash
+1363,658,Cards accepted
+1364,659,Cash
+1365,659,Cards accepted
+1366,660,Cash
+1367,660,Cards accepted
+1368,661,Cash
+1369,661,Cards accepted
+1370,662,Cash
+1371,662,Cards accepted
+1372,663,Cash
+1373,663,Cards accepted
+1374,663,Wallet accepted
+1375,664,Cash
+1376,664,Cards accepted
+1377,664,Wallet accepted
+1378,665,Cash
+1379,665,Cards accepted
+1380,665,Wallet accepted
+1381,666,Cards only
+1382,667,Cash
+1383,667,Cards accepted
+1384,667,Wallet accepted
+1385,668,Cash
+1386,668,Cards accepted
+1387,669,Cash
+1388,669,Cards accepted
+1389,670,Cash
+1390,670,Cards accepted
+1391,671,Cash
+1392,671,Cards accepted
+1393,673,Cards only
+1394,674,Cash
+1395,674,Cards accepted
+1396,675,Cash
+1397,675,Cards accepted
+1398,676,Cash
+1399,676,Cards accepted
+1400,677,Cash only
+1401,678,Cash
+1402,678,Cards accepted
+1403,679,Cash
+1404,679,Cards accepted
+1405,680,Cash
+1406,680,Cards accepted
+1407,680,Wallet accepted
+1408,681,Cash
+1409,681,Cards accepted
+1410,681,Wallet accepted
+1411,682,Cash
+1412,682,Debit Cards accepted
+1413,683,Cash
+1414,683,Cards accepted
+1415,684,Cash
+1416,684,Cards accepted
+1417,685,Cash
+1418,685,Cards
+1419,685,Meal Coupons accepted
+1420,686,Cash
+1421,686,Debit Cards accepted
+1422,687,Cash
+1423,687,Cards accepted
+1424,688,Cash
+1425,688,Cards accepted
+1426,689,Cards
+1427,689,Meal Coupons accepted
+1428,690,Cash
+1429,690,Cards accepted
+1430,690,Wallet accepted
+1431,691,Cash
+1432,691,Cards accepted
+1433,691,Wallet accepted
+1434,692,Cash only
+1435,692,Wallet accepted
+1436,693,Cash
+1437,693,Cards accepted
+1438,693,Wallet accepted
+1439,694,Cash
+1440,694,Cards accepted
+1441,695,Cash
+1442,695,Cards accepted
+1443,696,Cash
+1444,696,Cards accepted
+1445,696,Wallet accepted
+1446,697,Cash
+1447,697,Cards accepted
+1448,698,Cash
+1449,698,Cards accepted
+1450,698,Wallet accepted
+1451,699,Cash only
+1452,700,Cash
+1453,700,Cards accepted
+1454,700,Wallet accepted
+1455,701,Cash
+1456,701,Cards accepted
+1457,701,Wallet accepted
+1458,702,Cash
+1459,702,Cards accepted
+1460,703,Cash
+1461,703,Cards accepted
+1462,704,Cash
+1463,704,Cards
+1464,704,Meal Coupons accepted
+1465,705,Cash
+1466,705,Cards accepted
+1467,705,Wallet accepted
+1468,706,Cash
+1469,706,Cards accepted
+1470,707,Cash
+1471,707,Cards accepted
+1472,708,Cash
+1473,708,Cards accepted
+1474,709,Cash
+1475,709,Cards accepted
+1476,709,Wallet accepted
+1477,710,Cash
+1478,710,Cards accepted
+1479,711,Cash only
+1480,712,Cash
+1481,712,Cards accepted
+1482,713,Cash
+1483,713,Cards accepted
+1484,714,Cash
+1485,714,Cards accepted
+1486,714,Wallet accepted
+1487,715,Cash
+1488,715,Cards accepted
+1489,716,Cash
+1490,716,Cards accepted
+1491,717,Cash
+1492,717,Cards accepted
+1493,718,Cash
+1494,718,Cards accepted
+1495,719,Cash
+1496,719,Cards accepted
+1497,719,Wallet accepted
+1498,720,Cash
+1499,720,Cards accepted
+1500,721,Cash
+1501,721,Cards
+1502,721,Meal Coupons accepted
+1503,722,Cash
+1504,722,Cards accepted
+1505,723,Cash
+1506,723,Cards accepted
+1507,724,Cash
+1508,724,Cards accepted
+1509,725,Cash
+1510,725,Cards accepted
+1511,726,Cash
+1512,726,Cards accepted
+1513,727,Cash
+1514,727,Cards accepted
+1515,728,Cash
+1516,728,Cards accepted
+1517,729,Cash
+1518,729,Cards accepted
+1519,730,Cards only
+1520,732,Cash
+1521,732,Debit Cards accepted
+1522,733,Cash only
+1523,734,Cash
+1524,734,Cards accepted
+1525,734,Wallet accepted
+1526,735,Cash
+1527,735,Cards accepted
+1528,736,Cash
+1529,736,Cards accepted
+1530,737,Cash
+1531,737,Cards accepted
+1532,738,Cash
+1533,738,Cards accepted
+1534,739,Cash
+1535,739,Cards accepted
+1536,739,Wallet accepted
+1537,740,Cash
+1538,740,Cards accepted
+1539,740,Wallet accepted
+1540,741,Cash
+1541,741,Cards accepted
+1542,742,Cash
+1543,742,Cards accepted
+1544,742,Wallet accepted
+1545,743,Cards only
+1546,744,Cash
+1547,744,Cards accepted
+1548,744,Wallet accepted
+1549,745,Cash
+1550,745,Cards accepted
+1551,745,Wallet accepted
+1552,746,Cash
+1553,746,Cards accepted
+1554,747,Cash only
+1555,748,Cash
+1556,748,Cards accepted
+1557,749,Cash
+1558,749,Cards accepted
+1559,750,Cash
+1560,750,Cards accepted
+1561,751,Cash
+1562,751,Cards accepted
+1563,752,Cash
+1564,752,Cards accepted
+1565,753,Cash
+1566,753,Cards accepted
+1567,754,Cash only
+1568,755,Cards only
+1569,756,Cash
+1570,756,Cards accepted
+1571,757,Cash
+1572,757,Cards accepted
+1573,758,Cash
+1574,758,Cards accepted
+1575,759,Cash only
+1576,760,Cash
+1577,760,Cards accepted
+1578,760,Wallet accepted
+1579,761,Cash
+1580,761,Cards accepted
+1581,762,Cash
+1582,762,Cards accepted
+1583,763,Cash
+1584,763,Cards accepted
+1585,764,Cash
+1586,764,Cards accepted
+1587,765,Cash
+1588,765,Cards accepted
+1589,766,Cash
+1590,766,Cards accepted
+1591,767,Cash
+1592,767,Cards accepted
+1593,768,Cash
+1594,768,Cards accepted
+1595,769,Cash
+1596,769,Debit Cards accepted
+1597,770,Cards only
+1598,771,Cash only
+1599,772,Cash
+1600,772,Cards accepted
+1601,773,Cash
+1602,773,Cards accepted
+1603,774,Cash
+1604,774,Cards accepted
+1605,774,Wallet accepted
+1606,775,Cash
+1607,775,Cards accepted
+1608,775,Wallet accepted
+1609,776,Cash
+1610,776,Cards accepted
+1611,776,Wallet accepted
+1612,777,Cash
+1613,777,Cards accepted
+1614,778,Cards only
+1615,778,Wallet accepted
+1616,779,Cash
+1617,779,Cards accepted
+1618,780,Cash
+1619,780,Cards accepted
+1620,781,Debit Cards accepted
+1621,782,Cash
+1622,782,Cards
+1623,782,Meal Coupons accepted
+1624,783,Cash
+1625,783,Cards accepted
+1626,784,Cash
+1627,784,Cards accepted
+1628,784,Wallet accepted
+1629,785,Cash
+1630,785,Cards accepted
+1631,786,Cash
+1632,786,Cards accepted
+1633,787,Cash
+1634,787,Cards accepted
+1635,787,Wallet accepted
+1636,788,Cash
+1637,788,Cards accepted
+1638,788,Wallet accepted
+1639,789,Cash
+1640,789,Cards accepted
+1641,790,Cash
+1642,790,Cards accepted
+1643,791,Cash
+1644,791,Cards accepted
+1645,792,Cash
+1646,792,Cards accepted
+1647,793,Cash
+1648,793,Cards accepted
+1649,794,Cash
+1650,794,Cards accepted
+1651,795,Cash
+1652,795,Cards accepted
+1653,796,Cash
+1654,796,Cards accepted
+1655,797,Cash
+1656,797,Cards accepted
+1657,797,Wallet accepted
+1658,798,Cash
+1659,798,Cards accepted
+1660,798,Wallet accepted
+1661,799,Cash
+1662,799,Cards accepted
+1663,800,Cash
+1664,800,Cards accepted
+1665,801,Cash
+1666,801,Cards accepted
+1667,801,Wallet accepted
+1668,802,Cash
+1669,802,Cards accepted
+1670,803,Cash
+1671,803,Cards accepted
+1672,804,Cash
+1673,804,Cards accepted
+1674,805,Cash only
+1675,806,Cash
+1676,806,Cards accepted
+1677,807,Cash only
+1678,808,Cash
+1679,808,Cards accepted
+1680,809,Cash
+1681,809,Cards accepted
+1682,810,Cash
+1683,810,Cards accepted
+1684,811,Cards
+1685,811,Meal Coupons accepted
+1686,811,Wallet accepted
+1687,813,Cash
+1688,813,Cards accepted
+1689,814,Cash
+1690,814,Cards accepted
+1691,814,Wallet accepted
+1692,815,Cash
+1693,815,Cards accepted
+1694,816,Cash only
+1695,817,Cash
+1696,817,Cards accepted
+1697,818,Cash
+1698,818,Cards accepted
+1699,819,Cash only
+1700,820,Cash
+1701,820,Cards accepted
+1702,821,Cash only
+1703,821,Wallet accepted
+1704,822,Cash
+1705,822,Cards accepted
+1706,823,Cash
+1707,823,Cards accepted
+1708,824,Cash
+1709,824,Cards accepted
+1710,825,Cash
+1711,825,Cards
+1712,825,Meal Coupons accepted
+1713,826,Cash only
+1714,827,Cash
+1715,827,Cards accepted
+1716,828,Cash
+1717,828,Cards accepted
+1718,828,Wallet accepted
+1719,829,Cash
+1720,829,Cards accepted
+1721,829,Wallet accepted
+1722,830,Cash
+1723,830,Cards accepted
+1724,831,Cash
+1725,831,Cards accepted
+1726,832,Cash
+1727,832,Cards accepted
+1728,832,Wallet accepted
+1729,833,Cash
+1730,833,Cards accepted
+1731,834,Cash
+1732,834,Cards accepted
+1733,835,Cash only
+1734,836,Cash only
+1735,837,Cash
+1736,837,Cards accepted
+1737,838,Cash
+1738,838,Cards accepted
+1739,838,Wallet accepted
+1740,839,Cash
+1741,839,Cards accepted
+1742,840,Cash
+1743,840,Cards accepted
+1744,841,Cash
+1745,841,Cards accepted
+1746,842,Cash
+1747,842,Cards accepted
+1748,843,Cash
+1749,843,Cards accepted
+1750,844,Cash
+1751,844,Cards accepted
+1752,845,Cash
+1753,845,Cards accepted
+1754,846,Cash
+1755,846,Cards accepted
+1756,847,Cash
+1757,847,Cards accepted
+1758,848,Cash
+1759,848,Cards accepted
+1760,850,Cash
+1761,850,Cards accepted
+1762,852,Cash
+1763,852,Cards accepted
+1764,852,Wallet accepted
+1765,856,Cash only
+1766,857,Cash
+1767,857,Cards accepted
+1768,857,Wallet accepted
+1769,858,Cash
+1770,858,Cards accepted
+1771,858,Wallet accepted
+1772,859,Cash
+1773,859,Cards accepted
+1774,860,Cash only
+1775,860,Wallet accepted
+1776,861,Cash
+1777,861,Cards accepted
+1778,862,Cash only
+1779,863,Cash only
+1780,863,Wallet accepted
+1781,864,Cash
+1782,864,Cards accepted
+1783,865,Cash
+1784,865,Cards accepted
+1785,866,Cash
+1786,866,Cards accepted
+1787,867,Cash
+1788,867,Cards accepted
+1789,868,Cash
+1790,868,Cards accepted
+1791,868,Wallet accepted
+1792,869,Cash
+1793,869,Cards accepted
+1794,870,Cash
+1795,870,Cards accepted
+1796,871,Cards only
+1797,872,Cash
+1798,872,Cards accepted
+1799,873,Cards only
+1800,874,Cash
+1801,874,Cards accepted
+1802,875,Cash only
+1803,876,Cash only
+1804,877,Cash only
+1805,879,Cash
+1806,879,Cards accepted
+1807,879,Wallet accepted
+1808,880,Cash only
+1809,880,Wallet accepted
+1810,881,Cash only
+1811,884,Cash
+1812,884,Cards accepted
+1813,885,Cash only
+1814,886,Cash
+1815,886,Cards accepted
+1816,887,Cash
+1817,887,Cards accepted
+1818,888,Cash
+1819,888,Cards accepted
+1820,889,Cash
+1821,889,Cards accepted
+1822,890,Cash
+1823,890,Cards accepted
+1824,890,Wallet accepted
+1825,891,Cash
+1826,891,Cards accepted
+1827,892,Cash
+1828,892,Cards accepted
+1829,892,Wallet accepted
+1830,893,Cash
+1831,893,Cards accepted
+1832,894,Cash only
+1833,895,Cash
+1834,895,Cards accepted
+1835,896,Cash
+1836,896,Cards accepted
+1837,897,Cash
+1838,897,Cards accepted
+1839,897,Wallet accepted
+1840,898,Cash
+1841,898,Cards accepted
+1842,898,Wallet accepted
+1843,900,Cash
+1844,900,Cards accepted
+1845,901,Cash
+1846,901,Cards accepted
+1847,902,Cash
+1848,902,Cards accepted
+1849,903,Cash
+1850,903,Cards accepted
+1851,904,Cash
+1852,904,Cards accepted
+1853,905,Cash only
+1854,906,Cash
+1855,906,Cards accepted
+1856,906,Wallet accepted
+1857,907,Cash
+1858,907,Cards accepted
+1859,908,Cash
+1860,908,Cards accepted
+1861,909,Cash only
+1862,909,Wallet accepted
+1863,910,Cash
+1864,910,Cards accepted
+1865,911,Cash
+1866,911,Cards accepted
+1867,911,Wallet accepted
+1868,912,Cash
+1869,912,Cards accepted
+1870,913,Cash
+1871,913,Cards
+1872,913,Meal Coupons accepted
+1873,914,Cash
+1874,914,Cards accepted
+1875,915,Cash
+1876,915,Cards accepted
+1877,916,Cash
+1878,916,Cards accepted
+1879,917,Cash
+1880,917,Cards accepted
+1881,918,Cash
+1882,918,Cards accepted
+1883,918,Wallet accepted
+1884,919,Cash
+1885,919,Cards accepted
+1886,920,Cash
+1887,920,Cards accepted
+1888,921,Cash
+1889,921,Cards accepted
+1890,922,Cash
+1891,922,Cards accepted
+1892,923,Cash
+1893,923,Cards accepted
+1894,924,Cash
+1895,924,Meal Coupons accepted
+1896,924,Wallet accepted
+1897,925,Cash
+1898,925,Cards accepted
+1899,925,Wallet accepted
+1900,926,Cash
+1901,926,Cards accepted
+1902,928,Cash
+1903,928,Cards accepted
+1904,928,Wallet accepted
+1905,929,Cash
+1906,929,Cards accepted
+1907,931,Cash
+1908,931,Cards accepted
+1909,932,Cash only
+1910,933,Cash
+1911,933,Cards accepted
+1912,933,Wallet accepted
+1913,934,Cash
+1914,934,Cards accepted
+1915,934,Wallet accepted
+1916,935,Cash
+1917,935,Cards accepted
+1918,936,Cash
+1919,936,Cards accepted
+1920,937,Cash
+1921,937,Cards accepted
+1922,937,Wallet accepted
+1923,938,Cash
+1924,938,Cards accepted
+1925,938,Wallet accepted
+1926,939,Cash
+1927,939,Cards accepted
+1928,940,Cash only
+1929,942,Cash
+1930,942,Cards accepted
+1931,942,Wallet accepted
+1932,943,Cash
+1933,943,Cards accepted
+1934,944,Cash
+1935,944,Cards accepted
+1936,945,Cash
+1937,945,Cards accepted
+1938,945,Wallet accepted
+1939,946,Cash
+1940,946,Cards accepted
+1941,947,Cash only
+1942,948,Cash
+1943,948,Cards accepted
+1944,949,Cash
+1945,949,Cards
+1946,949,Meal Coupons accepted
+1947,950,Cash
+1948,950,Cards accepted
+1949,951,Cash
+1950,951,Cards accepted
+1951,951,Wallet accepted
+1952,952,Cash
+1953,952,Cards accepted
+1954,953,Cash
+1955,953,Cards accepted
+1956,954,Cash
+1957,954,Cards accepted
+1958,955,Cash
+1959,955,Cards accepted
+1960,956,Cash only
+1961,957,Cash
+1962,957,Cards accepted
+1963,958,Cash
+1964,958,Cards accepted
+1965,959,Cash
+1966,959,Cards accepted
+1967,960,Cash
+1968,960,Cards accepted
+1969,961,Cash
+1970,961,Cards
+1971,961,Meal Coupons accepted
+1972,961,Wallet accepted
+1973,962,Cash
+1974,962,Cards accepted
+1975,963,Cash
+1976,963,Cards
+1977,963,Meal Coupons accepted
+1978,964,Cash only
+1979,964,Wallet accepted
+1980,965,Cash only
+1981,966,Cash only
+1982,967,Cash only
+1983,968,Cash
+1984,968,Cards accepted
+1985,968,Wallet accepted
+1986,969,Cash
+1987,969,Cards accepted
+1988,971,Cash
+1989,971,Cards accepted
+1990,972,Cash
+1991,972,Cards accepted
+1992,973,Cash
+1993,973,Cards accepted
+1994,974,Cash
+1995,974,Cards accepted
+1996,975,Cash only
+1997,976,Cash
+1998,976,Cards accepted
+1999,977,Cash
+2000,977,Cards
+2001,977,Meal Coupons accepted
+2002,978,Cash
+2003,978,Cards accepted
+2004,979,Cash
+2005,979,Cards accepted
+2006,980,Cash
+2007,980,Cards accepted
+2008,980,Wallet accepted
+2009,981,Cash
+2010,981,Cards accepted
+2011,982,Cash
+2012,982,Cards accepted
+2013,983,Cash
+2014,983,Cards accepted
+2015,984,Cash only
+2016,985,Cash
+2017,985,Cards accepted
+2018,986,Cash only
+2019,987,Cash only
+2020,987,Wallet accepted
+2021,988,Cash
+2022,988,Cards accepted
+2023,989,Cash
+2024,989,Cards accepted
+2025,990,Cash only
+2026,991,Cash
+2027,991,Cards accepted
+2028,992,Cash
+2029,992,Cards accepted
+2030,993,Cash
+2031,993,Cards accepted
+2032,993,Wallet accepted
+2033,994,Cash
+2034,994,Cards accepted
+2035,995,Cards only
+2036,996,Cash
+2037,996,Cards accepted
+2038,997,Cash
+2039,997,Cards accepted
+2040,998,Cash
+2041,998,Cards accepted
+2042,999,Cash
+2043,999,Cards accepted
+2044,1001,Cash
+2045,1001,Cards accepted
+2046,1002,Cash
+2047,1002,Cards accepted
+2048,1003,Cash
+2049,1003,Cards accepted
+2050,1004,Cash
+2051,1004,Cards accepted
+2052,1005,Cash only
+2053,1006,Cash only
+2054,1007,Cash
+2055,1007,Cards accepted
+2056,1008,Cards only
+2057,1011,Cash
+2058,1011,Cards accepted
+2059,1012,Cash
+2060,1012,Cards accepted
+2061,1013,Cash
+2062,1013,Cards accepted
+2063,1014,Cash
+2064,1014,Cards accepted
+2065,1015,Cash
+2066,1015,Cards accepted
+2067,1015,Wallet accepted
+2068,1016,Cash
+2069,1016,Cards accepted
+2070,1016,Wallet accepted
+2071,1017,Cash
+2072,1017,Cards accepted
+2073,1018,Cash
+2074,1018,Cards accepted
+2075,1019,Cash
+2076,1019,Cards accepted
+2077,1020,Cash only
+2078,1020,Wallet accepted
+2079,1021,Cash only
+2080,1022,Cash
+2081,1022,Cards accepted
+2082,1023,Cash
+2083,1023,Cards accepted
+2084,1024,Cash
+2085,1024,Cards accepted
+2086,1025,Cash
+2087,1025,Cards accepted
+2088,1026,Cash
+2089,1026,Cards accepted
+2090,1027,Cash
+2091,1027,Cards accepted
+2092,1028,Cards only
+2093,1030,Cards only
+2094,1031,Cash
+2095,1031,Cards accepted
+2096,1033,Cash
+2097,1033,Cards accepted
+2098,1034,Cash
+2099,1034,Cards accepted

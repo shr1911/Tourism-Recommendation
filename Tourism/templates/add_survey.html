@@ -1,0 +1,41 @@
+
+
+{% block content %}
+  <h2>User Profile</h2>
+  {{user.id}}
+  <form method="post" action = {% url 'explore' user.id %} >
+    {% csrf_token %}
+    {{ form.home_delivery.label_tag }}
+    {{ form.home_delivery }}
+    <br>
+	<br>
+	<br>
+    {{ form.smoking.label_tag }}
+    {{ form.smoking }}
+    <br>
+    <br>
+    <br>
+    {{ form.alcohol.label_tag }}
+    {{ form.alcohol }}
+    <br>
+    <br>
+    <br>
+    {{ form.wifi.label_tag }}
+    {{ form.wifi }}
+    <br>
+    <br>
+    <br>
+    {{ form.valetparking.label_tag }}
+    {{ form.valetparking }}
+	<br>
+	<br>
+	<br>
+    {{ form.rooftop.label_tag }}
+    {{ form.rooftop }}
+    <br>
+	<br>
+	<br>
+
+    <button type="submit">Submit</button>
+  </form>
+{% endblock %}
